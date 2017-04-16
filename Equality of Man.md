@@ -275,3 +275,50 @@ I get why some of them come to think here.
 I can hear myself think."*
 
 And the nurse left the empty room.
+
+_____
+
+![What was that?](http://i.imgur.com/YJQQ4n3.png)
+
+# Explanation time
+I hope I made you wonder :)
+
+#### Why did you write it?
+
+I went for a run the other day with the question *"Are we all equal?"* in mind. 
+And somehow this came out.
+
+#### Are we all equal then?
+That is for you to ponder. 
+
+* Are you more worth than someone else? 
+* And are you less worth than others?
+* Should we all have a value describing what we are worth?
+
+#### Who did the doctor save?
+I don't know, and that is besides the point.
+She didn't think she chose right to begin with, because she got new information afterwards that could have shifted her choice. 
+But to which side? And was it back again?
+
+#### Who was she talking to?
+Perhaps explained better by saying it was a praying room she was in.
+So the one she was talking to was God.
+
+She had an awful long conversation with Him in her head, questioning why she had to make such an awful choice. 
+And all the answers given to her, was Him (/her) reasoning with her (/herself).
+
+#### So God despised Frederic?
+Well, this wasn't just any Frederic - his name (in this story) is Frederic Nietz, which is short for the German philosopher [Friedrich Nietsche](https://www.wikiwand.com/en/God_is_dead) who's quoted for the phrase *'God is dead... and we killed him'*.
+
+Basically, Frederic lost faith in God, and tried to explain this to everyone else from his state of being.
+I think God would want mankind to success, which Marcus did so well, but only small steps at the time, while Frederic could make lots of people push aside a belief they might not really believe in (including the doctor?), thereby allowing them to advance. 
+But that would be away from believing in Him...
+
+#### Marcus sounds familiar
+Well, I couldn't call him 'Jesus', since that would be too obvious, but he did some of the things Jesus was [said to have done](https://www.wikiwand.com/en/Miracles_of_Jesus#/Cures)  - curing blind people, paralyzed people, and muted people.
+
+And so *Marcus* was the next best thing.
+
+#### What picture did Frederic paint?
+I am not aware that it's a real painting - I've never seen it or had it described. 
+The initial idea was only 'say more than a thousand words'.
