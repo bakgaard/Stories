@@ -270,8 +270,8 @@ As the nurse entered, the dim light showed the small benches lined up on each si
 There was room for perhaps 20 people in here, and the small table with a cross upon stood at the end of the small room.
 The two journals lay open on the left side, showing pictures of some medals and some paintings.
 The nurse scooped them up, and looked around.
-"Well, it sure is quiet in here. 
+*"Well, it sure is quiet in here. 
 I get why some of them come to think here. 
-I can hear myself think."
+I can hear myself think."*
 
 And the nurse left the empty room.
