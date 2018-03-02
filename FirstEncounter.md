@@ -2,41 +2,41 @@
 
 The face of Sergeant Wolashni was a picture worthy, as he starred at the enormous spaceship that had jumped out of hyperspace just seconds before.
 They had picked up *something* on multiple scanning devices just before that, but there had been no obvious pattern to any of it.
-They knew it wasn't anything humans had designed, cause none of the signals could be translated to anything useful, so when the sergeant had looked out the windows to wonder what it could be, he had not in his wildest imagination thought it wouldn't be themselves that would try tracking down the source, but the source coming to the them. 
+They knew it wasn't anything humans had designed, cause none of the signals could be translated to anything useful, so when the sergeant had looked out the windows to wonder what it could be, he had not in his wildest imagination thought it wouldn't be themselves that would try tracking down the source, but the source coming to them. 
 
 "Se-Se... Second Lieutenant... " Wolashni stuttered.
 
 Deeply absorbed in the blinking screens, Second Lieutenant Jensen didn't move her attention in his direction, but kept tapping different points on the displays.
 
-"I'm trying to make sense of these signals, sergeant. Perhaps you wouldn't mind giving me a hand?" came the reply quite sternly.
+"I'm trying to make sense of this signals, sergeant. Perhaps you wouldn't mind giving me a hand?" came the reply a bit annoyed.
 
 Wolashni considered the multiple witty comebacks she had warned him, on several occasions, to never make any of again. 
+He almost always had a great comeback, at least according to himself, but right now he didn't really knew how to phrase one. 
 
 Jensen pulled a graph up on the big screen, and threw her hands in the air resigning. 
-
-"I don't get it!" she almost yelled. "The signal - the *exact same* signal - got sent with a 40 minutes delay, but the signal strength increased so much, it-" 
+"I don't get it!" she almost yelled. "The signal - the *exact same* signal - got sent with a 4 minutes delay, but the signal strength increased so much, it-" 
 
 "Could be right outside?" offered Wolashni, still in half shock of what he was starring at outside the 12 cm thick glass, separating the three man crew from the previous void and  empty space, and the now - at least - 100 times bigger spaceship looming no more than one or two clicks away.
 
-Jensen's eyes almost blazed with a fire she had kept at bay while Captain Wilson had still been able to commander the crew, but after he had passed the responsibility to the next in line, her, she no longer felt these comebacks should go with just verbal reminders.
+Jensen's eyes almost blazed with a fire she had kept at bay while Captain Wilson had still been able to commander the crew, but after he had passed the responsibility to the next in line, her, she no longer felt these undisciplined replies should go with just verbal reminders.
 
 She slowly started to turn, with her wide open nostrils as the only source of air, since her lips were pushed together to a thin line. 
 
-"Wolashni" she started slowly, with a voice so cold that it could have made ice taps from her breath alone. "Your impeccable timing of silly comebacks have at no point - not once - since we left the Mothership over 5 months ago, had any luck to cheer up any of the crew members on this vessel" she hissed out.
+"Wolashni" she started slowly, with a voice so cold it could have made ice taps from her breath alone. "Your impeccable timing of silly comebacks have at no point - not once - since we left the Mothership over 5 months ago, had any luck to cheer up any of the crew members on this vessel" she hissed out.
 Her gaze were somehow distant as she started to recall the impossibly stupid comments he had breathed in dire situations that could have killed them all - not due to the comments, but they always seems to follow grim situations.
 
 As her mind came to that realization, a chill went through her bones. "Did you loose a radio on your last walk outside, Wolashni, and the floating device is what I will see when I look outside?" Her eyes could have shot laser beams like those in comic books when her head finally locked in on Sergeant Wolashni's one foot taller figure. 
 
-As his own comprehension of the new situation became less surrealistic, he glanced back to his superior in command, tried to find the words needed to defend himself of an actual plausible accusation, but since he had no situation to relate this to, he had no comeback what so ever. 
+As his own comprehension of the new situation became less surrealistic, he glanced back to his superior in command, tried to find the words needed to defend himself of an actual plausible accusation, but since he had no situation to relate this to, he had nothing clever to say. 
 
 "N.. No..." he started, lifting his index finger out towards what multiple sources normally referred to as *First Encounter*.
 
 "It's ehh..." he continued, swallowing the spit which had gathered in his mouth.
-"It wor... bet... mm" - he could quite decide which of the two.
+"It wor... bet... mmm" - he couldn't quite decide which of the two.
 The Fleet had trained and drilled all for their cadets for hours and hours of how they should encounter new lifeforms. 
-And all of their training had been how humans found other life - not the other way around. 
-When a superior civilization would meet another less superior, history spoke with a clear voice of America, the romans, and the ancient Egyptians.
-The intend of the superior civilization usually dictated an outcome of the meeting. 
+And all of their training had been how humans found other lifeforms - not the other way around. 
+When a superior civilization would meet another less superior, history spoke with a clear voice of America's discovery, the romans, and the ancient Egyptians.
+The intend of the superior civilization usually dictated the outcome of the meeting. 
 And right now their own vessel looked like a peanut compared to what had emerged out of the bare nothing.
 
 "It's... that" he finally said slowly, while the Second Lieutenant made her way towards the large window with a now puzzled expression on her face. 
@@ -47,16 +47,16 @@ As she flabbergasted started to find words or action, Wolashni finally found his
 
 "I know, right?" he said giving his superior a light push with his elbow. 
 
-The Second Lieutenant had prepared her self for many things when she joined The Fleet, both physically and mentally.
+The Second Lieutenant had prepared herself for many things when she joined The Fleet, both physically and mentally.
 The Fleet had some sort of natural separation of gender - a lot like other military branches - where very few women would participate in the more "footwork heavy" jobs, but would rather have paper pushing duties or human relation matters to attend to.
 The way too energized flyboys flew out in the black void, reported back, and greater expeditions would be organized to investigate the reports. 
 
-The Second Lieutenant had her rank for a reason. It was earned through that footwork, her discipline, and her attention to details - the last something a whole lot of her colleagues would sometime skip on.
+The Second Lieutenant had her rank for a reason though. It was earned through that footwork, her discipline, and her attention to details - the last something a whole lot of her colleagues would sometime skip on.
 
 If Sergeant Wolashni had come up with the silly idea of capturing a picture of the Second Lieutenant, it wouldn't have been shock or fear he would have captured, but rather an expression of a person who was about to accomplish their biggest achievement.
 She had a look on her face which somehow reminded him of a comic book villain who just watched all of his convoluted schemes come to fruition, and everything that was planned to happen just ticked like clockwork.
 
-This expression lasted for about 3-4 seconds, before a new, and more concerned looking Second Lieutenant started worrying about the complications the Sergeant had run through his own mind just before - they had the same training after all.
+This expression lasted for about 3-4 seconds, before a new, and more concerned, look appeared, and Second Lieutenant started worrying about the complications the Sergeant had run through his own mind just before - they had the same training after all.
 
 "Sergeant" the Second Lieutenant said short and firmly, as she kept her eyes on the new situation outside their ship a few seconds longer. "Send Message 42A to Central with our coordinates, and request a Representation Delegation..." she glazed around the alien ship for exterior that seemed hostile. "... -B" she finished.
 
