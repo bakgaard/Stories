@@ -1,3 +1,5 @@
+# Chapter 1
+
 The face of Sergeant Wolashni was a picture worthy, as he starred at the enormous spaceship that had jumped out of hyperspace just seconds before. 
 They had picked up something on multiple scanning devices just before that, but there had been no obvious pattern to any of it. 
 They knew it wasn't anything humans had designed, cause none of the signals could be translated to anything useful, so when the sergeant had looked out the windows to wonder what it could be, he had not in his wildest imagination thought it wouldn't be themselves that would try tracking down the source, but the source coming to them.
