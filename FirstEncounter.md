@@ -168,3 +168,35 @@ When they had docked at the Mothership, they just flew up close enough, and they
 
 "Yahtzee" replied Jensen in a grumpy tone, her mind elsewhere. 
 They now had a First Encounter, and it was not going according to book.
+
+
+
+
+# Chapter 2 (Work in progress) 
+
+Jensen had no time to stand around waiting for whatever would come.
+Their ship was being pulled into the aliens', and they couldn't do squat about it.
+Jensen had a pretty good idea of what would happen when that happened, but right now she had a hard time preventing it from happening.
+
+As she turned towards her only living crew member, she saw a look on his face indicating he was not present at all. 
+
+"Wolashni" Jensen said with a tone you would only heard inside the military.
+It yanked him out of a thought he apparently couldn't have escaped, but only slowly.
+"... Sergeant - are you with me?" she continued, with a hint of worry in her voice.
+
+Wolashni eyes flickered for a second, as he looked up and around, before finally settling his focus on the direction the command had come from.
+
+"Jensen... Wha-" he started, before he was cut off.
+
+"Second Lieutenant Jensen" she cut in before continuing. 
+"And if we stick to ranks, you let me make decisions so that we both get out of this in one piece."
+It wasn't so much an order, as much as a reminder that they had their ranks for a reason.
+After the incident with Captain Miller, she had taken command of the vessel and shown she was more than capable of making the right decisions.
+
+The Sergeant swallowed before hardening himself, reminding him of exactly that.
+She hadn't let him down at any point up until now, and she was always two steps ahead of him when chaos surrounded them.
+
+"Right" he started.
+"I'm here. What do we do, Second Lieutenant?" came a much more firm, though very concerned reply.
+
+A small smile curled up on the right side of Jensen's face. 
