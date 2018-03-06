@@ -213,13 +213,14 @@ As she spoke she floated towards the bridge with the big window - their currentl
 "Ehm - no" replied Wolashni after a short moment.
 "I would send in a drone to get a look at them".
 
+
 "So would I, Sergeant. But we are still in here and the drone out there - separated by the ship's exterior. 
 What would you do about that?"
 
 This question was way harder - mostly because he didn't want the ship to be damaged, so they at some point could fly out of here.
 Wolashni bit himself in his lower lip while thinking of something but the obvious.
 
-"Well, going through the hatch seems unlikely - it's not exactly visible unless you know it's there, and if you to force it open you would destroy the mechanic since it has no power."
+"Well, going through the hatch seems unlikely - it's not exactly visible unless you know it's there, and if you were to force it open you would destroy the mechanic since it has no power."
 Wolashni looked up at Jensen who gave him a small nod before continuing.
 "Since they would be able to see us through the glass, they might conclude this will be the easiest way into the ship and break that somehow."
 
@@ -227,7 +228,7 @@ An equally bad option, since they couldn't just get a replacement for the window
 The concern was all over Wolashni's face, but as he looked to the Second Lieutenant there was none to see.
 
 "Correct on both statements, Sergeant" she began.
-"Let's say, again, you captured this new lifeforms, they had just started to fly away before you disabled their engine, and you *don't* want to rip their ship apart.
+"Let's say, again, you found this new lifeforms, they had just started to fly away before you disabled their engine, and you *don't* want to rip their ship apart.
 What options does that leave you with?"
 She was now all the way up at the window to inspect the situation more closely.
 
@@ -239,4 +240,17 @@ What other options were there?
 Second Lieutenant Jensen turned her head towards him.
 "Yes?" she started.
 "You have *disabled* their power, Sergeant.
-What happens if you turn it on again?" she
+What happens if you turn it on again?"
+She had a gleam in her eye which somehow signified this differently would be the case.
+
+"But..." Wolashni interjected.
+"When they did so, we could just fly away again?
+Why would they do that, Second Lieutenant?"
+
+She straightened her neck, as her eye brows both shot up a bit.
+"Because... " she nodded towards the alien's spaceship.
+"They have some huge arm to hold on to our vessel when they give us the power back."
+
+As Wolashni got up next to her, he could see the place they were pulled towards indeed had some sort arms in there.
+They didn't look metallic, but had an odd, dark purple nuance, and as they move around it reminded Wolashni a lot of an octopus' arm.
+Looking around in the hangar they were being pulled into, they could see other ships that were held to the wall in the same fashion. 
