@@ -244,7 +244,7 @@ What happens if you turn it on again?"
 She had a gleam in her eye which somehow signified this differently would be the case.
 
 "But..." Wolashni interjected.
-"When they did so, we could just fly away again?
+"When they do so, we could just fly away again?
 Why would they do that, Second Lieutenant?"
 
 She straightened her neck, as her eye brows both shot up a bit.
@@ -252,5 +252,16 @@ She straightened her neck, as her eye brows both shot up a bit.
 "They have some huge arm to hold on to our vessel when they give us the power back."
 
 As Wolashni got up next to her, he could see the place they were pulled towards indeed had some sort arms in there.
-They didn't look metallic, but had an odd, dark purple nuance, and as they move around it reminded Wolashni a lot of an octopus' arm.
-Looking around in the hangar they were being pulled into, they could see other ships that were held to the wall in the same fashion. 
+They didn't look metallic, but had an odd, dark purple nuance, and as they moved around it reminded Wolashni a lot of an octopus' arm.
+Looking around in the "hangar" they were being pulled into, they could see other vessels that were held to the wall in the same fashion.
+And to Wolashni's great relief none of them seemed harmed by the arms.
+
+Jensen continued to explain in a more pleasant voice: "Either these aliens found other lifeforms besides us, and this is where they all go, or we are being pulled into to the same place all their own ships go."
+She straightened up ones more, as she continued: "So - it would appear we won't be just sitting on our butts waiting for them to carve their way to us.
+Time to say welcome one way or another when we meet them."
+
+She turned around, and pushed herself away towards her desk, where pens, gadgets, and other objects floated around.
+
+"How would think we should greet our new friends, Sergeant?"
+
+It was one of those questions loaded with *I-know-do-you?* but Wolashni had to admit he would rather have these than the *are-you-stupid* ones. 
