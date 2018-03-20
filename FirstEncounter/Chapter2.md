@@ -1,5 +1,4 @@
-
-# Chapter 2 (Work in progress) 
+# Chapter 2
 
 Jensen had no time to stand around waiting for whatever would come.
 Their ship was being pulled into the aliens', and they couldn't do squat about it.
