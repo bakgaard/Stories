@@ -7,4 +7,4 @@ I contains only stories I have pondered.
 
 [First Encounter](FirstEncounter/ReadMe.md) (Three chapters - discontinued)
 
-[Equality of Man](EqualityOfMan.md) (Short)
+[Equality of Man](EqualityOfMan/EqualityOfMan.md) (Short)
