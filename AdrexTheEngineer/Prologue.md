@@ -48,7 +48,7 @@ His soulmate had no intentions of objecting.
 
 As she stood at the top of the stairs, not moving a muscle, a sound of stone and wood being crushed echoed over the city.
 
-"Now!" he shouted, as he himself started to move to his downstairs shop, where wooden chairs, -doors, -symbols and -tools laid scrambled everywhere on the floor.
+"Now!" he shouted, as he himself started to move to his shop downstairs, where wooden chairs, -doors, -symbols and -tools laid scrambled everywhere on the floor.
 He forced his way through it all, towards the painting on the wall, which illustrated his father and mother holding hands, with his brother and himself on each of their laps.
 He paused for a split second, as he realized this would be the last time he ever saw them, before he tore it to the ground, revealing a safe in the wall.
 He spun the wheel back and forth as the combination clicked, unlocking the door to the one thing he had inherited from his parents most precious.
@@ -62,8 +62,8 @@ A sound of arcane magic and a slight weight change on the wooden floors from the
 
 The tone of the question was clear, demanding, but most of all worried.
 
-"Right here" he came the reply from the small shop.
-He grabbed his tool bag, swung it over his shoulder, puts the leather pouch down into it, and rushes out to the entrance.
+"Right here" came the reply from the small shop.
+He grabbed his tool bag, dropped the leather pouch down into it, swung it over his shoulder, and rushes out to the entrance.
 
 There, in a blue and black robe, stood his green scaled, elder brother with the arcane magic still fading around him, and his staff clutched in both hands, looking more tired than he usually did, panting, and with fear in his eyes.
 
@@ -80,7 +80,7 @@ So the High Council had prepared their army, and gone through procedures for def
 Nadraa and his brother, however, had laid emergency plans, should the worst happen - and it had.
 
 "Sora!?" Nadraa called to his soulmate.
-"Are yo-" but he halted the rest of his line, as she came rushing down the stairs with Ildrex in her arm, and a bag over the should.
+"Are yo-" but he halted the rest of his line, as she came rushing down the stairs with Ildrex in her arm, and a bag over her shoulder.
 
 "It's not good for the egg to be carried like this" she began worried, before yet another building nearby collapse, sending large chunks of walls flying at their own.
 They all hugged each other in a small circle, as the dust started to fall from the roof.
@@ -89,3 +89,5 @@ They all hugged each other in a small circle, as the dust started to fall from t
 
 The eyes of robed dragonborn lit up in white arcane magic, as the wall of the house suddenly fell in over the hallway. 
 But as the stones hit the floor, they crushed only the carpet, and the arcane residue that were left.
+
+[[Next - Chapter 1]](Chapter1.md)
