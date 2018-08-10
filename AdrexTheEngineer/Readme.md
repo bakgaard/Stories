@@ -12,6 +12,6 @@ And suddenly I had this story.
 
 [Prologue](Prologue.md)
 
-[Chapter 1]()
+[Chapter 1](Chapter1.md)
 
 ...
