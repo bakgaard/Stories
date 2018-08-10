@@ -1,11 +1,11 @@
-# Title
+# Adrex, the Engineer [Working title]
 
-What would happen, if a immigrant from Draconia grew up as an engineer, was sent to present his latest inventions for a military general, incorrectly accused of killing said general, and flees to get over it?
+What would happen, if a immigrant from [Draconia](http://criticalrole.wikia.com/wiki/Draconia) grew up as an engineer, was sent to present his latest inventions for a military general, and must flee because of a misunderstanding?
 
-## About me
+## How this story came about
 
 I play Dungeons and Dragons, and mainly as the Dungeon Master, which means I don't get to play characters as much as I like.
-One day I sat down and created a random character, thought he might want needed a background story.
+One day I sat down and created a random character, thought he might needed a bit of a background story.
 And suddenly I had this story.
 
 ## Chapters
