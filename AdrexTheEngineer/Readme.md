@@ -10,7 +10,7 @@ And suddenly I had this story.
 
 ## Chapters
 
-[Prologue]()
+[Prologue](Prologue.md)
 
 [Chapter 1]()
 
