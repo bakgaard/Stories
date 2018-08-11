@@ -7,15 +7,15 @@
 
 The room was lit just enough so the pieces at the table didn't cast too much shadow when expected closely.
 The air inside had a faint metallic scent to it, but it wasn't distracting for a concentrated mind.
-The brown bound leather book on the table was opened at one of the last written pages, with several markers sticking out of it marking different sections inside it.
+The brown bound leather book at the table was opened at one of the last written pages, with several small notes sticking out of it marking different sections inside it.
 Each page was filled with small, precise sketches or various metal objects.
 All of them had small markings drawn with explanations, math formulas, and references to other pages with further descriptions.
 
 Next to the book was a small stack of loose papers with math calculations all the way up and down the top page - some highlighted with circles or underlined several times.
 On top of them laid a bow compass - not as much to keep the papers down, but due to ease of access.
 
-In front of it all, a young, adult dragonborn sat in a chair, inspecting a small metal piece in his left hand.
-On his green scaled snout he had a pair of glasses in multiple sizes he could flip on for better view.
+In front of it all sat a young, adult dragonborn in a chair, inspecting a small metal piece in his left hand.
+On his green scaled snout he had a pair of glasses with multiple lens sizes he could flip on for better view.
 The metal object he had been working on was a gear, with several cogs sticking out from it.
 He picked up a ruler, blew some of the metal dust off it, flipped another lens in front of his one eye, and started measuring the last cog he had filed.
 Mumbling each measurement to himself, while checking the result on his papers, he started nodding as everything seemed to be in order.
@@ -40,9 +40,9 @@ Adrex closed his eyes with a broad smile on his face - the trap was ready.
 
 A raised voice from his master called from the store:
 
-"Adrex - could you come for a moment?"
+"Adrex - could yeh' come for a moment?"
 
-*Ah, just in time* he thought to himself.
+*Ah, just in time*, he thought to himself.
 She would be so proud of him when she'd see the new mechanism he implemented.
 
 "Yup - coming", he replied.
@@ -60,8 +60,9 @@ It had a sarcastic undertone to the question, not rude, but stating something th
 "My name is Yurgunn Hammerbrewer, shortened to 'Hammer', and this..." she said just as Adrex opened the door to the store.
 "- is my associate, Adrex Scalanduur, shortened to 'Scale'" she finished.
 
-In the store stood a dark elf in an elegant, purple, silk robe, highly contrasted by his long, blond hair which slid down behind his ears, just below the shoulders.
+In the store stood a dark elf in an elegant, purple silk robe, highly contrasted by his long, blond hair which slid down behind his ears to just below the shoulders.
 As he turned around, the robe revealed a leather armor with a chitinous insect-like pattern beneath it - something only soldiers would wear.
+
 As his eyes met Adrex', the dark elf's sly smile dropped immediately - oh, how Adrex hated it. 
 It had been twenty years since the event, and people still associated him with dragons, and of cause everyone could see he wasn't a dragon, but instead of associating him with Bahamut, they for some reason all thought '*that is Tiamat's doing*'.
 And they would come with accusations of it being his, and his race', fault that the Chroma Conclave showed up - that the dragonborns had somehow preyed for it to happen.
@@ -82,12 +83,11 @@ As a more pleasant smile showed on his face, he straightened him self.
 
 "- And please accept my apologize, mister Scale... anduur".
 The apology sounded sincere, but came off a bit half-hearted.
-
 "That wasn't very kind of me - I was merely surprised to see another tall indivi..." but he cut short when Yurgunn almost stepped on his toes.
 
 "Listen up, crick" she said in a harsh tone poking his armor.
 "There are certain things we talk o'bout, and certain things we don't. 
-And we almost through the list of what we don't.
+And we're almost through the list of what we don't.
 But I can inform yeh, that business is on the 'do'-list, so how 'bout we stick to that one, eh?".
 
 The tension in the room was so thick you could carve in it.
@@ -101,7 +101,7 @@ The elf seem as if he had shrunken a head, as he took a step back, and made half
 From the elf's cloak, he drew out a small tube.
 
 "I have visited some of these snobs you speak of." he said as he started to open the tube.
-"I have been trying to locate the best to contract, and most of those I visited named you two as *the* best at your job."
+"I have been trying to locate the best to contract, and most of those I visited named you two as *the* best at the job."
 
 From the tube he pulled out a scroll which he handed to Yurgunn.
 
@@ -110,14 +110,14 @@ The dwarf hesitated for a short second before taken the scroll, slowly opening i
 "My name is Morenfein Derret, and I work in a special department of the Ghor Dranas' military. 
 We focus on removing thieves and burglars from..." he hesitated, choosing his word carefully. "... places they should not be" he finished with a smile.
 
-"You make traps which so far have had so much success, that the underground community of thieves have made a list of where your mechanisms are placed."
+"You two make traps which so far have had so much success, that the underground community of thieves have made a list of where your mechanisms are placed."
 He turned and walked two steps towards the window as he continued:
-"My colleagues and I have infiltrated some of these groups, and even though we could simply arrest them as soon as they enter different buildings to rob, it has become a almost a joy to watch these poor devils struggle getting past your systems." 
+"My colleagues and I have infiltrated some of these groups, and even though we could simply arrest them as soon as they enter buildings to rob, it has become almost a joy to watch these poor devils struggle getting past your systems." 
 His voice indicated it was not just 'almost', but they were looking forward for these events.
 Morenfein's torso turned slightly as he looked back at them.
 
-"You two have created something so hard to get past, that the best of thieves sees it as a victory to get past, and not a victory to steal."
-He took a pause for a breath, and looked around in the shop, landing his eyes on a board with letters from customers hang - all of them praising their work preventing burglars from robbing their houses.
+"You two have created something so hard to get past, that the best of thieves sees it as a victory to get past, and not just a victory to steal."
+He took a pause for a breath, and looked around in the shop, landing his eyes on a board with letters from customers - all of them praising their work preventing burglars from robbing their houses.
 
 "But the thieves are getting crafty" he said, as he inspected some of the letters on the board.
 "We are no longer able to apprehend them before they vanish in thin air by some sort of magic."
@@ -130,7 +130,7 @@ Her left eyebrow shot up again.
 "Yes, but not just mobile" he said, now addressing the both of them. 
 "It must be carried as easy as a sword or a bow, and it must be able to hit the distance like was it a crossbow." 
 
-The silence in the room was not audible.
+The silence in the room was audible.
 Adrex broke it after a bit, as he put his tongue out to wet his lips, and started to scratch his chin.
 
 "We made blowgun in the walls" he started, as he bounced he head from side to side to come up with a useful solution for this.
@@ -150,8 +150,8 @@ Nah, that would be too slow*.
 "Why not just use wands with magic missiles?" Adrex asked at last.
 
 Morenfein scratched himself on his nose bridge as he closed his eyes.
-"Yes, we considered that."
-"But the sorceress and wizards at our disposal informed us that making these will be quite costly, and would take a few weeks... just to make one."
+"Yes, we considered that.
+But the sorceress and wizards at our disposal informed us that making these will be quite costly, and would take a few weeks... just to make one."
 He made a deep inhale before he continued:
 "And we would like a lot of them - something we can... mass-produce, so to speak."
 
@@ -166,17 +166,18 @@ He bid himself a bit in his underlip as he continued.
 "It will not be subtracted from the final payment listed in the assignment - consider it an investment we are willing to make."
 
 The smile Adrex observed on Morenfein's face had several meanings; 'yes, we have a lot of money', 'do not mess with us', but most worrisome: 'we own you until this is done'.
+
 The first he was used to - their service wasn't exactly cheap, and the people who bought it had more than they paid.
 The second wasn't unfamiliar to them either, since their clients came in with these large sums of money, and they really expected the service to be top notch.
 But they never had anyone come up and pay this much up front.
 Adrex had to swallow ones.
 They really wanted this mobile trap device, or whatever he was to call it, and they were dead serious about getting it.
 
-He looked towards his mentor, who had picked up the pouch in the top, weighing it in her hand with a few, light shakes.
+He looked towards his mentor, who had picked up the pouch at the top, weighing it in her hand with a few, light shakes.
 As she started to nod she sat the it down at the table.
 
 "Yeh' have yeh'self a deal, mr. Derret." she said as she put it back on the counter before continuing.
-"But as yeh' hear, we don't have it stash out in the back - this'll take some time to make." 
+"But as yeh' heard, we don't have it stash out in the back - this'll take some time to make." 
 She placed her left arm on the table as she looked to the scroll next to the pouch.
 "If it should be tested for practical use, be mass-producible, and live up to those expectations..." she nodded her head a few times.
 "... I'd say we'll be need'n two months."
@@ -188,7 +189,7 @@ He looked to Adrex, and back to Yurgunn.
 "May I make a further request?" he finally said.
 
 Yurgunn crossed her arms, and tilted her her slightly to the left.
-"Go on..." with a tone indicating that he better not come up with another requirement to make this even harder.
+"Go on..." she said with a tone indicating that he better not come up with another requirement to make this even harder.
 
 "You make a demonstration for us at our place" he finally said.
 
@@ -201,7 +202,7 @@ As soon as he did, the dark elf shifted his stance ever so slightly, but seeing 
 "I look forward to it, mr. Scalanduur." 
 He took a step back, and gave them a respectful bow, before he opened the front door and left.
 
-*That is a lot of money* Adrex thought to himself.
+*That is a lot of money*, Adrex thought to himself.
 As he turned to Yurgunn to share his excitement, she stared at him in disbelief.
 Adrex smile vanished instantly.
 
