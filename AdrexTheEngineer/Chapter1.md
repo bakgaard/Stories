@@ -210,4 +210,4 @@ Adrex smile vanished instantly.
 
 "Yeh' have no idea wha' yeh' just agreed to, do yeh'?" she said without a change in tone.
 
-[[Chapter 2]](Chapter2.md)
+[[Previously chapter]](Prologue.md) - [[Next chapter]](Chapter2.md)

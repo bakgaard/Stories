@@ -90,4 +90,4 @@ They all hugged each other in a small circle, as the dust started to fall from t
 The eyes of robed dragonborn lit up in white arcane magic, as the wall of the house suddenly fell in over the hallway. 
 But as the stones hit the floor, they crushed only the carpet, and the arcane residue that were left.
 
-[[Next - Chapter 1]](Chapter1.md)
+[[Next chapter]](Chapter1.md)
