@@ -1,24 +1,5 @@
 # Chapter 2
 
-## What is this chapter's purpose?
-* Yurgunn must tell Adrex what he agreed to
-* Yurgunn needs to bring up the racism
-* Yurgunn needs to explain 'crick'
-* Yurgunn needs to say she needs Adrex to made the trap
-* Adrex goes to see the twins? (Smearchucle and Victoria)
-* The problem has been about the contract
-
-## What shall it accomplish?
-* Chapter 1's racism must be obvious
-* Show concern from Yurgunn of Adrex
-* The reader must understand the scope of the problem with the contract
-
-## What is being shown that hasn't been shown before?
-* Conflict in the world
-
-
-___
-
 Adrex didn't understand it.
 Installing the gear on-premise was a pretty common way to treat customers, but something most definitely didn't sit well with his master.
 
