@@ -3,39 +3,39 @@
 Adrex didn't understand it.
 Installing the gear on-premise was a pretty common way to treat customers, but something most definitely didn't sit well with his master.
 
-"You think it's a bad thing he contracted us to do?" he asked.
+"You think it's a bad thing he contracted us to do?" he asked a bit puzzled.
 
 The dwarf kept her eyes locked at his for another few seconds, before she firmly walked to the door, locked it, and held up her right index finger.
-Her voice sounded almost like a song, falling from a high note:
+Her voice lulled like a song, falling from a high note, thought not annoyed:
 "Let's tak' it from th' top, eh?"
 
 She turned around, gestured to Adrex' chair to sit, and walked towards her own as she continued.
 
 "In came a to-be client.
 He first asked me if this wa' the right place, and he had som' delicate, custom trap he wanted t' have done.
-All'n all a standard client, and tha's when I called fer' yeh".
+All'n all a standard client, and tha's when I called fer' yeh'".
 Her tone where soft as she spoke, and nothing seemed unusual to Adrex thus far.
 
 She pulled her chair out behind the counter, and continued a bit sharper: 
-"Just befer' yeh came, however, he asked 'bout the name of the place - did you hear that part?" 
+"Just befer' yeh' came, however, he asked 'bout the name of the place - did you hear that part?" 
 
 "Yes..." Adrex had had his attention to the conversation from here, and he was a bit unsure why it had transpired as it had.
 "He asked about the name - Hammer & Scale - and after he'd realized I was dragonborn, you were kinda up in his face?"
 
-She dropped her hand down on the table.
+She dropped her palm down on the table with a slap.
 
 "Oh, com' on, Adri" - her name for him over the years, and went on frustrated:
 "Tha' arrogant prick was in the process of mocking th' shop's name, which happens t' be named after us.
-Nor' only did he assume ay was 'Hammer' since ay'm a dwarf´, and yeh t' be 'Scale' since yeh a dragonborn. 
-Tha' rasist bastard immediately assumed wha'ever yeh had in yeh hand was some'n endangering him."
+Nor' only did he assume ay was 'Hammer' since ay'm a dwarf´, and yeh' t' be 'Scale' since yeh' a dragonborn. 
+As soon tha' racist bastard saw you entering, he immediately assumed wha'ever yeh' had in yeh' hand was some'n endangering him."
 
-She clearly didn't like him, and - yes - he had noticed the reaction in Morenfein's face, but her reaction still seemed a bit too aggressive.
+She clearly didn't like him, and - yes - he had noticed the reaction in Morenfein's face, but her reaction still seemed a bit too aggressive, though she continued:
 
-"We've had rich snobs in 'ere before - yeh remember that Galloway guy we did the sleeping dart trap for, right?
-He fuck'n mocked yeh for being dragonborn!"
+"We've had rich snobs in 'ere before - yeh' remember that Galloway-guy we did the sleeping dart trap for, right?
+He fuck'n mocked yeh' for being dragonborn!"
 
 At some point Adrex had stopped counting stupid people they had met, who didn't understand the difference between evil, hoarding dragons, and dragonborns.
-That guy wasn't even the last to accuse him of things he, his family, or his race had ever done, but that was the time he had started trying ignore them, and let Yurgunn do the talking - she always had some sharp comebacks, so Adrex could only hope to accumulate some for later.
+That guy wasn't even the last to accuse him of things he, his family, or his race had ever done, but he had started ignore them, and let Yurgunn do the talking - she always had some sharp comebacks, so Adrex could only hope to accumulate some for later.
 
 "Yeah, but this guy actually apologized-" Adrex started, before Yurgunn cut him off.
 
@@ -43,16 +43,17 @@ That guy wasn't even the last to accuse him of things he, his family, or his rac
 
 She drew her breath to calm herself down a bit.
 
-"I've lived 'ere in Hupperdook for th' past 18 years, lad.
+"I've lived 'ere in Hupperdook for th' past 18 years, Adri.
 This city consist mainly of gnomes, so most of 'em been calling me 'big girl', and 'tally', and the elfs, humans, and other-" she held her hands up as quoting "- 'normal sized' living here all say 'shorty' to me.
 But new folk comin' inta' our shop, and starts picking on your height as well... 
-I ain't having it."
+I ain't having it.
+It's our place, and thereby our rules."
 
 At this point Adrex had kinda lost what was left of a good day.
 The mention of his height was really something he didn't feel like talking about.
 Compared to his parents, uncle, and brother, who all ranged between 6" to 6"5' feet tall, Adrex was but 5"5' himself, and it didn't seem like he would ever get higher -  something which really bugged him.
 
-His parents had said, that his egg had been mishandled when they fled by some of the authorities, and that might have done it, but that he shouldn't think too hard about it - he was 'way smarter than was taller', whatever that meant. 
+His parents had said, that his egg had been mishandled when they fled by some of the authorities, and that might have done it, but that he shouldn't think too hard about it - he was 'way smarter than was taller'... whatever that meant. 
 Those properties wasn't comparable.
 
 But he hadn't picked up, that the elf had mentioned the height differences.
@@ -73,7 +74,7 @@ A horn sounded over the city of Hupperdook, signaling the work hours had passed,
 
 She looked out the window.
 
-"Yeh in a hurry today?" she asked him.
+"yeh' in a hurry today?" she asked him.
 "Meet'n someone?"
 
 That was borderline rhetorical, but a nice gesture - he might be, but unlike other young adults who could get alcohol in the bars, Adrex never really enjoyed his time between the noisy crowd of mostly halflings who all seemed to have it out for his tail as soon as he turned just the slightest.
@@ -106,7 +107,7 @@ She looked Adrex, who had opened his beer with some difficulties, and sat with a
 Yurgunn took a swig, and clarified:
 
 "Their armor are designed to make a noise of crickets when they move.
-It's some sort o' battle tactics, or what-not, and is associated with the chitinous... beetle like armor, which our new client wore beneath his cloak."
+It's some sort o' battle tactics, or what-not, and is associated with the chitinous... beetle-like armor, which our new client wore beneath his cloak."
 
 She held a pause - it didn't seem to have a reaction on Adrex.
 
@@ -114,7 +115,7 @@ She held a pause - it didn't seem to have a reaction on Adrex.
 
 Adrex finally took a good sip at his drink, still not catching onto what she was implying.
 
-"Yeh uncle, Donaar - he's in the council of th' city, right?" she then tried.
+"yeh' uncle, Donaar - he's in the council of th' city, right?" she then tried.
 
 *Odd turn of topic*, Adrex thought, but nodded while the bottle was still at his lips.
 
@@ -129,7 +130,7 @@ He lowered his bottle as he swallowed, shacking his head.
 Yurgunn tossed her bottle's cork to the trash bin.
 "It's shit, to say it without wrapping it in."
 
-Adrex' right eye shot up, pondering how severe it actually was.
+Adrex' raised his right eyebrow, pondering how severe it actually was.
 Before taking another mouthful he asked:
 
 "And with 'shit', you mean...?"
@@ -142,25 +143,25 @@ Adrex' train of thought caught up rather quickly to what that meant, spitting ou
 Yurgunn's eyes calmly followed the fountain that sprayed over the counter and floor, as she casually picked up the cloth Adrex had come in with, handing it to him.
 She would have preferred to have kept that secret, but things were in motion, and with a binding contract she could at least tell the whole truth to him.
 
-"So just to be clear - you agreed to create a 'trap' for the Krynn Empire, which can neutralize a foe so fast they can't even teleport out, and it must be as mobile as a bow."
+"So just to be clear - yeh' agreed to create a 'trap' for the Krynn Empire, which can neutralize a foe so fast the target can't even teleport out, and it must be as mobile as a bow."
 Her tone were flat, as she took another swig of her bottle.
 
 Adrex' mind was racing.
 *WHAT HAVE I DONE? I should never have agreed to this - this might have been the worst trade deal in history. 
-This could be used against against anyone.*
+This could be used against... against anyone.*
 
-As Adrex took the cloth and began running it over areas that *could* have been sprayed, his master took another swig - the conundrum of how to handle the situation had been firmly planted in him.
+As Adrex took the cloth and began running it over areas that *could* have been sprayed, his master took another swig - the conundrum of how to handle the situation had been firmly planted in Adrex' mind.
 
-"But that's not all yeh did, lad. 
-Yeh agreed to go, in person, and deliver it to him.
-And while yeh were at it, yeh need to give a presentation of it." 
+"But that's not all yeh' did, Adri. 
+Yeh' agreed to go, in person, and deliver it to him.
+And while yeh' were at it, yeh' need to give a presentation of it." 
 
 Adrex' mind had stopped working.
 *What in Bahamut's name have I done?*
 He stopped his cleaning and just sat down on the floor with his head in his hand, resting on his knees.
 
 *I can't give them this. 
-Well, it's not giving - they pay money for it, but still!
+Well, it's not giving - they'll pay money for it, but still!
 If I give this to the Krynns, and they invade the Dwendalian Empire, it could  turn the tide to their side... Unless...*
 
 Adrex looked up at Yurgunn.
@@ -168,7 +169,7 @@ Adrex looked up at Yurgunn.
 "We are two about this" he exclaimed.
 "If I build something, you know how it works."
 
-She sat the bottle down on the counter and swallowed. 
+She sat her bottle down on the counter and swallowed. 
 "True - go on."
 
 "Well, If we sell it the Krynns, we could also sell it to the Dwendalians, right?" Adrex continue.
@@ -183,8 +184,8 @@ We co' be more than just rich! We could-"
 
 She stopped mid-sentence, pondering something.
 
-"Could we live with that?" she finally asked, staring Adrex dead in the eyes.
-"Depending on what we come up with, could we live giving the world this creation?"
+"Co' we live with that?" she finally asked, staring Adrex dead in the eyes.
+"Depending on what we come up with, co' we live giving the world this creation?"
 
 There was worry to detect in her voice, as Adrex slowly nodded thoughtful.
 
@@ -197,7 +198,7 @@ This thing can be used actively to... well... depending on what it can do."
 Yurgunn made her way to Adrex, and sat down next to him.
 
 "Depending o' what we' make, sure."
-She took another swig as she leaned up against the, to her, huge dragonborn next to her, handing him the bottle.
+She took another swig as she leaned up against the, to her, huge dragonborn next to her, handing him her bottle.
 
 "You know" she said, as Adrex took a sip.
 "... If we sell the rights to make these with a cost per creation - tha' could be a lot of money" she said with a smile on her face.

@@ -88,7 +88,7 @@ The apology sounded sincere, but came off a bit half-hearted.
 "Listen up, crick" she said in a harsh tone poking his armor.
 "There are certain things we talk o'bout, and certain things we don't. 
 And we're almost through the list of what we don't.
-But I can inform yeh, that business is on the 'do'-list, so how 'bout we stick to that one, eh?".
+But I can inform yeh', that business is on the 'do'-list, so how 'bout we stick to that one, eh?".
 
 The tension in the room was so thick you could carve in it.
 Adrex wasn't quite sure what she had meant with 'crick', but he was often surprised by her choice of words and accent, so this might be one of them.
@@ -194,10 +194,10 @@ Yurgunn crossed her arms, and tilted her her slightly to the left.
 "You make a demonstration for us at our place" he finally said.
 
 Adrex couldn't see the issue here.
-Everything they had made so far had to be setup at the client's establishment.
+Everything they had made so far for previous clients, had to be setup at the client's establishment.
 
 "That is no problem, mr. Derret" he quickly said, raising his hand to shake.
-As soon as he did, the dark elf shifted his stance ever so slightly, but seeing the dragonborn's hand raised open, he grabbed it lightly and shook it gently.
+As soon as he did, the dark elf shifted his stance ever so slightly, but seeing the dragonborn's palm flexed open, he grabbed it lightly and shook it gently.
 
 "I look forward to it, mr. Scalanduur." 
 He took a step back, and gave them a respectful bow, before he opened the front door and left.
