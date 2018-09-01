@@ -169,12 +169,100 @@ She picked up the spoon, and stirred in the stewpot.
 "But we got this new client today, and he didn't want something we normally create.
 He wants a *mobile* trap."
 
-Adrex waited for his mother to ask for details, before his father came into the room.
+Adrex waited for his mother to ask for details, just as his father walked into the room.
 
 "A mobile trap, hm? 
 He wants to carry a plate around with him, which has a crossbow pointing towards itself?" 
-He greeted his son with a double tap on the shoulder, as he continued towards his wife, and kissed her at her cheek.
-As he inhaled the 
+He greeted his son with a double tap on the shoulder, as he continued towards his wife, kissing her at her cheek, while Adrex' eye rolled a round for the dump dad-joke.
+His dad made a long inhale.
+
+"Smell like a lovely wife, and a lovely dinner" he said, as he placed both of his hands at her hips, moving them from side to side in a small dance.
+"What are we having tonight?"
+
+Adrex rolled his eyes another round.
+*Yes, that is somehow cute, but please, dad - every night?*
+But apparently his mother loved it.
+
+"It's juniper stew, and I've added some rosary peas for flavor - just like old times" she said with a small chuckle.
+
+His dad made a noise, that sounded almost like a purr from a cat.
+
+"Ahh - spicy. 
+I love it!"
+
+"How was your day, dad?" Adrex asked.
+
+Nadraa turned around from his wife, and pulled a stool out as well.
+"Not too bad, I should say.
+Warden Poppin Drokrusher came by for his desk, saw it, and ordered both a new chair, and a new cane. 
+'The handle must be exact' ", he said, imitating the grumpy, old gnome taking care of Gearhold Prison.
+
+Adrex couldn't help but chuckle a bit.
+That gnome had had the most ridicules requirements for the table - all sorts of finesses and details had to be engraved into it.
+And although Nadraa had written each of them down, handed the notes to the gnome to review, the gnome had still repeated each of the lines, ending each of them with "and do so properly".
+They all knew why he had emphasized it, but they had also learned to turn the 
+rough to the smooth. 
+Also, there were no customers if you always yelled at them, and most of them actually came back because they had good a experience doing business.
+
+"Did he go over everything again this time?" Adrex asked a bit tired, though hoping for a laugh.
+
+His dad gave a slight chuckle.
+"For the chair, he just looked over the list, back at me, back to the list and nodded while mumbling it."
+His dad loved to tell these kind of stories.
+
+"For the cane however, he kept saying 'but it must fit *my* hand', and of cause it should.
+So I took out some clay, made him squeeze it - haha."
+
+*Clay?* Adrex thought to himself.
+
+"He wasn't exactly pleased, but when I told him I now had a mold for his exact hand, he started looking frantically at the chair, to which I had to ensure him he didn't have to sit in clay."
+
+Adrex gave a laugh just imagining the look on the gnome's face.
+
+"So, will you just carve from a huge block and then get the handle right afterwards?" Adrex asked.
+
+Nadraa shuck with his shoulders.
+"I don't think I can water bend it.
+The handle won't be able to... handle... it" he said, winking his right eye.
+
+Adrex shut his eyes.
+"Dad - please, I-I'm..."
+
+He had a bit of trouble saying it.
+It was actually a little funny.
+
+"I'm trying to help you here."
+
+Nadraa placed an elbow on the table, rest his head in his hand.
+"Go on then.
+Lets see if I can get a... grip... of it." he said, giving a smirk on his face.
+
+*There are no end to these silly jokes*, Adrex thought to himself, as he pulled up the notebook he always carried in his satchel, along with a pen.
+As he placed in on the table, he started explaining with a few drawings on an empty page;
+
+"Let's say you have the handle here" Adrex said, drawing a rectangle in the book.
+"If you drill a hole from the bottom of the handle and up, you should be able to attach a stick to it."
+
+Adrex turned the book around, and pushed it towards his father.
+
+"This way you'll save a lot of wood" he finished.
+
+As his dad looked at it, he said "yes, but the the stick would fall out, right?" not exactly impressed.
+
+"Right..." Adrex said, pulling the book back, tapping the back of his pen a few times at the page.
+"Then you could place the stick in the hole, drill a hole through the side of the handle and the stick, and place a pin in it" he said, drawing a small circle in the middle of the stick.
+
+His dad started nodding a bit.
+
+"That... could save me a lot of wood.
+And the stick could be replaced, should it break, right?" realizing what this could lead to.
+
+"Yeah, or if the warden wants another type of wood, he can still keep the handle.
+Or if he wants to be fancy, he can replace the handle, and keep the sticks!"
+
+Nadraa sat there for a short moment of time, staring befuddled at Adrex.
+"Where do you get all these ideas from, son?"
+
 
 
 **NOT DONE YET**.
