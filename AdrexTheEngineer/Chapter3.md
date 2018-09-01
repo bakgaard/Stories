@@ -102,9 +102,9 @@ You would get burned...*
 It was not perfect. 
 He had to consider how to handle this safely.
 Perhaps he could swing by Victoria and Smearchucle tomorrow and have a chat about it. 
-They might be able to show him the inside of their work.
+They might be able to show him the inside of their profession.
 
-As he came further away from the city, the houses started to thin out, and he took a turn off the road towards an old mill.
+As he went further away from the center of the city, the houses started to thin out, and he took a turn off the road towards an old mill.
 It wasn't in use anymore as a mill, but instead served as a house for a dragonborn family, who had come twenty years ago as refugees with a minimal amount of personal belongings, asking for a place to stay.
 Adrex was born here, and had never known his family's previous house or city, and talking about Draconia always made the mood drop a bit.
 The extension to the side housed his dad's workshop, and the top of mill was his uncle's 'sanctum', as he liked to call it - it wasn't that they weren't allowed up there, they were just instructed in not to touch what was glowing with anything but a normal candle flame.
@@ -114,11 +114,67 @@ As he reached the door of the old building, he called out:
 "Mom - dad - I'm home!"
 
 He found his key, put it in the key hole, and pushed a hidden panel at the top of the framework he and his dad had installed, to which the door clicked open, letting him in. 
-He inhaled the welcoming smell - a mix of stew his mom was cooking, and small bit of fine sawdust which couldn't be kept out of the rest of the house.
+He inhaled the welcoming smell - a mix of stew his mom was cooking, and small bit of fine sawdust which couldn't be kept out from the extension to the house.
 
 The inside of the building was all covered in fine wooden facades his dad had made over the years, which made everything seem really nice and expensive.
 The kitchen and dinning room on the ground floor took up most of the space, and the spinal stair case led up to their common room, and the sleeping quarters for both his parents, and for his uncle.
 
-In the kitchen his mom stood humming at the stove...
+In the kitchen his mom stood humming near the stove, slicing something to mix into the stewpot.
+Dressed in her midday-blue dress and a white apron, she turned her head slightly as she continued slicing what was in front of her, her tailed tip waved a bit from side to side.
+
+"Welcome home, dear." she replied with the soft, warm tone, as she gently eyed him.
+"How was your day?"
+
+As she continued to prepare the food, Adrex brushed his feet in the door mat, and started to order what had to take top-priority.
+
+"Well..." Adrex started, dragging it a bit as the greatest impacts oddly seemed to be the most negative.
+
+If there ever came a time he could hide his feelings from his mother, it would be far in the future, cause she stopped her cyclic motion on the cutting board, turned her attention towards him, her head bowed a bit forward to meet his level, and with eyes that could tell what had transpired.
+
+"Another one?" she simply asked.
+
+Adrex bumped his head from side to side.
+
+"Well, Yurgunn explained our new customer's actions, so it would actually be two in one day" he sighted, as he pulled a stool out and took a seat at the table, placing both of his elbows on the table, resting his face on his knuckles.
+
+"Was he drunk?" his mother tried, which were the most common cause this conversation ever took place.
+
+"No" Adrex replied a bit sad - not that it would have made it that much better if he were.
+"The second one was though.
+The first one had just never seen a dragonborn before, and..."
+
+They had had this talk over and over, and it was the same they saw each time.
+
+His mother placed a caring hand on his right shoulder, as she moved up behind him, laying her chin the the side of his head, giving him a supporting hug.
+
+"The eyes, the hesitance reactions, and staggering speech?" she tried categorize it to.
+
+"Absolutely the eyes and the reaction, but..." 
+Adrex sighed once again.
+"I was in the back making - oh yeah" he interrupted himself, with a more possitive note.
+"I finished the gear-system I've been working on for the past few weeks, and it runs like a charm!" 
+Excitement had taken over the grim mood - he hadn't even had time to talk to Yurgunn about it.
+
+"It's silent, takes up way less space that anything we've previously made, and everything just fits.
+It's..." he looked up towards the always caring mother of his, and inhaled to finish:
+
+"It's the best thing I've ever made, and worthy of my legacy."
+
+"Legacy?" his mother said in an amused and questioning tone, as she stood up, and went back to the stove.
+"Sweet, sweet child of mine - you are 20 years old, and creates something new each moon cycle.
+If this is to be your legacy, what will you spend the rest of your time doing?"
+She picked up the spoon, and stirred in the stewpot.
+
+"Well, one of my achievements then" Adrex corrected himself.
+"But we got this new client today, and he didn't want something we normally create.
+He wants a *mobile* trap."
+
+Adrex waited for his mother to ask for details, before his father came into the room.
+
+"A mobile trap, hm? 
+He wants to carry a plate around with him, which has a crossbow pointing towards itself?" 
+He greeted his son with a double tap on the shoulder, as he continued towards his wife, and kissed her at her cheek.
+As he inhaled the 
+
 
 **NOT DONE YET**.
