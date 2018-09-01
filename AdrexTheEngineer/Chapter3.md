@@ -18,16 +18,16 @@
 
 
 The sound of more fireworks flying in the air, busting into different colors had become so mundane, that Adrex didn't even bother to look up at it.
-*Work hard, and party hard* had become the motto of the city, and it was quite fitting.
+'*Work hard, and party hard*'' had become the motto of the city, and it was quite fitting.
 
 12 hour work days was the norm here, compared to... well everywhere else, as far as Adrex had heard.
-Hupperdook was the factory of the Dwendalian Empire, and for the long hours to work, the council of the city had pushed for making it the norm to also celebrate the long days - booze was cheap, the legal drinking age was when you started working 12 hour shifts a day, and it was in no way frowned upon to still be partying at 3 in the morning.
+Hupperdook was the factory of the Dwendalian Empire, and for the long hours system to work, the council of the city had pushed for making it the norm to also celebrate the long days - booze was cheap, the legal drinking age was when you started working 12 hour shifts a day, and it was in no way frowned upon to still be partying at 3 in the morning.
 After all - the barkeepers had 12 hour too, just shifted compared to most other in the city.
 
 Another rocket went up not too far from Adrex - it took a bit longer to go off, and burst into a large, silver ring of glistening sparkles, followed by a cheer from the launchpad from where it had been shot up.
 Adrex looked in their direction.
-He had tried to send some rockets up - it wasn't expensive in Hupperdook, and they had quit an export of it to the rest of the empire. 
-The twins made and sold fireworks, and although it was a competitive business here, they mainly focused on shipping to elsewhere - the price was higher, but they didn't have to make as much of it.
+He had tried to send some rockets up - it wasn't expensive in Hupperdook, and they had quite an export of it to the rest of the empire. 
+The twins made and sold fireworks, and although it was a competitive business here, they mainly focused on shipping to elsewhere - the price was higher, and they didn't have to make as much of it.
 
 They had explained that they really had to focus on two things, which they separated between them; They made fireworks that didn't blow up in your face, and they made instruction manuals that was as clear as day.
 Apparently they had received a lot of complains about people getting injured who where not used to using fireworks - mostly from stupid people, they had added.
@@ -37,38 +37,38 @@ Some had stood no longer than a few feet from an exploding rocket, while other h
 She wrote manuals far longer than any normal person would ever need, but she and her sister - Smearchuckle - really couldn't afford more lawsuits against people *who thought* that was how to use them.
 Adrex had to roll his eyes just thinking about it.
 
-As he continued walking from their own shop and home, another rocket went up with much more power than usual.
+As he continued walking from the shop towards his home, another rocket went up with much more power than usual.
 Adrex turned his head as he kept walking, just to see if-
 
 **BOOOM**
 
-It went off far earlier than anticipated, and sent a shower of red, blue, and green sparkles flying around the nearby houses, and even some just a few feet from Adrex, to which he instinctively dropped to the ground, knees curled up to his chin, and arms protecting the rest of his face.
+It went off far earlier than anticipated, and sent a shower of red, blue, and green sparkles flying around the nearby houses, even some just a few feet from Adrex, to which he instinctively dropped to the ground, knees curled up to his chin, and arms protecting the rest of his head.
 
-Common for all rocket was, that they flew as long as they had powder, before they went off. 
+Common for all rocket was, that they flew as long as they had powder before they went off. 
 You could normally hear how the powder ran out, before the inside of the rocket exploded into colors of various pattern. 
-This rocket had *not* used all it's powder before it blew up, and it might have been loaded, and from the intense sound it gave off to start with, it had a lot to carry up, if it was not evident from the explosion he had just witnessed. 
+This rocket had *not* used all it's powder before it blew up, and from the intense sound it gave off to start with, it had a lot to carry up, if it was not evident from the explosion he had just witnessed. 
 
 Adrex hadn't been hit, but it was damn close.
 As he looked up and around, he could see scorch marks on the ground near him from small burning balls the rocket had carried.
 
-"Sweet Bahamut - thank you" Adrex mumbled beneath his breath, as he got up, dusting the dirt from his clothes.
-Doors swung up with curious, although careful, people came to see what the huge explosion was about.
+"Sweet Bahamut - thank you" Adrex mumbled under his breath as he got up, and dusted the dirt from his clothes.
+Doors swung up with curious, although careful, people who came to see what the huge explosion was about.
 It had been both loud and nearby, and if there was anything entertaining, there would be a crowd to watch.
-But besides the scorch marks, all the action was gone, as far as Adrex could see.
+But besides the scorch marks, all the action was gone as far as Adrex could see.
 
-A voice from one of the patrons in the nearby in reached Adrex' ear:
+A voice from one of the patrons in the nearby inn reached Adrex' ear:
 "Was that your doing, dragon?" 
 
-As Adrex looked in the direction, a stubby bearded gnome stood in the doorway with a mug spilled bear on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
+As Adrex looked in the direction, a stubby bearded gnome stood in the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
 
-He ignored the question from the gnome, continuing towards his home.
+Adrex ignored the question from the gnome, continuing towards his home.
 
 The voice continued, now louder than before:
-"Don't you think we all know it was you, you overgrown iguana!
+"Don't think for a sec'n, that we don't all know it was you, you overgrown iguana!
 But keep walking, would you! 
-We don't want you here"
+We don't want you here!"
 
-*I hereby relieve you of your right to existence, you racist ankle biter* Adrex thought to himself, as the shouting became less and less audible.
+*I hereby relieve you of your right to existence, you racist ankle biter*, Adrex thought to himself, as the shouting became less and less audible.
 Now in a foul mood, Adrex starting walking faster.
 
 *Why can't they just keep their face shut?* he thought as he kicked the nearby pebble.
@@ -89,7 +89,7 @@ Have it fire away in the direction you point, hit the target...*
 He had a feeling he was onto something here.
 This might be what he and Yurgunn needed for their mobile trap.
 
-He started a fast walk home, his mind racing of what to do, what would and wouldn't work, and after thinking a bit about it, he realized he didn't knew enough about rockets to actually say what would work.
+He started a fast walk home, his mind racing of what to do, what would and wouldn't work, and after thinking a bit about it, he realized he didn't know enough about rockets to actually say what would work.
 
 *We don't need a huge explosion, just a small one, but instead of fireballs it could explode with shrapnels.
 And perhaps we can put some feathers on it - just like an arrow - so it will fly more straight. 
@@ -107,7 +107,8 @@ They might be able to show him the inside of their profession.
 As he went further away from the center of the city, the houses started to thin out, and he took a turn off the road towards an old mill.
 It wasn't in use anymore as a mill, but instead served as a house for a dragonborn family, who had come twenty years ago as refugees with a minimal amount of personal belongings, asking for a place to stay.
 Adrex was born here, and had never known his family's previous house or city, and talking about Draconia always made the mood drop a bit.
-The extension to the side housed his dad's workshop, and the top of mill was his uncle's 'sanctum', as he liked to call it - it wasn't that they weren't allowed up there, they were just instructed in not to touch what was glowing with anything but a normal candle flame.
+
+The extension to the side housed his dad's workshop, and the top of the mill was his uncle's 'sanctum', as uncle Donaar liked to call it - it wasn't that they weren't allowed up there, they were just instructed not to touch what was glowing with anything but a normal candle flame.
 Adrex' room was in the basement, next to his brother's room. 
 
 As he reached the door of the old building, he called out:
@@ -119,17 +120,17 @@ He inhaled the welcoming smell - a mix of stew his mom was cooking, and small bi
 The inside of the building was all covered in fine wooden facades his dad had made over the years, which made everything seem really nice and expensive.
 The kitchen and dinning room on the ground floor took up most of the space, and the spinal stair case led up to their common room, and the sleeping quarters for both his parents, and for his uncle.
 
-In the kitchen his mom stood humming near the stove, slicing something to mix into the stewpot.
-Dressed in her midday-blue dress and a white apron, she turned her head slightly as she continued slicing what was in front of her, her tailed tip waved a bit from side to side.
+In the kitchen stood his mom, humming near the stove, slicing something to mix into the stewpot.
+Dressed in her midday-blue dress and a white apron, she turned her head slightly as she continued slicing what was in front of her, her tail tip waved a bit from side to side.
 
 "Welcome home, dear." she replied with the soft, warm tone, as she gently eyed him.
 "How was your day?"
 
-As she continued to prepare the food, Adrex brushed his feet in the door mat, and started to order what had to take top-priority.
+As she continued to prepare the food, Adrex brushed his feet in the door mat, and started prioritizing the day's events.
 
 "Well..." Adrex started, dragging it a bit as the greatest impacts oddly seemed to be the most negative.
 
-If there ever came a time he could hide his feelings from his mother, it would be far in the future, cause she stopped her cyclic motion on the cutting board, turned her attention towards him, her head bowed a bit forward to meet his level, and with eyes that could tell what had transpired.
+If there ever came a time when he could hide his feelings from his mother, it would be far in the future, cause she stopped her cyclic motion on the cutting board, turned her attention towards him, her head bowed a bit forward to meet his level, and with eyes that could tell what had transpired.
 
 "Another one?" she simply asked.
 
@@ -139,7 +140,8 @@ Adrex bumped his head from side to side.
 
 "Was he drunk?" his mother tried, which were the most common cause this conversation ever took place.
 
-"No" Adrex replied a bit sad - not that it would have made it that much better if he were.
+"No" Adrex replied a bit sad. *Not that it would have made it that much better if he were.*
+
 "The second one was though.
 The first one had just never seen a dragonborn before, and..."
 
@@ -174,7 +176,7 @@ Adrex waited for his mother to ask for details, just as his father walked into t
 "A mobile trap, hm? 
 He wants to carry a plate around with him, which has a crossbow pointing towards itself?" 
 He greeted his son with a double tap on the shoulder, as he continued towards his wife, kissing her at her cheek, while Adrex' eye rolled a round for the dump dad-joke.
-His dad made a long inhale.
+His dad put his head towards the stewpot, and took a deep breath through his nose.
 
 "Smell like a lovely wife, and a lovely dinner" he said, as he placed both of his hands at her hips, moving them from side to side in a small dance.
 "What are we having tonight?"
@@ -194,8 +196,10 @@ I love it!"
 
 Nadraa turned around from his wife, and pulled a stool out as well.
 "Not too bad, I should say.
-Warden Poppin Drokrusher came by for his desk, saw it, and ordered both a new chair, and a new cane. 
-'The handle must be exact' ", he said, imitating the grumpy, old gnome taking care of Gearhold Prison.
+Warden Poppin Drokrusher came by for his desk, saw it, and ordered both a new chair, and a new cane."
+
+His low voice changed to a higher registry. 
+"The handle must be exact", he said, imitating the grumpy, old gnome taking care of Gearhold Prison.
 
 Adrex couldn't help but chuckle a bit.
 That gnome had had the most ridicules requirements for the table - all sorts of finesses and details had to be engraved into it.
@@ -263,6 +267,8 @@ Or if he wants to be fancy, he can replace the handle, and keep the sticks!"
 Nadraa sat there for a short moment of time, staring befuddled at Adrex.
 "Where do you get all these ideas from, son?"
 
+"If he gets them from food, we might have a few more this evening" his mother injected, as she placed the steaming pot on the middle of the table.
 
+"Could you get the plates, dear?" she said to Adrex.
 
 **NOT DONE YET**.
