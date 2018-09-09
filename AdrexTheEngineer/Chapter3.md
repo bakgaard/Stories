@@ -211,7 +211,7 @@ Also, there were no customers if you always yelled at them, and most of them act
 "Did he go over everything again this time?" Adrex asked a bit tired, though hoping for a laugh.
 
 His dad gave a slight chuckle.
-"For the chair, he just looked over the list, back at me, back to the list and nodded while mumbling it."
+"For the chair, he just looked over the list, back at me, back to the list, and nodded while mumbling it."
 His dad loved to tell these kind of stories.
 
 "For the cane however, he kept saying 'but it must fit *my* hand', and of cause it should.
@@ -219,9 +219,9 @@ So I took out some clay, made him squeeze it - haha."
 
 *Clay?* Adrex thought to himself.
 
-"He wasn't exactly pleased, but when I told him I now had a mold for his exact hand, he started looking frantically at the chair, to which I had to ensure him he didn't have to sit in clay."
+"He wasn't exactly pleased, but when I told him I now had a mold for his exact hand, he started looking frantically at the chair, to which I had to reassure him he didn't have to sit in clay."
 
-Adrex gave a laugh just imagining the look on the gnome's face.
+Adrex laughed just imagining the look on the gnome's face.
 
 "So, will you just carve from a huge block and then get the handle right afterwards?" Adrex asked.
 
@@ -235,23 +235,23 @@ Adrex shut his eyes.
 He had a bit of trouble saying it.
 It was actually a little funny.
 
-"I'm trying to help you here."
+"... I'm trying to help you here."
 
-Nadraa placed an elbow on the table, rest his head in his hand.
+Nadraa placed an elbow on the table, resting his head in his hand.
 "Go on then.
-Lets see if I can get a... grip... of it." he said, giving a smirk on his face.
+Lets see if I can get a... grip... on it." he said, putting a smirk on his face.
 
 *There are no end to these silly jokes*, Adrex thought to himself, as he pulled up the notebook he always carried in his satchel, along with a pen.
-As he placed in on the table, he started explaining with a few drawings on an empty page;
+As he placed it on the table, he started explaining with a few drawings on an empty page;
 
 "Let's say you have the handle here" Adrex said, drawing a rectangle in the book.
 "If you drill a hole from the bottom of the handle and up, you should be able to attach a stick to it."
 
 Adrex turned the book around, and pushed it towards his father.
 
-"This way you'll save a lot of wood" he finished.
+"This way you'll save a lot of wood" he added.
 
-As his dad looked at it, he said "yes, but the the stick would fall out, right?" not exactly impressed.
+As his dad looked at it, he said "yes, but then the stick would fall out, right?" not exactly impressed.
 
 "Right..." Adrex said, pulling the book back, tapping the back of his pen a few times at the page.
 "Then you could place the stick in the hole, drill a hole through the side of the handle and the stick, and place a pin in it" he said, drawing a small circle in the middle of the stick.
@@ -270,5 +270,9 @@ Nadraa sat there for a short moment of time, staring befuddled at Adrex.
 "If he gets them from food, we might have a few more this evening" his mother injected, as she placed the steaming pot on the middle of the table.
 
 "Could you get the plates, dear?" she said to Adrex.
+
+A simple nod, and he stood up to get the four plates, cups, and cutlery.
+Muscle memory however always counted 5 of everything, but since his brother, Idrex, left the house, it was only his parents and uncle who were to be served.
+Placing them around the table, always 
 
 **NOT DONE YET**.
