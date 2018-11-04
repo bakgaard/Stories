@@ -273,6 +273,19 @@ Nadraa sat there for a short moment of time, staring befuddled at Adrex.
 
 A simple nod, and he stood up to get the four plates, cups, and cutlery.
 Muscle memory however always counted 5 of everything, but since his brother, Idrex, left the house, it was only his parents and uncle who were to be served.
-Placing them around the table, always 
+
+As he turned around to set the table, a small bump could be heard upstairs from his uncle's room, along with some creaking floors having a lot of weight pushing down on them.
+
+His mother glanced up, as she walked to her seat.
+"Donaar has an excellent sense of timing, I must say" she said with a smile on her face.
+
+New creaking from above told them, that Donaar had arrived - or at least someone had - but what sealed the deal was the sudden outcry made.
+
+"IDIOTS - ALL OF THEM!"
+
+All though slightly muffled, the voice most certainly belonged to his uncle Donaar, and the outcries was like a 'I am home'-yell Adrex gave when he entered the mill.
+Sometimes he would spice the line up with new phrases, that would empty any food or drink in a spray in front of you.
+
+
 
 **NOT DONE YET**.
