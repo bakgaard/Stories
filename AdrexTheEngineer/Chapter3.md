@@ -1,28 +1,12 @@
 # Chapter 3
 
-## What is this chapter's purpose?
-* Introduce Adrex' family
-	* The brother has left
-	* His uncle complains
-* Show the family has conflict, and not everything is happy-dandy
-	* His uncle scry on Adrex' brother: https://roll20.net/compendium/dnd5e/Scrying#content
-
-
-## What shall it accomplish?
-* Better connection for Adrex to the viewer
-* Hang a latern on the brother
-
-## What is being shown that hasn't been shown before?
-* Adrex' family
-* Young adults still living at home?
-
 
 The sound of more fireworks flying in the air, busting into different colors had become so mundane, that Adrex didn't even bother to look up at it.
 '*Work hard, and party hard*'' had become the motto of the city, and it was quite fitting.
 
 12 hour work days was the norm here, compared to... well everywhere else, as far as Adrex had heard.
 Hupperdook was the factory of the Dwendalian Empire, and for the long hours system to work, the council of the city had pushed for making it the norm to also celebrate the long days - booze was cheap, the legal drinking age was when you started working 12 hour shifts a day, and it was in no way frowned upon to still be partying at 3 in the morning.
-After all - the barkeepers had 12 hour too, just shifted compared to most other in the city.
+After all - the barkeepers had 12 hour too, just shifted compared to most in the city.
 
 Another rocket went up not too far from Adrex - it took a bit longer to go off, and burst into a large, silver ring of glistening sparkles, followed by a cheer from the launchpad from where it had been shot up.
 Adrex looked in their direction.
@@ -30,11 +14,11 @@ He had tried to send some rockets up - it wasn't expensive in Hupperdook, and th
 The twins made and sold fireworks, and although it was a competitive business here, they mainly focused on shipping to elsewhere - the price was higher, and they didn't have to make as much of it.
 
 They had explained that they really had to focus on two things, which they separated between them; They made fireworks that didn't blow up in your face, and they made instruction manuals that was as clear as day.
-Apparently they had received a lot of complains about people getting injured who where not used to using fireworks - mostly from stupid people, they had added.
+Apparently they had received a lot of complains about people getting injured who where not used to handling fireworks - mostly from stupid people, they had added.
 Some had stood no longer than a few feet from an exploding rocket, while other had even held it in their hand, as the fuse ran its cause and the rocket started to fly away.
 
 "It's dangerous, but we try to make it safe" one of the twins - Victoria - had said.
-She wrote manuals far longer than any normal person would ever need, but she and her sister - Smearchuckle - really couldn't afford more lawsuits against people *who thought* that was how to use them.
+She wrote manuals far longer than any normal person would ever need, but she and her sister - Smearchuckle - really couldn't afford more lawsuits from people *who thought* they knew how to use them.
 Adrex had to roll his eyes just thinking about it.
 
 As he continued walking from the shop towards his home, another rocket went up with much more power than usual.
@@ -45,8 +29,8 @@ Adrex turned his head as he kept walking, just to see if-
 It went off far earlier than anticipated, and sent a shower of red, blue, and green sparkles flying around the nearby houses, even some just a few feet from Adrex, to which he instinctively dropped to the ground, knees curled up to his chin, and arms protecting the rest of his head.
 
 Common for all rocket was, that they flew as long as they had powder before they went off. 
-You could normally hear when the powder ran out, before the rest of the rocket exploded into colors of various pattern. 
-This rocket had *not* used all it's powder before it blew up, and from the intense sound it gave off to start with, it had a lot to carry up, if it was not evident from the explosion he had just witnessed. 
+You could normally hear when the powder ran out, before the rest of the rocket exploded into colors in various patterns. 
+This rocket had *not* used all of its powder before it blew up, and from the intense sound it gave off to start with, it had a lot to carry up, if it was not evident from the explosion he had just witnessed. 
 
 Adrex hadn't been hit, but it was damn close.
 As he looked up and around, he could see scorch marks on the ground near him from small burning balls the rocket had carried.
@@ -59,7 +43,7 @@ But besides the scorch marks, all the action was gone as far as Adrex could see.
 A voice from one of the patrons in the nearby inn reached Adrex' ear:
 "Was that your doing, dragon?" 
 
-As Adrex looked in the direction, a stubby bearded gnome stood in the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
+As Adrex looked in the direction, a stubby bearded gnome stood on the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
 
 Adrex ignored the question from the gnome, continuing towards his home.
 
@@ -84,7 +68,7 @@ Instead of up in the air, he should be strapped to an archery target, and you ju
 Adrex stopped his line of thought, before the next took over:
 
 *Shoot with a rocket?
-Have it fire away in the direction you point, hit the target...*
+Have it fire away in the direction you point, and hit a target...*
 
 He had a feeling he was onto something here.
 This might be what he and Yurgunn needed for their mobile trap.
@@ -108,7 +92,7 @@ As he went further away from the center of the city, the houses started to thin 
 It wasn't in use anymore as a mill, but instead served as a house for a dragonborn family, who had come twenty years ago as refugees with a minimal amount of personal belongings, asking for a place to stay.
 Adrex was born here, and had never known his family's previous house or city, and talking about Draconia always made the mood drop a bit.
 
-The extension to the side housed his dad's workshop, and the top of the mill was his uncle's 'sanctum', as uncle Donaar liked to call it - it wasn't that they weren't allowed up there, they were just instructed not to touch what was glowing with anything but a normal candle flame.
+The extension to the side housed his dad's workshop, and the top of the mill was his uncle's 'sanctum', as uncle Donaar liked to call it - it wasn't that they weren't allowed up there, they were just instructed not to touch anything that was glowing - except for normal candle light.
 Adrex' room was in the basement, next to his brother's room. 
 
 As he reached the door of the old building, he called out:
@@ -120,7 +104,7 @@ He inhaled the welcoming smell - a mix of stew his mom was cooking, and small bi
 The inside of the building was all covered in fine wooden facades his dad had made over the years, which made everything seem really nice and expensive.
 The kitchen and dinning room on the ground floor took up most of the space, and the spinal stair case led up to their common room, and the sleeping quarters for both his parents, and for his uncle.
 
-In the kitchen stood his mom, humming near the stove, slicing something to mix into the stewpot.
+In the kitchen stood his mom, humming near the stove, slicing something to mix into a stewpot.
 Dressed in her midday-blue dress and a white apron, she turned her head slightly as she continued slicing what was in front of her, her tail tip waved a bit from side to side.
 
 "Welcome home, dear." she replied with the soft, warm tone, as she gently eyed him.
@@ -136,18 +120,18 @@ If there ever came a time when he could hide his feelings from his mother, it wo
 
 Adrex bumped his head from side to side.
 
-"Well, Yurgunn explained our new customer's actions, so it would actually be two in one day" he sighted, as he pulled a stool out and took a seat at the table, placing both of his elbows on the table, resting his face on his knuckles.
+"Well, Yurgunn explained our new customer's actions, so it would actually be two in one day" he sighed, as he pulled a stool out and took a seat at the table, placing both of his elbows on the table, resting his face on his knuckles.
 
-"Was he drunk?" his mother tried, which were the most common cause this conversation ever took place.
+"Was he drunk?" his mother tried, which were the most common cause this conversation normally took place.
 
 "No" Adrex replied a bit sad. *Not that it would have made it that much better if he were.*
 
 "The second one was though.
 The first one had just never seen a dragonborn before, and..."
 
-They had had this talk over and over, and it was the same they saw each time.
+They had had this talk over and over, and it was the same story each time.
 
-His mother placed a caring hand on his right shoulder, as she moved up behind him, laying her chin the the side of his head, giving him a supporting hug.
+His mother placed a caring hand on his right shoulder, as she moved up behind him, laying her chin to the side of his head, giving him a supporting hug.
 
 "The eyes, the hesitance reactions, and staggering speech?" she tried categorize it to.
 
@@ -274,12 +258,12 @@ Nadraa sat there for a short moment of time with a smile on his face, staring at
 A simple nod, and he stood up to get the four plates, cups, and cutlery.
 Muscle memory however always counted 5 of everything, but since his brother, Ildrex, left the house, it was only his parents and uncle who were to be served.
 
-As he turned around to set the table, a small bump could be heard upstairs from his uncle's room, along with some creaking floors having a lot of weight pushing down on them.
+As he turned around to set the table, a small bump could be heard upstairs from his uncle's room, along with some creaking floors having a lot of weight pushed down on them.
 
 His mother glanced up, as she walked to her seat.
 "Donaar has an excellent sense of timing, I must say" she said with a smile on her face.
 
-New creaking from above told them, that Donaar had arrived - or at least someone had - but what sealed the deal was the sudden outcry made.
+New creaking from above told them, that Donaar had arrived - or at least someone had - but what sealed the deal was the sudden outcry he made.
 
 "IDIOTS - ALL OF THEM!"
 
@@ -314,17 +298,17 @@ This was clearly the nice way of putting it, Adrex thought to himself, only base
 A smile curled up on his face.
 "Yes - a very long day, indeed" he finished, as he accepted the plate with both hands.
 
-There was a moment of almost silent, as they each enjoyed a spoon of Sora's famous (at least in this household) stew, as the tickling at the throat required a full lung's breath, before it got used to the spicy food.
+There was a moment of almost silent, as they each enjoyed a spoon of Sora's famous (at least in this household) stew, as the tickling at your throat required a full lung's breath, before you got used to the spicy food.
 
-As the food found its way, Donaar broke the silent: "This is indeed reason to come home".
+As the food found its way, Donaar broke the silence: "This is indeed reason to come home".
 
 Adrex had a hard time focusing on the food though. 
 His eyes were fixated on the side where his brother used to sit, but now just left an empty space between his mother and uncle.
 It had been a nasty breakup to say the least.
 The one broken panel in the wall had been replaced, after Ildrex had let his anger strike that, instead of their father, as Nadraa had tried to calm him.
-There had been a lot of shouting back an forth, but Ildrex had left in the end, taking only a a backpack could carry, and set out into wherever the road would take him.
+There had been a lot of shouting back and forth, but Ildrex had left in the end, taking only what a backpack could carry, and set out into wherever the road would take him.
 
-His train of thoughts were disrupted as his father poke his spoon on Adrex'  hand. 
+His train of thought were disrupted as his father poke his spoon on Adrex'  hand. 
 "You look like you wandered off, son.
 What's the matter?"
 
@@ -332,7 +316,7 @@ Adrex gave a look towards his father, as he started to nod slowly.
 "Yeah, that... that's a good reason to come home" he said without putting any enthusiasm into the line.
 
 It didn't miss anyone what Adrex was thinking.
-Everyone looked at the table in Ildrex' seat for a quiet moment, before Nadraa broke the silence.
+Everyone glanced in the direction of Ildrex' seat for a quiet moment, before Nadraa broke the silence.
 
 "If food could cut it-" he started, before Sora dropped her spoon onto the plate, stood up, turned around, and fled the room.
 
@@ -342,10 +326,10 @@ It wasn't until his uncle started slurping some of the food, that Adrex realized
 
 Donaar broke the silence:
 "I am sorry for placing the words in your mouth, Adrex" he started.
-"That was poor foresightedness from me."
+"Those were a poor choise of words on my behalf."
 
 Adrex didn't have a lot of words in him right now. 
-He had a lot of unanswered questions, eloquent, sophisticated, and deep phrased - but he could only utter one heartbroken word:
+He had a lot of unanswered questions, but he could only utter one heartbroken word:
 
 "Why?"
 
@@ -361,7 +345,7 @@ Donaar nodded his head, as he continued:
 You were better at the latter, if I recall correctly. 
 You could always find a place to squeeze into, and you stopped that game at some point?"
 
-"Well, yeah..." Adrex had to contemplate why that actually was.
+"Well, yeah..." Adrex had to contemplate why that was exactly.
 He had been good at finding hiding spots... or at least better than his one head taller brother had.
 
 "Guess he wasn't as good at it - I don't know?" 
@@ -374,7 +358,7 @@ How long did that last?"
 It wasn't judgmental, but his uncle was clearly putting out some breadcrumbs for Adrex to follow.
 
 "Ehm, not that long.
-He was way better at it that I were, so..."
+He was way better at it than I were, so..."
 
 His uncle cut in: "Yes, but you found a solution to come around that, right?"
 
@@ -388,7 +372,7 @@ Adrex simply nodded.
 It was one of his most fondest memories.
 Yurgunn had been out, when Adrex and Ildrex had come running with the home-build crossbow... loaded.
 She had stopped the two dragonborns who were both three feet taller than her, and said such things were not toys, and asked where they had the weapon from.
-As Adrex had explained he made it himself, she had asked if she could watch it in action, and the boys were happy to.
+As Adrex had explained he made it himself, she had asked if she could watch it in action, and the boys were happy to show.
 
 At this point, Ildrex were better at shooting with it, but Adrex kept writing improvements down in a notebook every time Ildrex shot with it.
 This led Yurgunn to come with further suggestions, slowly reeling him into the real world of engineering. 
@@ -482,9 +466,10 @@ They sat in silence as they finished their meal.
 It somehow helped on the spirit, and as they finished and cleaned the table, Donaar stood up, and walked to the wall in the entrance which had a mirror hanging on it.
 He picked it off the wall, and went back to kitchen table, where he laid it down.
 
-"Let's see, if I can get a read on him" he said, he started to mumble some incantations, while the others finished cleaning the dishes.
+"Let's see, if I can get a read on him" he said as he started to mumble some incantations, while the others finished cleaning the dishes.
 
-They all gathered around the table, as the image in the mirror slowly started to wave, as a view of fast bird started showing in the frame, rushing faster than anything could move, over mountains to the southwest, past forests, lakes, and deserts, before it slowly descended over a rocky path with a two travelers walking side by side.
+They all gathered around the table, as the image in the mirror slowly started to waver, as an image of their mill showed.
+The image turned towards south-east, and started shooting with great speed, rushing faster than anything could move, over mountains, past forests, lakes, and deserts, before it slowly descended over a rocky path with a two travelers walking side by side.
 As the focus came down to head height, it started to spin around the two in a slow pace, showing Ildrex walking next to a half-orc.
 They were both laughing, and Ildrex looked happy in the moment.
 
@@ -496,7 +481,7 @@ Donaar had started to breath heavily, and had to let go of the scrying spell, be
 That was a reassurance to everyone.
 Adrex got up from his chair.
 
-"I'll be downstairs if you need me, he said."
+"I'll be downstairs if you need me" he said.
 
 His guts were turning - both of relief, but also of worry for his brother.
 He had so many questions for him - where he had been, if he were ever to come back, what he had seen, and who he had met. 
@@ -507,4 +492,6 @@ It only took a few seconds to realize, that it was properly a bad idea.
 He had absolutely *no* idea of how he would survive in the wild.
 
 As he entered his room, his old designs greeted him with their features and flaws.
-He pulled out his chair, and started writing questions he needed to ask Victoria and Smearchuckle tomorrow.
+He pulled out his chair, and started writing questions he needed to ask Victoria and Smearchuckle the following day, as he also noted the ideas he had had for the mobile trap.
+
+[[Previously chapter]](Chapter2.md) - [[Next chapter]](Chapter4.md)
