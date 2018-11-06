@@ -31,7 +31,7 @@ As he walked with a hasty speed towards the city, he had started humming [a song
 
 *The wind leads us to Hupperdook*"
 
-They had been playing on violins, lute, accordion, flute, and an odd box to keep the beat. 
+They had been playing on violins, lute, accordion, flute, and an odd box which had set the beat. 
 And they had all been singing as the song went on. 
 The mood was at its peak that night in the tavern, no doubt about it.
 
@@ -47,34 +47,35 @@ Almost dancing his way through the door under the sign that said "Hammer and Sca
 She had a smile on her face, seeing Adrex so happy and lively. 
 Normally he sat with his face buried in notes, writing, calculating, and mumbling to himself.
 
-"Indeed, I will" Adrex replied, fumbling in his back, before he made a pause, looking a bit around for nothing but his own thoughts.
+"Absolutely" Adrex replied, fumbling in his satchel, before he made a pause, looking a bit around for nothing but his own thoughts.
 
 "Point of order: gears, then rockets", as he took of his back, and went to the workshop in the back.
 "Come - You have to see them in action".
 
-As he walked past Yurgunn, she lit up even more.
+As he walked past Yurgunn, she lit up even more:
 "Uh, yeh' got 'em working?" she exclaimed.
 
 Adrex turned with a grin on his face. 
 "Oh, did I".
 
-As he took the last few steps towards the bench with his setup, he stood a bit to the side, so Yurgunn could see what he had made, as he let the led piece hang to the ground, which made everything spin a few degrees, as it got loaded.
+As he took the last few steps towards the bench with his setup, he stood a bit to the side, so Yurgunn could see what he had made. 
+He let the lead piece hang to the ground, which made everything spin a few degrees, as it got loaded.
 
 "So - as you can see - the plate is pushed up by this spring.
 The spring, when pushed down, will let go of this lever, which releases the break of these gears.
-They are set in motion because of this piece of led dragging them down, and because of the size of the gears, it will only drop a few inches, but spin the gear over here..." Adrex had to check at his notes, just to be sure.
-"... 16 times."
+They are set in motion because of this piece of lead dragging them down, and because of the size of the gears, it will only drop a few inches, but spin the gear over here..." Adrex had to check at his notes, just to be sure.
+"... 16 times, before the gears lock again by the lever and the spring".
 
 He stood for a moment looking at it all, nodding to himself, before Yurgunn interrupted his inner fanfare.
 
-"Yeh' tell'n me, tha' tha plate being pushed down, will only make this stone drop a nudge, but spin this gear 16 times, before it's ready again?"
-Her tone was a combination of disbelief and 'this is amazing', so Adrex just took a step back, and opened his hands towards the plate as a gesture for her to press it.
+"Yeh' tell'n me, tha' tha' plate being pushed down, will only make this stone drop a nudge, but spin this gear 16 times, before it's ready again?"
+Her tone was a combination of disbelief and amazement, so Adrex just took a step back, and opened his hands towards the plate as a gesture for her to press it.
 
 She had one of her expressions on her face where he could almost hear her say "really now?" and as she walked around the table, she held up her hand above the plate with a stretch finger, still looking at Adrex.
 
 Adrex nodded twice, as she pressed it down with narrow eyes.
 
-*Click, zzzzuuuuuiiii, duk, click* - in that order, as the gear spun from the drag of the led piece, letting it fall just a few inches, as the plate raised itself again, and the lever snapped into place, keeping the gears in check.
+*Click, zzzzuuuuuiiii, duk, click* - in that order, as the gear spun from the drag of the lead piece, letting it fall just a few inches, as the plate raised itself again, and the lever snapped into place, keeping the gears in check.
 
 *Click, zzzzuuuuuiiii, duk, click*.
 
@@ -106,7 +107,7 @@ Adrex folder his arms, pretty proud of what he had made.
 
 *Click, zzzzuuuuuiiii, duk, click*
 
-The dwarf didn't even take her eyes from his, and her face were without a change, as she click the plate again.
+The dwarf didn't even take her eyes from his, and her face were without a change, as she clicked the plate again.
 
 "... could - hehe - make two devices work in-"
 
@@ -129,7 +130,7 @@ The dwarf didn't even take her eyes from his, and her face were without a change
 *Click, zzzzuuuuuiiii, duk, click*
 
 Adrex couldn't contain his laughter any longer.
-It was fun, but it was also annoying beyond anything he had tried for a long time, and for each press, a shiver shot out through his bones, making him weak in his knees, and left a feeling he had to rub away.
+It was funny, but it was also annoying beyond anything he had tried for a long time, and for each press, a shiver shot out through his bones, making him weak in his knees, and left a feeling he had to rub away.
 
 *Click, zzzzuuuuuiiii, duk, click*
 
@@ -151,4 +152,19 @@ And it kept getting worse and worse for each click.
 
 *Click, zzzz, duk*
 
-The led piece hit the ground.
+The lead piece hit the ground.
+Adrex' knees were still itching along with his elbows, hand wrists, ankles, and shoulders, and he was still giggling, though less audible and more focused on rubbing his joints.
+
+"Looks more la' yeh' mad' a toy, Adri" the dwarf said with a big grin on her face, as she turned back to the setup to study it further.
+
+"Of cause we can use it fo' traps - tha's obvious" she said, but her face up close to one of the gears. 
+
+"Yeh started t' say somethin' 'bout e' makin' a certain amount of spin, and somethin' about two devices, eh?"
+
+Adrex had finally gather himself enough to get an arm up at the table to help him up from the floor.
+
+"Yeah, the gears turn in perfect unison - they cannot not be exactly where you expect them to be with the math.
+They don't skip a cog - even though they are so small."
+He was still rubbing his wrists as he got up.
+
+
