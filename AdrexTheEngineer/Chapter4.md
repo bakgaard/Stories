@@ -199,9 +199,9 @@ Yurgunn didn't seem less worried by that statement, but started nodding.
 "Yeh' wan' t' send som'n like rockets towards the target?" 
 
 She wasn't convinced at all by the look on her face.
-"Ya - tha' most indeed be a stepping stone.
+"Ay - tha' most indeed be a stepping stone.
 I need t' hear more about it later.
-First, I'll head over t' Tinkertop and ask if 'e wan' to com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ya?"
+First, I'll head over t' Tinkertop 'n' ask if 'e wan' to com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
 
 She was already about to leave through the front door, as Adrex called out to her: 
 "You won't mind, if I stop by the twins for some research, right?"
@@ -210,7 +210,102 @@ That usually wasn't a problem.
 "Just don't tell 'em the secrets this time!" came a stern reply.
 
 It *usually* wasn't a problem - for a reason.
-When Adrex got an idea and people propped him about it, he had a hard time holding back about how it would work. 
+When Adrex had an idea and people probed him about it, he had a hard time holding back about how it would work. 
 And that was half of their business - selling functional ideas, and turning these ideas into actual solutions for clients.
 
-Well - that meant he had an hour or two, before a demonstration was needed.
+Well - that meant he had an hour or two, before a demonstration was needed from him.
+He grabbed his satchel, checked his notebook and pencil was in there, and found the sign for the front door.
+Well, it wasn't a sign, but more a modular board, with the carved in text:
+
+**Not in the store.**
+
+**Will be back at __ __ __ __**
+
+The blank line at the end was a hole, which showed a small part of a spinner.
+The spinner had had the text "noon", "evening", and "tomorrow" engraved.
+This way they could reuse the same sign whenever they went out, but modify it to show clients who came by about when to expect them back.
+
+*Well, it's pretty early in the day, but 'noon' should cut it*, Adrex thought to himself, as he placed it on the door, locked it, and headed towards the twins and their shop.
+He had tried to figure out how to conceal how he could ask questions, that wouldn't give away what he was making, or planning to make at least.
+He'd made a small list of phrases he thought would not give away too much, yet stay close enough to the subject.
+Basically, he needed to know why rockets took so long to fly off, what made them fly, and if they could fly straight in any way.
+That could be wrapped into some questions that wouldn't spark too much of an interest with the twins.
+
+Adrex turned a corner, and could see the two stories tall building which had its own flat roof which acted as a launchpad.
+The sign at the door said **Rockets with sparkles and glitter**, and it fooled no one.
+The twins specialized in sparkles and glitter, because that was what their customers wanted to see, and the customers would even have a chance to see some been shot up from the roof.
+
+Adrex stood outside the door for a short moment, gathering his thoughts, and wiggled his face to look relaxed, clearing his voice with a few coughs, before he knocked trice on the door, and entering.
+
+The first thing Adrex noted when he entered was, that the air in here was not as bad as it had been at earlier occasions.
+It still had a bit of powder hanging in here, but this thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy over something, though not audible crying.
+As the door bell rang, a small shock went through her, as a face with red swollen eyes look towards the him, quickly changing a depressed frown to... a delight?
+
+Adrex wasn't sure what to say, but tried anyway: "Eh... Victo-"
+
+He was cut off, as she leapt up from the floor, and almost shot herself into him, arms hugging him.
+
+"Oh, Adrex - just the one I needed to see.
+I don't know if I can keep doing this" she started, her voice cracking a bit.
+
+Adrex had to scan the room for whatever could have caused this, as he gently put his arms around hers, gently patting her on the back.
+There was no sign of a break-in, the desk had its papers stacked neatly, and finished products were stacked in glass cases - ah, there - at the floor, next to where she had been sitting was a scroll on the floor.
+That must have been what caused this.
+
+"There, there" he said, still with some confusion in his voice.
+"How can I help you?"
+
+She released him of her hug, as she took a step back, and wiped her right eye with her sleeve.
+
+"You are one of the most sensible individuals I know, and I..." she started, before she cut herself off with as her arms made a resigning gesture.
+
+"I need common sense around, and perhaps a bit more than that."
+Her voice had shifted from a more helpless state to a irritated.
+
+Adrex stilled had too little to go on, so he just took the compliment, as he closed the door behind him.
+
+"Okay... Ehm, tell me what happened", Adrex said, as Victoria had started to rub her temples.
+
+She let go of her head, and held her hands in the air for a second,before she spun around towards the scroll on the ground.
+
+"We received a complaint.
+The customer was not happy, and have said they will never buy anything from us again".
+She had picked up the scroll, and started waving it in the air, before she slammed in down on the table.
+
+That was indeed bad news, Adrex thought to himself.
+If the customer had even taken the time to write the twins, it must have been a really bad experience they had had.
+
+"Okay - did the rocket misfire, or something like that?" Adrex asked, still not quite sure why he was the one she wanted to see over a complaint she had gotten.
+Adrex wasn't too good around customers, so he didn't have a whole lot of good advice to give on that subject.
+
+"What? No - never!
+Our rockets always works." Victoria replied, with a rushed voice, and continued with a more frustrated tone:
+"The dimwit who wrote this thought they would be helpful, and wrote down the entire event down!" 
+
+*Well, that makes it easier to find the root cause.*
+Adrex didn't say it, but just hang his satchel at the coat stand, as Victoria started to read from the paper.
+
+"*To 'Rockets with sparkles and glitter'.*"
+
+"*After my purchase at your shop, and many promises of the best money could buy, I am deeply disappointed in the result. 
+You even included a ridiculously long guide of how to proceed, and after reviewing it several times, I found I did everything to the point, but still ended up disappointed with the result.*"
+
+She had picked it up and was started pacing back and forth in the room, as she read it aloud.
+
+"*I placed it in a tube, as specified in section 5, cleared the area around it as specified in section 3, had the necessary protection gear* - yada, yada, yada." 
+She skipped most of the steps, as she continued:
+
+"*- and we almost couldn't see it.*
+*The sky was clear of clouds, and the rocket went straight up, and my would-be-business partner and I agreed, that this was the most disappointing ending to an otherwise wonderful* ***lunch arrangement!***".
+
+As she looked up from the paper with look of disbelief, it hit Adrex what was wrong, but he didn't get to more than open his mouth, before she slammed the scroll onto the counter, and with a fury Adrex never had imagined Victoria had inside her, roared: "THAT IDIOT FIRED IT MIDDAY!"
+
+She took a step towards the chair, as she collapsed in it, heavy breathing, as she tried to calm herself.
+
+Adrex had a challenge with what to do with himself.
+This was one of the most stupid things he had ever heard a customer do, and it so clearly justified why Victoria had to write all of these manuals. 
+But he couldn't laugh of it, cause the situation did not call for laughter.
+
+He totally understood her frustration though, cause they had had stupid clients as well, who 'wanted to try their own security system, and had been hurt' - which was the point with that particular system.
+When they had gotten that news, Adrex not been able to contain himself, and there was still a clear mark in his work bench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do, and what they cannot do, with their products.
+
