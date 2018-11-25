@@ -174,12 +174,12 @@ Yurgunn had raised an eyebrow at this moment, as if an idea had struck her.
 They might be in need of som'n like this?" 
 She looked back to Adrex, who had tilted his head a bit to the side.
 
-"We could get 'em over to see the pos'bilities, and sell 'em the schematics, ya?"
+"We could get 'em over to see the pos'bilities, and sell 'em the schematics, ai?"
 
 Adrex liked the sound of that. 
 If Cleff Tinkertop and his daugther, Rissannya, would buy it, then they could sell it to others as well.
 
-"Yeah", Adrex said, nodding his head while scratching the back of his head.
+"Yeah", Adrex said, nodding while scratching the back of his head.
 "That sounds like a plan.
 Do you want to setup the meeting today?"
 
@@ -201,7 +201,7 @@ Yurgunn didn't seem less worried by that statement, but started nodding.
 She wasn't convinced at all by the look on her face.
 "Ay - tha' most indeed be a stepping stone.
 I need t' hear more about it later.
-First, I'll head over t' Tinkertop 'n' ask if 'e wan' to com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
+First, I'll head over t' Tinkertop 'n' ask if 'e wan' t' com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
 
 She was already about to leave through the front door, as Adrex called out to her: 
 "You won't mind, if I stop by the twins for some research, right?"
@@ -210,7 +210,7 @@ That usually wasn't a problem.
 "Just don't tell 'em the secrets this time!" came a stern reply.
 
 It *usually* wasn't a problem - for a reason.
-When Adrex had an idea and people probed him about it, he had a hard time holding back about how it would work. 
+When Adrex had an idea and people probed him about it, he had a hard time holding back about the details. 
 And that was half of their business - selling functional ideas, and turning these ideas into actual solutions for clients.
 
 Well - that meant he had an hour or two, before a demonstration was needed from him.
@@ -225,9 +225,9 @@ The blank line at the end was a hole, which showed a small part of a spinner.
 The spinner had had the text "noon", "evening", and "tomorrow" engraved.
 This way they could reuse the same sign whenever they went out, but modify it to show clients who came by about when to expect them back.
 
-*Well, it's pretty early in the day, but 'noon' should cut it*, Adrex thought to himself, as he placed it on the door, locked it, and headed towards the twins and their shop.
-He had tried to figure out how to conceal how he could ask questions, that wouldn't give away what he was making, or planning to make at least.
-He'd made a small list of phrases he thought would not give away too much, yet stay close enough to the subject.
+Adrex turned it to *noon*, placed it on the door, locked it, and headed towards the twins and their shop.
+He had tried to figure out how to conceal how he could ask questions, that wouldn't give away what he was making - or planning to make at least.
+He had made a small list of phrases he thought would not give away too much, yet stay close enough to the subject.
 Basically, he needed to know why rockets took so long to fly off, what made them fly, and if they could fly straight in any way.
 That could be wrapped into some questions that wouldn't spark too much of an interest with the twins.
 
@@ -235,10 +235,10 @@ Adrex turned a corner, and could see the two stories tall building which had its
 The sign at the door said **Rockets with sparkles and glitter**, and it fooled no one.
 The twins specialized in sparkles and glitter, because that was what their customers wanted to see, and the customers would even have a chance to see some been shot up from the roof.
 
-Adrex stood outside the door for a short moment, gathering his thoughts, and wiggled his face to look relaxed, clearing his voice with a few coughs, before he knocked trice on the door, and entering.
+Adrex stood outside the door for a short moment, gathering his thoughts, and wiggled his face to look relaxed, clearing his voice with a few coughs, before he knocked trice on the door, and entered.
 
 The first thing Adrex noted when he entered was, that the air in here was not as bad as it had been at earlier occasions.
-It still had a bit of powder hanging in here, but this thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy over something, though not audible crying.
+It still had a bit of powder hanging in here, but this thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy about something, though not audible crying.
 As the door bell rang, a small shock went through her, as a face with red swollen eyes look towards the him, quickly changing a depressed frown to... a delight?
 
 Adrex wasn't sure what to say, but tried anyway: "Eh... Victo-"
@@ -248,7 +248,7 @@ He was cut off, as she leapt up from the floor, and almost shot herself into him
 "Oh, Adrex - just the one I needed to see.
 I don't know if I can keep doing this" she started, her voice cracking a bit.
 
-Adrex had to scan the room for whatever could have caused this, as he gently put his arms around hers, gently patting her on the back.
+Adrex had to scan the room for whatever could have caused this, as he gently put his arms around her, gently patting her on the back.
 There was no sign of a break-in, the desk had its papers stacked neatly, and finished products were stacked in glass cases - ah, there - at the floor, next to where she had been sitting was a scroll on the floor.
 That must have been what caused this.
 
@@ -257,19 +257,18 @@ That must have been what caused this.
 
 She released him of her hug, as she took a step back, and wiped her right eye with her sleeve.
 
-"You are one of the most sensible individuals I know, and I..." she started, before she cut herself off with as her arms made a resigning gesture.
-
+"You are one of the most sensible individuals I know, and I..." she started, before she cut herself off with as her arms made a resigning gesture, as her voice went from a helpless state to irritated.
 "I need common sense around, and perhaps a bit more than that."
-Her voice had shifted from a more helpless state to a irritated.
+
 
 Adrex stilled had too little to go on, so he just took the compliment, as he closed the door behind him.
 
 "Okay... Ehm, tell me what happened", Adrex said, as Victoria had started to rub her temples.
 
-She let go of her head, and held her hands in the air for a second,before she spun around towards the scroll on the ground.
+She let go of her head, and held her hands in the air for a second, before she spun around towards the scroll on the ground.
 
-"We received a complaint.
-The customer was not happy, and have said they will never buy anything from us again".
+"We received a complaint!
+The customer was *not* happy, and have said they will never buy anything from us again".
 She had picked up the scroll, and started waving it in the air, before she slammed in down on the table.
 
 That was indeed bad news, Adrex thought to himself.
@@ -280,7 +279,7 @@ Adrex wasn't too good around customers, so he didn't have a whole lot of good ad
 
 "What? No - never!
 Our rockets always works." Victoria replied, with a rushed voice, and continued with a more frustrated tone:
-"The dimwit who wrote this thought they would be helpful, and wrote down the entire event down!" 
+"The dimwit who wrote this thought they would be helpful, and wrote down the entire event!" 
 
 *Well, that makes it easier to find the root cause.*
 Adrex didn't say it, but just hang his satchel at the coat stand, as Victoria started to read from the paper.
@@ -306,6 +305,62 @@ Adrex had a challenge with what to do with himself.
 This was one of the most stupid things he had ever heard a customer do, and it so clearly justified why Victoria had to write all of these manuals. 
 But he couldn't laugh of it, cause the situation did not call for laughter.
 
-He totally understood her frustration though, cause they had had stupid clients as well, who 'wanted to try their own security system, and had been hurt' - which was the point with that particular system.
-When they had gotten that news, Adrex not been able to contain himself, and there was still a clear mark in his work bench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do, and what they cannot do, with their products.
+He understood her frustration though, cause they had had stupid clients as well, who 'wanted to try their own security system, and had been hurt' - which was the point with said security system.
+When they had gotten that news, Adrex had not been able to contain himself, and there was still a clear mark in his work bench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do - and what they cannot do - with their products.
 
+
+Careful with his words, Adrex thought he might be able to shift Victoria's thoughts to something else.
+"So, what does Smearchuckle think of the situation?"
+
+A smile could be seen shortly at Victoria's face, as she kept staring into her desk.
+"She is always thinking about the business, you know.
+'Can't have people talking bad about the shop'.
+So she have decided to make an 'apology'-gift for the client..."
+
+*Well, that's nice of her*
+
+"... with extra powder in it, very short fuse, and no instructions."
+
+Adrex couldn't hide his silent laughter that caused his chest to spasm.
+Victoria's fury had left, and was replaced with a smirk, as she turned her head towards the backroom Smearchuckle usually would be in.
+
+"I better go see she won't be blowing up this place" Victoria said, as she stood up.
+
+*Uh, this might be my chance*, Adrex thought to himself, as he probed with a combination of worry and curiosity: 
+"Blow up, you say?"
+
+Victoria was on her way to the back, as she simply replied: 
+"Well, that's what happens if you stuff the powder too tightly. 
+Then the rockets won't fly up, but simply blow."
+
+*Not too tight - got it*.
+
+As she reached the door, she knocked on it twice as she yelled: 
+"Hey - Cluckly'. 
+Is it safe to enter?"
+
+The answer that came back was from a more deep and harsh voice, which had a keen intelligence behind it:
+"Just don't smack any of the equipment around, and you'll be fine!"
+
+Victoria rolled her eyes as she entered the door:
+"That was *one* time, Chuckly.
+Can you please leave it in the past where it belongs?"
+
+Adrex followed suit, as Smearchuckle's comeback cut clear through their shop:
+"LEARN FROM YOUR MISTAKES!"
+
+Adrex had, over time, found out this was the family motto, and could only wonder how it had come to be, but had not dared asking.
+
+He poked his head inside, as the smell of sulfur and charcoal hit his nostrils.
+"Hey Smearchuckle - I hear things are bad today?"
+
+The room reminded him somehow of his own workshop's backroom, except Adrex had files, hammers, and anvils, while Smearchuckle had labeled bottles with powder, mortars, weights, and parchments lying around.
+
+
+
+
+Black powder:
+
+* 75% - Potassium nitrate / , dry
+* 15% - charcoal
+* 10% - Sulfur
