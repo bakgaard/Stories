@@ -200,7 +200,7 @@ Well, it wasn't a sign, but more a modular board, with the carved in text:
 
 **Not in the store.**
 
-**Will be back at __ __ __ __**
+**Will be back at __ __ __ __.**
 
 The blank line at the end was a hole, which showed a small part of a spinner.
 The spinner had the text "noon", "evening", and "tomorrow" engraved.
@@ -339,12 +339,172 @@ He poked his head inside, as the smell of sulfur and charcoal hit his nostrils.
 The room reminded him somehow of his own workshop's backroom, except Adrex had files, hammers, and anvils, while Smearchuckle had labeled bottles with powder, mortars, weights, and parchments lying around.
 
 Victoria's sister sat with a mortar and a pestle, grinding something to powder, as she looked towards Adrex and Victoria. 
-She had a serious expression which shifted more towards a smile, as she his face peaking through the door.
+She had a serious expression which shifted more towards a smile, as his face peaking through the door.
 
 "Well, if it isn't our favorite tinker". 
 She sat up a bit, as she brushed her hair with one end of the pestle.
 "Yes, the customer couldn't see enough fireworks, so I'm trying to give him a really good blast. 
-But I'm facing a bit of an issue with the weight-to-nozzle ratio, so the rocket won't take off at this state."
+But I'm facing a bit of an issue with the weight-to-nozzle-width ratio, so the rocket won't take off at this state."
+
+Adrex looked slightly confused.
+To his knowledge, a rocket flew because the powder inside burned through a small hole - called a nozzle, pushing the rocket upwards.
+The more powder, the bigger the nozzle.
+The bigger the nozzle, the more could be pushed forward.
+
+"Don't you have a fixed ratio for that? 
+Like 2/3 of compound A, and 1/3 compound B, or something like that?"
+
+It was a honest question, and perhaps he could learn something from Smearchuckle.
+She was the one who came up with the materials and formulas, and Victoria came with the ideas, and helped assemble the rockets with Smearchuckle's instructions.
+
+The expression he got back from her, however, clearly stated he had that wrong.
+He glanced towards Victoria, who had a curious look on her face, as if that was her understanding as well.
+
+"Is that...?" he started.
+
+"No" Smearchuckle replied a bit tired.
+"No, not quite."
+
+She had put down the mortar and the pestle, as she tapped a finger on the edge of the mortar, clearly pondering something.
+She then held up a finger, stood up from her chair, and walked over to a table behind her.
+
+"Let's make a small quiz, shall we?" she said, as she grabbed a bottle with powder, and a metal plate.
+She made to rows of powder on the plate - both the same length, but one row had more powder in it that the other.
+
+"The question is simple - which row will burn faster? 
+The thin, or the tick?" she said as she pointed towards the two rows.
+
+That seemed simple enough - the more powder, the more could burn, and the faster it would burn. 
+
+Adrex and Victoria exchanged glances - they both had the same idea.
+
+"The thick one" Victoria said with a good amount of confidence.
+
+*Wait, the less to burn, the faster it can burn?* Adrex thought to himself, just before Smearchuckle took two candles, and held them to each row.
+It went rather fast, and the light was very bright - brightest from the thick row - but when the two rows faded, it was simultaneously.
+
+This was unexpected for both Adrex and Victoria.
+How could this be?
+Adrex had to rub his bridge between his eyes as he pondered this.
+
+Victoria was the first to break the silence:
+"So, they burn equally fast?"
+
+"In free form, yes" Smearchuckle replied, before continuing:
+"As you also saw, the thick row burned brighter than the thin row.
+That could imply, that when we seal the two rows in two rocket with the same size nozzle, the thick row's rocket would burn faster, and fly with greater force upwards, right?"
+
+That sounded like perfect logic to Adrex.
+Victoria nodded as well, as she leaned towards a table.
+
+"Now, I spread the powder in a nice row, and as you saw, the rows burn fast" Smearchuckle continued, as she held up her hands to explain further.
+"The way we make rockets, is by storing a certain amount of powder in the bottom of the rocket - just above the nozzle.
+The nozzle size determines how much can be pushed through at the same time.
+Still keeping up?"
+
+*So far, so good*, Adrex thought to himself, as he nodded again.
+
+"And as you might have thought; more powder - more flame.
+There's a small catch, however" she said with a more serious expression.
+"I spread the powder on lines, which meant they could burn as much as the wanted, and produce all the fire they could.
+As the powder burned in the row, it would ignite the rest of the row - but with the same speed, since the ratio between the two rows are the same."
+
+Suddenly Adrex got what she was saying, as she continued:
+
+"But when you pack that into a rocket, it's not in lines - it's just a pack, that almost burn everything at the same time.
+Take a guess at what happens, when more powder, in a rocket, all burns at the same time?"
+
+Adrex didn't have to guess.
+He saw what happened the other night, and had felt the effect around him, as the rocket had started flying, and blew up, sending all it's colors flying around his curled up tail.
+
+Victoria looked slightly confused though.
+"Then it will come out faster, and with a bigger nozzle push the rocket up, right?"
+
+Adrex held his hands up near each other so Victoria could see them, as he shaped them to a ball, and stretched his fingers so show an explosion.
+
+Smearchuckle had a wry smile on her face, as she nodded towards Adrex' motions.
+"I had the same thought, dear sister, but Adrex got it right, I'm afraid.
+When you pack powder too tight, it will blow up, sending everything flying around your ears.
+There's simply too great an expansion, and our rockets are merely made of clay and parchment."
+
+She threw her hands up in the air, as she exclaimed: "And that is why I can't make a bigger rocket with more content in. 
+It will blow up in our face."
+
+*Clay and parchments?* Adrex thought to himself.
+Well, there was something stronger out there, for sure.
+
+"How about making it of metal then?" he asked.
+
+Smearchuckle looked at him with a bit of confusion.
+"There's a couple of issues there, my dear tinker" she started.
+"If you make it of metal, it will be heavier, and require more powder.
+And if load more powder, you will get a equally short burn, just with way more force in it. 
+That, however, will make it more uncontrollable".
+
+It was like a frustration she could get off her mind.
+
+"And if that wasn't enough, metal rockets would cost way more to make, and a piece of metal would drop down from the sky when fired."
+
+She finally sighed.
+"I'm sorry, Adrex, but I don't think you can get such a heavy object up with a rocket."
+
+Adrex had to admit defeat.
+He simply didn't know enough about the topic to pitch in with something valuable at this point.
+"Yeah, you are right. 
+That would require a canon, or something like it.
+Perhaps not as big, but..."
+
+*Actually, that's not a bad idea*, Adrex thought to himself.
+Canons shot huge cannonballs, which required way too much force.
+
+"How about a small canon to fire the glitter in the air?" he asked.
+
+There was a quiet moment, as Smearchuckle sat frozen to the place, clearly thinking about it.
+As Adrex looked to Victoria, she had a very focused stare in the ground, as she too had started thinking about it.
+
+Smearchuckle broke the silence:
+"We could separate the powder in the rocket from the package with the glitter in, and we have fuses..." she started, before she made some big eyes to her sister.
+
+Adrex sometimes had short, mute conversations with Yurgunn, when he had proposed something, and she didn't even wanted to say anything, but just make facial expression, which they back and forth with, until it was decided that it was a ridiculous suggestion.
+
+The conversation Victoria and Smearchuckle held, however, was way longer, and required way more expressions, but still without a sound.
+At some point Smearchuckle, facing her sister, nodded towards Adrex with a very firm look.
+Victoria turned to Adrex, as she licked her mouth, and with a very charming voice said:
+
+"Adrex dear, why don't we... make a deal?"
+
+*What? yes, sure - wait no, not too hasty*, Adrex thought to himself, as his heart suddenly started pounding faster.
+
+"Ehm-" he started, as his mind kept racing.
+
+*Deal - why? 
+What do they want they want a deal about?
+They are not serious about making canons, are they?
+No they can't...
+Actually it could be a good idea to send up only the glitter... and... I came up with that*.
+
+Yes, that was it.
+But Adrex didn't want to make canons with glitter.
+He wanted...
+
+*A mobile cannon which could send something out in a heartbeat.*
+
+"Deal, you say?"
+There was something to gain here.
+
+Victoria gentle put her hand around his arm, as she closely leaned in him, padding his shoulder with her other hand, as her silky smooth voice continued.
+
+"You know - that was a really good suggestion you had there."
+
+*Oh dear, she smells wonderful*, Adrex thought has he had kept hammering.
+
+"And,-" she continued with a lulled tone.
+"That could put us in a *very* fine position on the market, if *we* don't tell them about how it works, right?"
+
+Adrex had a hard time thinking clearly.
+
+
+
 
 
 
