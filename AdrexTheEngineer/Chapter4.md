@@ -32,7 +32,7 @@ Normally he sat with his face buried in notes, writing, calculating, and mumblin
 
 "Absolutely" Adrex replied, fumbling in his satchel, before he made a pause, looking a bit around for nothing but his own thoughts.
 
-"Point of order: gears, then rockets", as he took of his back, and went to the workshop in the back.
+"Point of order: gears, then rockets", as he took off his back, and went to the workshop in the back.
 "Come - you have to see them in action".
 
 As he walked past Yurgunn, she lit up even more:
@@ -42,7 +42,7 @@ Adrex turned his head with a grin on his face.
 "Oh, did I".
 
 As he took the last few steps towards the bench with his setup, he stood a bit to the side, so Yurgunn could see what he had made. 
-He let the lead piece hang to the ground, which made everything spin a few degrees, as it got loaded.
+He let the lead piece hang freely in the air, which made everything spin a few degrees, as it got loaded.
 
 "So - as you can see - the plate is pushed up by this spring.
 The spring, when pushed down, will let go of this lever, which releases the break of these gears.
@@ -51,7 +51,7 @@ They are set in motion because of this piece of lead dragging them down, and bec
 
 He stood for a moment looking at it all, nodding to himself, before Yurgunn interrupted his inner fanfare.
 
-"Yeh' tell'n me, tha' tha' plate being pushed down, will only make this stone drop a nudge, but spin this gear 8 times, before it's ready again?"
+"Yeh' tell'n me, tha' tha' plate being pushed down, will only make this stone drop a nudge, but spin tha' gear 8 times, before it's ready again?"
 Her tone was a combination of disbelief and amazement, so Adrex just took a step back, and opened his hand towards the plate as a gesture for her to try it.
 
 She had one of her expressions on her face where he could almost hear her say "really now?", and as she walked around the table, she held her hand above the plate with a stretch finger, still looking at Adrex.
@@ -85,7 +85,7 @@ Adrex folded his arms, rather proud of what he had made.
 
 *Click, zzzzuuuuuiiii, duk, click*
 
-"-the..." Adrex had a hard time not grinning, as Yurgunn pressed the plate again.
+"-the..." Adrex had a hard time not giggling, as Yurgunn pressed the plate again.
 "eh - the gears can spin an exact amount of time, which-"
 
 *Click, zzzzuuuuuiiii, duk, click*
@@ -97,7 +97,7 @@ The dwarf didn't take her eyes from his, and her face were without a change, as 
 *Click, zzzzuuuuuiiii, duk, click*
 
 "Yurgunn, pl... please stop." 
-Adrex had a hard time containing his laughter and frustration, as the dwarf kept her eyes on him, as she pressed the plated another time.
+A combination of laughter and frustration was building up inside Adrex, as the dwarf kept her eyes on him, as she pressed the plated another time.
 
 "I'm list'ning, Adri" she said without a change in her face.
 
@@ -114,7 +114,7 @@ Adrex had a hard time containing his laughter and frustration, as the dwarf kept
 *Click, zzzzuuuuuiiii, duk, click*
 
 Adrex couldn't contain his laughter any longer.
-It was funny, but it was also annoying beyond anything he had tried for a long time, and for each press, a shiver shot out through his bones, making him weak in his knees, and left a feeling he had to rub away.
+It was funny, but it was also annoying beyond anything he had tried for a long time, and for each press, a shiver shot through his bones, making him weak in his knees, and left an itch he had to rub away.
 
 *Click, zzzzuuuuuiiii, duk, click*
 
@@ -129,7 +129,7 @@ I- I can't..." Adrex actually couldn't stand up anymore, and his knees gave in u
 
 *Click, zzzzuuuuuiiii, duk, click*
 
-It was like a dozen of small insects crawling around inside his bones, making every joint in this body have a need to be rubbed.
+It was like a dozen of small insects crawling around inside his bones, making every joint in this body itch and nothing to help it.
 And it kept getting worse and worse for each click.
 
 *Click, zzzzuuuuuiiii, duk, click*
@@ -142,8 +142,7 @@ Adrex' knees were still itching along with his elbows, hand wrists, ankles, and 
 "Looks more la' yeh' mad' a toy, Adri" the dwarf said with a big grin on her face, as she turned back to the setup to study it further.
 
 "Of cause we can use it fo' traps - tha's obvious" she said, with her face up close to one of the gears. 
-
-"Yeh started t' say somethin' 'bout e' makin' a certain amount of spin, and somethin' about two devices, eh?"
+"Yeh started te' say somethin' 'bout e' makin' a certain amount of spin, and somethin' about two devices, eh?"
 
 Adrex had finally gather himself enough to get an arm up at the table to help him up from the floor.
 
@@ -156,7 +155,6 @@ Yurgunn had raised an eyebrow at this moment, as if an idea had struck her.
 "Wha' 'bout tha' Tinkertop fam'ly?
 They might be in need of som'n like this?" 
 She looked back to Adrex, who had tilted his head a bit to the side.
-
 "We could get 'em over to see the pos'bilities, and sell 'em the schematics, ai?"
 
 Adrex liked the sound of that. 
@@ -184,7 +182,7 @@ Yurgunn didn't seem less worried by that statement, but started nodding.
 She wasn't convinced at all by the look on her face.
 "Ay - tha' most indeed be a stepping stone.
 I need t' hear more about it later.
-First, I'll head over t' Tinkertop 'n' ask if 'e wan' t' com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
+First, I'll head over t' Tinkertop n' ask if 'e wan' t' com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
 
 She was already about to leave through the front door, as Adrex called out to her: 
 "You won't mind, if I stop by the twins for some research, right?"
@@ -205,7 +203,7 @@ Well, it wasn't a sign, but more a modular board, with the carved in text:
 **Will be back at __ __ __ __**
 
 The blank line at the end was a hole, which showed a small part of a spinner.
-The spinner had had the text "noon", "evening", and "tomorrow" engraved.
+The spinner had the text "noon", "evening", and "tomorrow" engraved.
 This way they could reuse the same sign whenever they went out, but modify it to show clients who came by about when to expect them back.
 
 Adrex turned it to *noon*, placed it on the door, locked it, and headed towards the twins and their shop.
@@ -214,24 +212,24 @@ He had made a small list of phrases he thought would not give away too much, yet
 Basically, he needed to know why rockets took so long to fly off, what made them fly, and if they could fly straight in any way.
 That could be wrapped into some questions that wouldn't spark too much of an interest with the twins.
 
-Adrex turned a corner, and could see the two stories tall building which had its own flat roof which acted as a launchpad.
+After a few minutes of walking, Adrex turned a corner, and could see the two stories tall building which had its own flat roof which acted as a launchpad.
 The sign at the door said **Rockets with sparkles and glitter**, and it fooled no one.
-The twins specialized in sparkles and glitter, because that was what their customers wanted to see, and the customers would even have a chance to see some been shot up from the roof.
+The twins specialized in sparkles and glitter, because that was what their customers wanted to see, and the customers would even have a chance to see some being shot off from the roof.
 
 Adrex stood outside the door for a short moment, gathering his thoughts, and wiggled his face to look relaxed, clearing his voice with a few coughs, before he knocked trice on the door, and entered.
 
 The first thing Adrex noted when he entered was, that the air in here was not as bad as it had been at earlier occasions.
-It still had a bit of powder hanging in here, but this thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy about something, though not audible crying.
+It still had a bit of powder hanging in here, but this train of thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy about something, though not audible crying.
 As the door bell rang, a small shock went through her, as a face with red swollen eyes look towards the him, quickly changing a depressed frown to... a delight?
 
 Adrex wasn't sure what to say, but tried anyway: "Eh... Victo-"
 
 He was cut off, as she leapt up from the floor, and almost shot herself into him, arms hugging him.
 
-"Oh, Adrex - just the one I needed to see.
-I don't know if I can keep doing this" she started, her voice cracking a bit.
+"Oh, Adrex - just the one I needed to see" she started, her voice cracking a bit.
+"I don't know if I can keep on doing this." 
 
-Adrex had to scan the room for whatever could have caused this, as he gently put his arms around her, gently patting her on the back.
+Adrex had to scan the room for whatever could have caused this, as he gently put his arms around her, lightly patting her on the back.
 There was no sign of a break-in, the desk had its papers stacked neatly, and finished products were stacked in glass cases - ah, there - at the floor, next to where she had been sitting was a scroll on the floor.
 That must have been what caused this.
 
@@ -249,10 +247,11 @@ Adrex stilled had too little to go on, so he just took the compliment, as he clo
 "Okay... Ehm, tell me what happened", Adrex said, as Victoria had started to rub her temples.
 
 She let go of her head, and held her hands in the air for a second, before she spun around towards the scroll on the ground.
+A firmness entered her voice along with frustrations.
 
 "We received a complaint!
 The customer was *not* happy, and have said they will never buy anything from us again".
-She had picked up the scroll, and started waving it in the air, before she slammed in down on the table.
+She had picked up the scroll, and started waving it in the air, before she slammed it down on the table.
 
 That was indeed bad news, Adrex thought to himself.
 If the customer had even taken the time to write the twins, it must have been a really bad experience they had had.
@@ -272,7 +271,7 @@ Adrex didn't say it, but just hang his satchel at the coat stand, as Victoria st
 "*After my purchase at your shop, and many promises of the best money could buy, I am deeply disappointed in the result. 
 You even included a ridiculously long guide of how to proceed, and after reviewing it several times, I found I did everything to the point, but still ended up disappointed with the result.*"
 
-She had picked it up and was started pacing back and forth in the room, as she read it aloud.
+She had picked it up and started pacing back and forth in the room, as she read it aloud.
 
 "*I placed it in a tube, as specified in section 5, cleared the area around it as specified in section 3, had the necessary protection gear* - yada, yada, yada." 
 She skipped most of the steps, as she continued:
@@ -286,10 +285,10 @@ She took a step towards the chair, as she collapsed in it, heavy breathing, as s
 
 Adrex had a challenge with what to do with himself.
 This was one of the most stupid things he had ever heard a customer do, and it so clearly justified why Victoria had to write all of these manuals. 
-But he couldn't laugh of it, cause the situation did not call for laughter.
+But he couldn't laugh of it, cause the situation did not call out for laughter.
 
 He understood her frustration though, cause they had had stupid clients as well, who 'wanted to try their own security system, and had been hurt' - which was the point with said security system.
-When they had gotten that news, Adrex had not been able to contain himself, and there was still a clear mark in his work bench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do - and what they cannot do - with their products.
+When they had gotten that news, Adrex had not been able to contain himself, and there was still a clear mark in his workbench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do - and what they cannot do - with their products.
 
 
 Careful with his words, Adrex thought he might be able to shift Victoria's thoughts to something else.
@@ -300,7 +299,7 @@ A smile could be seen shortly at Victoria's face, as she kept staring into her d
 'Can't have people talking bad about the shop'.
 So she have decided to make an 'apology'-gift for the client..."
 
-*Well, that's nice of her*
+*Well, that's nice of her...*
 
 "... with extra powder in it, very short fuse, and no instructions."
 
@@ -319,14 +318,14 @@ Then the rockets won't fly up, but simply blow."
 *Not too tight - got it*.
 
 As she reached the door, she knocked on it twice as she yelled: 
-"Hey - Cluckly'. 
+"Hey - Chuckly'. 
 Is it safe to enter?"
 
 The answer that came back was from a more deep and harsh voice, which had a keen intelligence behind it:
 "Just don't smack any of the equipment around, and you'll be fine!"
 
 Victoria rolled her eyes as she entered the door:
-"That was *one* time, Chuckly.
+"That was *one* time, Chuckly'.
 Can you please leave it in the past where it belongs?"
 
 Adrex followed suit, as Smearchuckle's comeback cut clear through their shop:
@@ -338,6 +337,15 @@ He poked his head inside, as the smell of sulfur and charcoal hit his nostrils.
 "Hey Smearchuckle - I hear things are bad today?"
 
 The room reminded him somehow of his own workshop's backroom, except Adrex had files, hammers, and anvils, while Smearchuckle had labeled bottles with powder, mortars, weights, and parchments lying around.
+
+Victoria's sister sat with a mortar and a pestle, grinding something to powder, as she looked towards Adrex and Victoria. 
+She had a serious expression which shifted more towards a smile, as she his face peaking through the door.
+
+"Well, if it isn't our favorite tinker". 
+She sat up a bit, as she brushed her hair with one end of the pestle.
+"Yes, the customer couldn't see enough fireworks, so I'm trying to give him a really good blast. 
+But I'm facing a bit of an issue with the weight-to-nozzle ratio, so the rocket won't take off at this state."
+
 
 
 He had let himself out without real words - just a mumble, some nodding, and the piece of paper he had written the formula on.
