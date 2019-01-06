@@ -1,22 +1,5 @@
 # Chapter 4
 
-* What is this chapter's purpose?
-
-  * Introduce Victoria and Smearchuckle
-  * Let Adrex know, that he is making a gun, and they are illigal
-  * Adrex hands over his gears to [Cleff Tinkertop](https://criticalrole.fandom.com/wiki/Cleff_Tinkertop)
-
-* What shall it accomplish?
-
-  * Adrex shows his creations are worth something, and it's quality
-  * Adrex faces the issue of making a weapon to hurt others, and the process of accepting it.
-  * Show the initial thoughts of a gun.
-
-* What is being shown that hasn't been shown before?
-
-  * Victoria and Smearchuckle
-  * Adrex' thought process of ethic dilemmas
-
 "Bye mom, bye dad, bye Uncle Donaar!" Adrex shouted over his shoulder, as he rushed through the door with his satchel over his shoulder.
 Today was a new day - with new opportunities to explore, investigate, and engineer.
 He had a plan for the day, and he was excited to get to working.
@@ -357,10 +340,32 @@ He poked his head inside, as the smell of sulfur and charcoal hit his nostrils.
 The room reminded him somehow of his own workshop's backroom, except Adrex had files, hammers, and anvils, while Smearchuckle had labeled bottles with powder, mortars, weights, and parchments lying around.
 
 
+He had let himself out without real words - just a mumble, some nodding, and the piece of paper he had written the formula on.
 
-
-Black powder:
-
+<!-- 
 * 75% - Potassium nitrate / , dry
 * 15% - charcoal
-* 10% - Sulfur
+* 10% - Sulfur -->
+
+"Three quarter potassium nitrate. The rest is split three/fifth of charcoal, and two/fifth sulfur".
+
+Apparently this was what the twins used as "black powder", as they called it.
+Very fitting, of cause.
+It was a fine powder, but to think it could have the effect to sent up rockets was very new to Adrex.
+And if it could be make an actual explosion, then Adrex had just what he wanted for his mobile trap.
+Just take a barrel, stomp in some of this black powder, and it would fly in the direction you held it?
+
+*Marvelous*, Adrex thought to himself, as he headed towards the shop.
+And he hadn't given them any secrets at all.
+He had just come up with some suggestions, and then...
+
+A smile curled up on his face.
+Then Victoria had kissed him on the cheek, as she had let her soft body rest towards his.
+He could feel his heart start thumbing faster again. 
+Her face had been so close to his, with puppy eyes and that smile of hers.
+It was like he was next to her again.
+He could even recall her perfume of roses, as she had gently brushed his hand with hers, as her gentle words had left her beautiful lips.
+
+He might need a moment for himself when he got back to the shop...
+
+[[Previously chapter]](Chapter3.md) - [[Next chapter]](Chapter5.md)
