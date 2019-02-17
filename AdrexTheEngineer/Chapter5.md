@@ -7,7 +7,7 @@
     * Test the barrel
   * Get his dad to make a handle of wood
   * Create a rifle
-  * Plan to go off to Thor before meeting "Freddy".
+  * Plan to go off to Xhorhas before meeting "Freddy".
 
 * What shall it accomplish?
   * Get moving with the story
@@ -143,8 +143,9 @@ Although only said as a simple question, the words sent a shiver down Adrex' spi
 
 "Eh, they were the ones who defeated Vecna almost 20 years ago, right?"
 He hadn't heard a lot about them, and what he had heard was conflicting.
-It was an odd group of *very* powerful adventures, who had traveled the continent of Tal'dorei, apparently slaying dragons and the demigod, which sounded crazy had it not been for hardcore facts to back it up.
+It was an odd group of *very* powerful adventures, who had traveled the continent of Tal'dorei, apparently slaying dragons and a demigod, which sounded crazy had it not been for hardcore facts to back it up.
 
+Cleff nodded.
 "Indeed, they did.
 Now, they had a range of different abilities to do what they did - each of them strong in their own way" Cleff continued.
 
@@ -153,10 +154,10 @@ He actually had several with him, to be precise."
 His tone had reached a low registry.
 
 "The short ones he called 'guns', and the long ones he called 'rifles'.
-I don't know how they work, but I know that this is a requirement for them to work.
-And I know of this -" he pointed to the notebook in Yurgunn's hand, "- since I know the son of the man who sold this exact compound to them."
+I don't know how they work, but I know that this -" he pointed to the notebook in Yurgunn's hand, "- is a requirement for them to work.
+And I know of this since I know the son of the man who sold the exact compound to them."
 
-There was a only a faint breath to be heard in the room, before the gnome spoke again.
+There was only the faint breath of Cleff to be heard in the room, before the gnome spoke again.
 
 "... and I believe you know that son's two daughters" he finished with a small smile in his right cheek.
 
@@ -184,14 +185,14 @@ Cleff's eyes darted back to Adrex.
 And nothing wrong with it." 
 He took a deep breath, and narrowed his eyes.
 
-"The story goes, however, that their grandfather ones sold some of it to a woman, who had stolen one of these guns. 
+"The story goes, however, that their grandfather once sold some of it to a woman, who had stolen one of these guns from Percival. 
 And based on that information, Vox Machina tracked her down, and killed her on the spot."
 
 Both Yurgunn and Adrex was as locked in place, and didn't take their eyes off the gnome. 
 Almost simultaneously they swallowed, before Yurgunn asked with worry:
 "Just 'cause she ha' one o' his... guns, was e'?"
 
-Cleff gave a half nod, half turn with his head.
+Cleff gave a half nod, half turned with his head.
 
 "Something about them being very dangerous in the wrong hands, I think" he said, with his gaze down into table with the wheels.
 
@@ -199,7 +200,133 @@ Cleff gave a half nod, half turn with his head.
 
 He looked back up at the two.
 
-"I don't know what you intent to make, but you make traps", he said with monotone voice.
+"I don't know what you intent to make, but you usually make traps", he said a bit tired, though with a smile on his face.
 "Be careful about what you do with it."
 
-<Cleff leaves the two, stating he agrees to the price>
+He clapped his hands together, as he stood from his chair.
+
+"So - you mentioned a price earlier, Yurgunn.
+I'll take it, if I can have the notes on a clean set of parchments."
+
+He went to leave with Yurgunn, who glanced back at Adrex just before she left the room. 
+He was currently frozen to the place, not looking anywhere but where the gnome had left his warning.
+
+Adrex' mind was racing with questions and concerns.
+
+*They killed her for having it?
+Just for having it?
+And now I am making something like it... for others even.
+Oh, dear Bahamut, I will be placing them all in danger if I do this.
+And what about me? ... and Yurgunn? 
+If they find out, they will take us out on the spot.*
+
+He started to look around, at nothing in particular, as his balance started wavering.
+
+*So don't do it, right? 
+If I don't do it, they can't come after me...
+Wait, I signed a contract with one of those magical seals on - I have to do it!
+SHIT!* 
+
+He placed his hands clasped together in front of his snout, as he started to clap his fingertips together.
+
+*There has got to be a solution to this - come on, Adrex - think!
+If I don't deliver, the Xhorhasian Empire will come after me.
+If I deliver, Vox Machina will come after me.
+That means I... have... to please them both?
+Gah - how can I make something by not making it?
+Do a half-assed job, so neither consider me to be worth a treat, and claiming the task to be impossible? 
+Wait, that might actually work.*
+
+The finger clapping stopped only for a brief moment, before they continued.
+
+*Nah, I have to it correctly, or we'll loose our reputation everywhere.
+'Hammer & Scale can't deliver' - pff. 
+Not happening.*
+
+He started walking around the work bench, which he so often had done when something was troubling him.
+
+*We have to deliver to the Xhorhasians - we can't get around that.
+We deliver, and... tell no one?
+It will fulfill the contract, and if we are discrete, Vox Machina won't ever know we made them.
+Mhm - that might be alright.
+Then we just need to tell no one, and those who knows something, we pay off.
+Nah, that won't last.
+Money makes people do all sort of things.
+We have to...*
+
+Adrex trailed off - he was getting down a very dark line of thinking.
+
+The door to the room suddenly slammed shut, making Adrex jump in his place, as an enraged Yurgunn matched into the room.
+
+"Oh, Yurgunn, please don't-" Adrex started, but was cut off.
+
+"SIT", she shouted, as she slammed the Adrex' notebook into the work bench. 
+Adrex butt found its way to the stool right beside him very fast, being sure not to utter a sound, as his mentor sent him a death glare.
+
+Her voice rang with perfection, as she started walking back and forth:
+
+"I leave yeh' for ONE hour, being specific 'bout not givin' away our secrets, but instead yeh' pick up someone else's, dragging a whole bunch o' problems over our heads."
+
+"When I told yeh' tha' take initiative last week, it was to encourage yeh' to *say* what was on yeh' mind - not signing deals on a whim, trading secrets on a whim, and showing it off to the first person yeh' see!".
+
+She went around the bench to the green scaled dragonborn, who seemed to have become smaller over the shoulders, and almost a foot shorter, as her voice had become a bit softer, though still not pleasant:
+
+"I would have asked if you ever used tha' big head o' your, if it wasn't for the amount of gold pieces we just earned from it", she said, as she grabbed him by his shoulders, shaking him a bit.
+
+"Now THA' was some great stuff yeh' did, Adri'!"
+
+She tapped him on his right shoulder, as she found her own chair, in which she sank down, resting her head in one hand over her eyes.
+
+Adrex didn't know what to say.
+She wasn't wrong.
+How could she see it in another light? 
+He had single-handedly signed the contract the Zhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would kill you outright for, and let someone else know he had the information.
+
+Well, that was maybe putting it on the edge.
+Yes, the contract was entirely on him, but he had thought it was as ordinary as any contract they had ever done.
+The black powder was unexpected though - he couldn't have known that was illegal to possess by some mighty adventures.
+And that Cleff had seen it was not intentional, to say the least.
+
+But here they were.
+
+"Look, Yurgunn. 
+I am sorry about all of this.
+I... I didn't..."
+
+He felt bad, and had no words to express it.
+He had brought them into a bad position, even though he didn't mean to.
+
+Yurgunn made a long sigh, as she looked up from her chair.
+
+"Tha' contract is some real shit, Adri'" she started, shaking her head.
+
+"Can't we get out of it?"
+
+She shot a glance at him, as her tongue made some movement inside her mouth.
+
+"I never told yeh' why I came ta' Hupperdook, did I?" she said softly, all of the hard tone gone.
+
+"Well", Adrex started, trying to recall it.
+"You mentioned your old master, and that you came to seek out new challenges."
+
+"Ay, I did tell you that.
+But tha' wasn't exactly the right reason."
+She sent him a sad look.
+
+"I had a master once, who could turn every piece o' metal to an exact shape.
+Nothin' was too complicated, and nothing stood in his way, so we worked on all sort o' odd jobs no one else could complete.
+One day, however, he signed a magical contract to deliver som' rods te' withstand any force sent against it."
+
+She drew a breath, and exhaled deeply.
+
+"Well, long story short; it couldn't, and I had no master anymore.
+Magical contracts have some fine prints, that set consequences if not held up to the agreements, and this one was not good."
+
+Adrex stared at Yurgunn with his eyes wide open, finding it hard to swallow.
+
+"How... how severe are the consequences of the one I signed?"
+He could feel his heart hammering away, as she looked at him.
+
+"Not good" she said, making a face that indicated the severity was just as bad as her old master's.
+
+*I am doomed!*
