@@ -331,3 +331,41 @@ He could feel his heart hammering away, as she looked at him.
 
 *I am doomed!*
 
+That was about all going through Adrex' mind, as the implications sank in.
+He couldn't get out of it, and now he had to watch out for some crazy people.
+
+Although dragonborns' facial expression are less visible than most other creatures, Yurgunn apparently had no trouble seeing them.
+Maybe it was his eyes than had turned red, or the two lines of salty water than ran from his chins, as he quietly sat there, heaving for air, starring at the notebook which in minutes had torn his world around him apart.
+
+As she stood, and put her arms around him for comfort, a high pitched sound could be heard from Adrex:
+
+"Please don't shout", followed by a very heavy breath, as his eyes closed, and his chest started to jerk up and down.
+
+"I won't, Adri'", she said as she rubbed her hand on his back.
+
+"I'm so sorry, Yurgunn" he finally let out, as the sobs became audible, and he buried his face in his hands, unable to hold back his fears.
+
+Although it didn't last last, and it after a few seconds became more like a whimper, Adrex had suddenly found some determination, as his breathing became more consistent.
+
+*One thing at the time, dummy.*
+*What will kill you the first are the Xhorhasians, and then* maybe *afterwards Vox Machina*.
+*Don't get killed, and don't fuck up even more.*
+
+He stood up, as Yurgunn released her hug around his shoulders, as he reached for the notebook, tore out a page, and wrote down a short list, before he handed it to his master.
+
+"We need this from an alchemist", he sniffed with some sort of determination, before he turned to the back of the workshop.
+
+"Are ye' sure you don't wa-" Yurgunn started before Adrex cut her of.
+
+"I don't have time, Yurgunn.
+I need to do this, and I don't have long to do it." 
+He had started looking at some metal scraps they had laying around in a few boxes.
+
+She looked over the list, tried and worried, as she looked back to her apprentice she knew now was in a mood she couldn't get him out of.
+
+"Ay... I'll lock tha' door before I go... don't open fo' anyone, o'right?" she said.
+
+There was no reply from Adrex, but scramble rustling around.
+
+__
+
