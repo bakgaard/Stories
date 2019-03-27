@@ -71,7 +71,7 @@ The fuzzy eyebrows of the gnome made a small jump, as his right eye narrowed Adr
 "Ey - and it really sounds like you had the... 'wheels turning'... for this one, eh?" he said, as he blinked to Adrex.
 
 Adrex smiled, looking to Yurgunn who gave him a big grin.
-He opened the door to the back room, and showed Cleff in to the setup he had shown Yurgunn earlier.
+He opened the door to the back room, and showed Cleff to the setup he had shown Yurgunn earlier.
 
 After the demonstration, Cleff was clearly impressed, as he inspected one of the small wheels in his hand, with an extra lens in front of his spectacles.
 
@@ -121,7 +121,7 @@ He held a small pause before he continued.
 
 "Second - that is dangerous stuff to be tampering with, me' boy".
 
-Yurgunn stood at the side of the table, with her companion to her right side, and client and long time friend to her left, with a very concerned though hard expression on her face.
+Yurgunn stood at the side of the table, with her companion to her right side, client and long time friend to her left, with a very concerned - though hard - expression on her face.
 
 She snatched the notebook from Adrex' hand, and she flipped to the page in question.
 
@@ -196,7 +196,7 @@ Cleff gave a half nod, half turned with his head.
 
 "Something about them being very dangerous in the wrong hands, I think" he said, with his gaze down into table with the wheels.
 
-"But hunt her down, they did... almost twenty years ago."
+"But hunt her down, they did... twenty years ago."
 
 He looked back up at the two.
 
@@ -216,7 +216,7 @@ Adrex' mind was racing with questions and concerns.
 *They killed her for having it?
 Just for having it?
 And now I am making something like it... for others even.
-Oh, dear Bahamut, I will be placing them all in danger if I do this.
+Oh, dear Bahamut, I will be putting everyone in danger if I do this.
 And what about me? ... and Yurgunn? 
 If they find out, they will take us out on the spot.*
 
@@ -227,14 +227,14 @@ If I don't do it, they can't come after me...
 Wait, I signed a contract with one of those magical seals on - I have to do it!
 SHIT!* 
 
-He placed his hands clasped together in front of his snout, as he started to clap his fingertips together.
+He placed his hands clasped together in front of his snout, as he started to tap his fingertips together.
 
 *There has got to be a solution to this - come on, Adrex - think!
 If I don't deliver, the Xhorhasian Empire will come after me.
 If I deliver, Vox Machina will come after me.
 That means I... have... to please them both?
 Gah - how can I make something by not making it?
-Do a half-assed job, so neither consider me to be worth a treat, and claiming the task to be impossible? 
+Do a half-assed job, so neither consider me to be worth a threat, and claim the task to be impossible? 
 Wait, that might actually work.*
 
 The finger clapping stopped only for a brief moment, before they continued.
@@ -260,7 +260,7 @@ The door to the room suddenly slammed shut, making Adrex jump in his place, as a
 
 "Oh, Yurgunn, please don't-" Adrex started, but was cut off.
 
-"SIT", she shouted, as she slammed the Adrex' notebook into the work bench. 
+"SIT", she shouted, as she slammed Adrex' notebook into the work bench. 
 Adrex butt found its way to the stool right beside him very fast, being sure not to utter a sound, as his mentor sent him a death glare.
 
 Her voice rang with perfection, as she started walking back and forth:
@@ -280,7 +280,7 @@ She tapped him on his right shoulder, as she found her own chair, in which she s
 Adrex didn't know what to say.
 She wasn't wrong.
 How could she see it in another light? 
-He had single-handedly signed the contract the Zhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would kill you outright for, and let someone else know he had the information.
+He had single-handedly signed the contract the Zhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would outright kill him for, and let someone else know he had the information.
 
 Well, that was maybe putting it on the edge.
 Yes, the contract was entirely on him, but he had thought it was as ordinary as any contract they had ever done.
@@ -294,7 +294,7 @@ I am sorry about all of this.
 I... I didn't..."
 
 He felt bad, and had no words to express it.
-He had brought them into a bad position, even though he didn't mean to.
+He had brought them into a bad position, even though he hadn't meant to.
 
 Yurgunn made a long sigh, as she looked up from her chair.
 
@@ -330,3 +330,4 @@ He could feel his heart hammering away, as she looked at him.
 "Not good" she said, making a face that indicated the severity was just as bad as her old master's.
 
 *I am doomed!*
+
