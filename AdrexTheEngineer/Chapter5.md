@@ -335,7 +335,7 @@ That was about all going through Adrex' mind, as the implications sank in.
 He couldn't get out of it, and now he had to watch out for some crazy people.
 
 Although dragonborns' facial expression are less visible than most other creatures, Yurgunn apparently had no trouble seeing them.
-Maybe it was his eyes than had turned red, or the two lines of salty water than ran from his chins, as he quietly sat there, heaving for air, starring at the notebook which in minutes had torn his world around him apart.
+Maybe it was his eyes than had turned red, or the two lines of salty water than ran from his chins, as he quietly sat there, heaving for air, starring at the notebook which in minutes had torn the world around him apart.
 
 As she stood, and put her arms around him for comfort, a high pitched sound could be heard from Adrex:
 
@@ -348,10 +348,10 @@ As she stood, and put her arms around him for comfort, a high pitched sound coul
 Although it didn't last last, and it after a few seconds became more like a whimper, Adrex had suddenly found some determination, as his breathing became more consistent.
 
 *One thing at the time, dummy.*
-*What will kill you the first are the Xhorhasians, and then* maybe *afterwards Vox Machina*.
+*What will kill you first are the Xhorhasians, and then* maybe *afterwards Vox Machina*.
 *Don't get killed, and don't fuck up even more.*
 
-He stood up, as Yurgunn released her hug around his shoulders, as he reached for the notebook, tore out a page, and wrote down a short list, before he handed it to his master.
+He stood up, as Yurgunn released her hug around his shoulders, reached for the notebook, tore out a page, and wrote down a short list, before he handed it to his master.
 
 "We need this from an alchemist", he sniffed with some sort of determination, before he turned to the back of the workshop.
 
@@ -361,12 +361,45 @@ He stood up, as Yurgunn released her hug around his shoulders, as he reached for
 I need to do this, and I don't have long to do it." 
 He had started looking at some metal scraps they had laying around in a few boxes.
 
-She looked over the list, tried and worried, as she looked back to her apprentice she knew now was in a mood she couldn't get him out of.
+She looked over the list, tired and worried.
+A quick glance at her apprentice, and she knew he was in a mood she couldn't get him out of.
 
 "Ay... I'll lock tha' door before I go... don't open fo' anyone, o'right?" she said.
 
 There was no reply from Adrex, but scramble rustling around.
 
-__
+He had to do something to make up for this mess he had put himself in, and he needed to do something fast.
+
+Point of order - get the twins' data, so he could move on with more pressing matters.
+And to get that, he needed something he could test his powder in, but not burn the whole place down.
+
+*No, that's too small*.
+*That's too thin.*
+*This has a hole in it.*
+
+As he furiously rummaged around the scraps from earlier projects, he could hear the doorbell ring, the door close, and the lock being turned.
+As as soon as it had, he took the first thing in the box he could keep in his hand, and hurled it through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, spit flying left and right, before he fell to his knees, tears streaming from his face once more.
+
+The roar didn't last more than two seconds, and quickly turned to a whimper.
+But that became the sound of him being physically hurt, as some of the acid spits that had left his mouth was dripping from his lips.
+It didn't hurt a lot, but he had to brush it off with a tube that had landed next to him.
+
+"This is crazy!" he quietly thought to himself.
+"How can someone come after me for something I haven't even done yet?" 
+
+He rolled around to lay on his back, as he lightly tapped the tube on his snout.
+What was it Glenn had called them?
+Guns and rifles?
+And made of a long metal tube, like this one? 
+
+
+
+
+
+
+
+
+
+
 
 [[Previously chapter]](Chapter4.md) - [[~~Next chapter~~]](Chapter6.md)
