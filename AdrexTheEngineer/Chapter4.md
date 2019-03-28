@@ -505,7 +505,7 @@ Adrex had a hard time thinking clearly.
 
 
 
-
+---
 
 
 He had let himself out without real words - just a mumble, some nodding, and the piece of paper he had written the formula on.
@@ -519,7 +519,7 @@ He had let himself out without real words - just a mumble, some nodding, and the
 
 Apparently this was what the twins used as "black powder", as they called it.
 Very fitting, of cause.
-It was a fine powder, but to think it could have the effect to sent up rockets was very new to Adrex.
+It was a fine powder, but to think it could have the effect to send up rockets was very new to Adrex.
 And if it could be make an actual explosion, then Adrex had just what he wanted for his mobile trap.
 Just take a barrel, stomp in some of this black powder, and it would fly in the direction you held it?
 
@@ -530,7 +530,7 @@ He had just come up with some suggestions, and then...
 A smile curled up on his face.
 Then Victoria had kissed him on the cheek, as she had let her soft body rest towards his.
 He could feel his heart start thumbing faster again. 
-Her face had been so close to his, with puppy eyes and that smile of hers.
+Her face had been so close to his, with those puppy eyes, and that smile of hers.
 It was like he was next to her again.
 He could even recall her perfume of roses, as she had gently brushed his hand with hers, as her gentle words had left her beautiful lips.
 

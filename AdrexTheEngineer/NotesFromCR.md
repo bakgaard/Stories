@@ -1,8 +1,7 @@
 https://www.youtube.com/watch?v=JvBtKATmgLc&t=1h59m14s 
-Spagetthi:
-North Area of the continent
+Spagetthi: North Area of the continent
 
-Underelf snuck in, and attack inland
+Dark-elf snuck in, and attack inland
 Attacked Feldewin and fields
 
 https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m
