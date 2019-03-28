@@ -1,6 +1,6 @@
 # Chapter 5
 
-* What is this chapter's purpose?
+<!-- * What is this chapter's purpose?
   * Adrex explains he have black powder to Yurgunn
   * Adrex will perform a few tests for the twins to show he is methodical
   * Adrex and Yurgunn will drill a small barrel for a gun
@@ -16,7 +16,7 @@
 
 * What is being shown that hasn't been shown before?
   * Gun and rifle being tested
-  * Methodological testing of equipment
+  * Methodological testing of equipment -->
 
 Adrex was sitting relaxed in the shop with his notebook and a pencil, tabbing the top corner of the blank arc.
 The deal he had struck with the twins were rather simple: he would get the formula for black powder, and he would find out how long it would take for the explosive part to be at its maximum height when shot up.
