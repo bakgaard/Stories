@@ -55,3 +55,7 @@ https://www.youtube.com/watch?v=fUfCP184L0I (Episode 57)
 	* They are advised not to go into the	Chrona District (The Ghost Lands) outside the city where there's no light, and the scars of Calamidy remains. It's free to take, but not everyone comes back from it.
 
 2:43:55 - The barkeep, a drow, older, heavy scar from the ear to the mouth
+
+https://www.youtube.com/watch?v=sig8X_kojco (Interview)
+11:15 - Matt talks about the themes
+55:50 - CR is to show intense conflict, desperate structure of power between classes and different societies
