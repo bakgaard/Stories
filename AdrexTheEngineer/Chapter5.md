@@ -378,22 +378,63 @@ And to get that, he needed something he could test his powder in, but not burn t
 *This has a hole in it.*
 
 As he furiously rummaged around the scraps from earlier projects, he could hear the doorbell ring, the door close, and the lock being turned.
-As as soon as it had, he took the first thing in the box he could keep in his hand, and hurled it through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, spit flying left and right, before he fell to his knees, tears streaming from his face once more.
+As as soon as it had, he took the first thing in the box he could keep in his hand, and hurled the tube through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, his breath visible in the air around him, before he fell to his knees, tears streaming from his face once more, as the tube clanged over the floor, rolling up next to him.
 
 The roar didn't last more than two seconds, and quickly turned to a whimper.
-But that became the sound of him being physically hurt, as some of the acid spits that had left his mouth was dripping from his lips.
-It didn't hurt a lot, but he had to brush it off with a tube that had landed next to him.
+Soon after it turned into a few coughs, as the air around him slowly cleared from the poisoned gas he had breathed out.
+It didn't hurt a lot, but he had to fan his hand before his nostrils before he could inhale clearly again.
 
 "This is crazy!" he quietly thought to himself.
 "How can someone come after me for something I haven't even done yet?" 
 
-He rolled around to lay on his back, as he lightly tapped the tube on his snout.
+He rolled around to lay on his back, as he picked up the tube, and lightly tapped it on his snout.
 What was it Glenn had called them?
 Guns and rifles?
 And made of a long metal tube, like this one? 
 
+His eyes narrowed the tube, as his mind started to pick up speed again.
+
+*It's a tube, which means something can flow in a direction*.
+He blew a quick breath into it, as small pieces of dirt flew out the other end.
+
+*And if I apply pressure in one end, I blow things out the other*.
+He picked up some metal dust, rolled it into a small bead, placed it in the tube with his left thumb, and blew through the tube again.
+The little ball flew out, and made a small *thud* as it hit a box at the shelf.
+
+*This is basically a cannon*, he thought to himself, as he rolled another ball, loaded it into the tube, took a breath, and fired the ball at the box again.
+
+*A time expensive process, because I need to load a ball, and I need to take a breath, before I can fire it*.
+
+He picked himself up to a sitting position, as he looked into nothingness, deep in thought of how to reduce these steps.
+
+Cannons where huge, heavy, and required a lot of powder for the heavy metal balls - mostly to shoot through ships.
+He didn't need huge, didn't want heavy, and he didn't need a heavy metal ball, since he wasn't to shoot through ships. He only needed to hit a target and make it hurt.
+
+He gathered another ball, placed it in the tube, took a deep breath, held his right hand as far from the tube's ending he could, and blew as hard as he could.
+
+"Aw!"
+
+He shook his hand numb the pain. 
+That actually hurt quite a bit - not for long, but still.
+He turned the tube in his hand, as he inspected it.
+It wasn't heavy, it just required some pressure, and it had made his hand hurt.
+
+"So how much powder do I need to stuff into the bottom of this to make the same pressure, if not more", he said aloud to himself.
+
+He pulled himself to his feet, found his notebook, turned the pages to the graph he made earlier, and starred at it.
+
+*More power - higher up...*
+The new variables was how much it weighed, and if the tube could hold it.
 
 
+<!-- 
+## Math
+Deceleration formula: https://www.school-for-champions.com/science/gravity_equations_upward_velocity.htm (linear, and half time to go up, for full time to go down)
+
+If gone for x-seconds, how far up were you?
+
+Measure with hempen robe from mill tower?
+ -->
 
 
 
