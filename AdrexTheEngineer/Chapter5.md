@@ -1,23 +1,5 @@
 # Chapter 5
 
-<!-- * What is this chapter's purpose?
-  * Adrex explains he have black powder to Yurgunn
-  * Adrex will perform a few tests for the twins to show he is methodical
-  * Adrex and Yurgunn will drill a small barrel for a gun
-    * Test the barrel
-  * Get his dad to make a handle of wood
-  * Create a rifle
-  * Plan to go off to Xhorhas before meeting "Freddy".
-
-* What shall it accomplish?
-  * Get moving with the story
-  * Let time pass, and let Adrex think about what he is making
-  * 
-
-* What is being shown that hasn't been shown before?
-  * Gun and rifle being tested
-  * Methodological testing of equipment -->
-
 Adrex was sitting relaxed in the shop with his notebook and a pencil, tabbing the top corner of the blank arc.
 The deal he had struck with the twins were rather simple: he would get the formula for black powder, and he would find out how long it would take for the explosive part to be at its maximum height when shot up.
 But that was tricky, for some reason.
@@ -423,15 +405,38 @@ It wasn't heavy, it just required some pressure, and it had made his hand hurt.
 
 He pulled himself to his feet, found his notebook, turned the pages to the graph he made earlier, and starred at it.
 
-*More power - higher up...*
-The new variables was how much it weighed, and if the tube could hold it.
+*More power - higher up.
+But how high does it go?*
+He starred at it for a moment, before he tossed the tube into the air, noting it fly up, come a halt, and dropping down.
 
+*Same time up, is the same time down?*
+If that was the case he could measure how long it took for something to drop, and then note down how far up it dropped from - that would be the height it was at.
+
+He started nodding to himself - he could do this.
+*So if I put some powder in a tube, it will make a small explosion. 
+That all has to come out of this tiny hole. 
+The wider the hole, the less power will push it out.*
+He narrowed his eyes, as he studied the tube.
+*Perhaps the length as well?*
+
+This one wasn't so easy to crack.
+He needed to do some experiments with that. 
+And to do that, he needed more tubes.
 
 <!-- 
 ## Math
 Deceleration formula: https://www.school-for-champions.com/science/gravity_equations_upward_velocity.htm (linear, and half time to go up, for full time to go down)
 
 If gone for x-seconds, how far up were you?
+https://sciencenotes.org/vertical-motion-example-problem-coin-toss-equations-motion/
+
+=>
+
+height = (start speed m/s^2)/(19.6 m/s^2)
+19.6 m = 64.3 ft
+
+https://www.wikiwand.com/en/Gunpowder#/Combustion_characteristics
+Releases 3 MegaJoule/kg
 
 Measure with hempen robe from mill tower?
  -->
@@ -443,4 +448,4 @@ Measure with hempen robe from mill tower?
 
 
 
-[[Previously chapter]](Chapter4.md) - [[~~Next chapter~~]](Chapter6.md)
+[[Previously chapter]](Chapter4.md) - [[Next chapter]](Chapter6.md)

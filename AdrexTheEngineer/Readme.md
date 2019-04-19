@@ -21,3 +21,5 @@ And suddenly I had too much for a "background" story.
 [Chapter 4](Chapter4.md)
 
 [Chapter 5](Chapter5.md)
+
+[Chapter 6](Chapter6.md)
