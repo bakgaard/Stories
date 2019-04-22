@@ -430,6 +430,9 @@ Deceleration formula: https://www.school-for-champions.com/science/gravity_equat
 If gone for x-seconds, how far up were you?
 https://sciencenotes.org/vertical-motion-example-problem-coin-toss-equations-motion/
 
+Splat effect: 
+https://www.angio.net/personal/climb/speed.html
+
 =>
 
 height = (start speed m/s^2)/(19.6 m/s^2)
