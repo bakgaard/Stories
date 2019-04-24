@@ -1,18 +1,20 @@
-# Episode 38
+# Episode notes
+
+## Episode 38
 
 [1:59:14](https://www.youtube.com/watch?v=JvBtKATmgLc&t=1h59m14s) - Spagetthi: North Area of the continent
 
 Dark-elf snuck in, and attack inland
 Attacked Feldewin and fields
 
-# Episode 46
+## Episode 46
 
 [2:39:xx](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m0s) - "Orphanmaker"
 
 [2:41:50](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m0s) - "Zuella", the wife of Yasha
 
 
-# Episode 46
+## Episode 46
 
 Underelf snuck in, and attack inland
 Attacked Feldewin and fields
@@ -22,7 +24,7 @@ Attacked Feldewin and fields
 [2:41:50](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h41m50s) - "Zuella", the wife of Yasha
 
 
-# Episode 51
+## Episode 51
 
 [0:56:00](https://www.youtube.com/watch?v=P-cQdxZB5Kk&t=56m0s) - Meets Kolden (Mudmen)
 * 11 mudmen in total, 3 survives
@@ -32,13 +34,13 @@ Attacked Feldewin and fields
 [3:17:40](https://www.youtube.com/watch?v=P-cQdxZB5Kk&t=3h17m40s) - Ifalon River
 
 
-# Episode 52 
+## Episode 52 
 
 [3:23:00](https://www.youtube.com/watch?v=REyVoebe06E&t=3h23m0s) - Tharaz Doom
 A madness which have claimed the drows. Could also be spreading in the east
 
 
-# Episode 56
+## Episode 56
 
 [2:00:00](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h0m0s) - Matt talks about teleportation circles in city
 
@@ -46,7 +48,7 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 [2:25:15](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h25m15s) - Yasha says where she is from
 
-# Episode 57
+## Episode 57
 
 [0:46:50](https://www.youtube.com/watch?v=fUfCP184L0I&t=0h46m50s) - Professor Waccoh seeks aid for projects
 
@@ -66,14 +68,14 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 [2:43:55](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h43m55s)  - The barkeep, a drow, older, heavy scar from the ear to the mouth
 
-# "Building Your Own Campaign Setting" (Interview)
+## "Building Your Own Campaign Setting" (Interview)
 
 [11:15](https://www.youtube.com/watch?v=sig8X_kojco&t=11m15s) - Matt talks about the themes
 
 [55:50](https://www.youtube.com/watch?v=sig8X_kojco&t=55m50s) - CR is to show intense conflict, desperate structure of power between classes and different societies
 
 
-# Episode 58
+## Episode 58
 
 [0:17:53](https://www.youtube.com/watch?v=7Z610fSoifk&t=17m53s) - *The Dim's Inn* has a back
 
@@ -124,3 +126,33 @@ Jutting rock formations here and there, sticking up like monolith, everything sm
 Not a lot of spider web here.
 The clearing is carved, and sun lights comes down. It looks like a fort, tall wooden planks as wall, a gate, and two watch towers far from each other watching over the camp and one at the gate.
 Two heavy gray stones, floating past the fence in the air over the wall.
+
+## Episode 59
+
+[0:11:05](https://www.youtube.com/watch?v=-qveongNOUI&t=11m5s) - Materials are extracted from the Icozrin Steelworks, and sent throughout the dynasty.
+
+[0:40:35](https://www.youtube.com/watch?v=-qveongNOUI&t=40m35s) - The giants do *not* speak Common
+
+[1:05:05](https://www.youtube.com/watch?v=-qveongNOUI&t=1h5m5s) - The steelworks is designed to smelt alloys, and create weapons. 
+*The giants have scavenged some of them*.
+
+[1:06:03](https://www.youtube.com/watch?v=-qveongNOUI&t=1h6m3s) - One giant is called Duin
+
+[1:07:06](https://www.youtube.com/watch?v=-qveongNOUI&t=1h7m6s) - The big one is called Zuna, and explain they are running away from something horrible.
+
+[1:09:29](https://www.youtube.com/watch?v=-qveongNOUI&t=1h9m29s) - They are from "Bran" (means 'belly'). Kialo heard a low hum (win through the trees, but didn't stop), and things came out of the shadows with long faces and wings.
+They went after Shallo, so the rest fled.
+
+[1:12:17](https://www.youtube.com/watch?v=-qveongNOUI&t=1h12m17s) - There are 8 in the camp, and more in an hunting party (they were 12 before the were hunted).
+
+[1:28:15](https://www.youtube.com/watch?v=-qveongNOUI&t=1h28m15s) - Zuna is the 'land speaker' - head of the heard
+
+[2:35:25](https://www.youtube.com/watch?v=-qveongNOUI&t=2h35m25s) - An alcove with sculpted bone frames the interior.
+It's a stronghold, 20 feet tall entrance
+
+[3:13:13](https://www.youtube.com/watch?v=-qveongNOUI&t=3h13m13s) - Zuna says "no" as "luh(e)"
+
+
+## Episode 60
+
+[0:00:00](https://www.youtube.com/watch?v=...&t=3h13m13s) - 
