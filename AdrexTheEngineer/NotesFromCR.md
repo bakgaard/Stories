@@ -155,4 +155,6 @@ It's a stronghold, 20 feet tall entrance
 
 ## Episode 60
 
-[0:00:00](https://www.youtube.com/watch?v=...&t=3h13m13s) - 
+[3:14:04](https://www.youtube.com/watch?v=yJgaEh_GZ6M&t=3h14m04s) - Zuna says they have had encounters with bugbears of the west (clamper beneath the Spider Queen)
+
+[3:14:04](https://www.youtube.com/watch?v=yJgaEh_GZ6M&t=3h14m04s)

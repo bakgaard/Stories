@@ -2,7 +2,7 @@
 
 *Year: 813 D.P.*
 
-*Location: Draconia, above the Lucidian Ocean.*
+*Location: Draconia, south east of the Ashkeeper Peaks.*
 
 The ground shook, causing everything in the house to tremble, clink, and fall over to the ground.
 The eyes of the grown dragonborn whirled around to find a nearby cause, but settled on the front door, and the outside as the only source - nothing inside the house could cause everything to shake this much.
