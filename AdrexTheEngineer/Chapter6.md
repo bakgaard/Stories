@@ -191,6 +191,31 @@ Adrex picked up the rack and the tube, which surprisingly still was cold.
 
 "We cou' get some rope, put measuring flags on it, drop a ball from different heights, and measuring th' time it takes to hit th' ground?"
 
+"Mm - good idea.
+We need someplace high for this - like a hundred feet tall, or more, and we need to be able to drop a ball from multiple points along the way."
+
+They walk to the door in silence, thinking about where they could do that.
+
+"How tall is th' house yeh' folk live in, Adri?"
+
+Entering the workshop, the dragonborn just shook his head.
+"Not tall enough. 
+Not more than 30 or 35 feet, I think.
+Do you think the metal apartments at the Upper Tier are taller?"
+
+"Meh, I doubt it, lad."
+
+As they entered Yurgunn suddenly exclaimed: 
+"Of cause - we use th' lift!"
+
+A bit surprised he hadn't thought of it himself, he injected: 
+"They will never let us use it."
+
+The lift was used only for the very rich of the Upper Tier, and everyone else was directed to use the stairs.
+
+"They will never let us use eh' for free, yeh' mean"
+his master countered.
+"We have some coin to spare, rememeber?"
 
 
 
