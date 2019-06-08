@@ -1,5 +1,19 @@
 # Episode notes
 
+## Episode 23
+
+[3:40:00](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h40m00s) - Hupperdook has a testing ground for cannons and the sorts.
+
+[3:41:42](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h42m42s) - The guards carry rifles.
+Blueprints must be sold then.
+
+[3:43:43](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h43m43s) - Elevator is described, going from the lower tier to the upper tier. 
+Some are waiting for it.
+Those who wait are very well dressed.
+
+[3:46:23](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h46m23s) - Guard has a gun flare.
+
+
 ## Episode 38
 
 [1:59:14](https://www.youtube.com/watch?v=JvBtKATmgLc&t=1h59m14s) - Spagetthi: North Area of the continent

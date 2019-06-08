@@ -118,15 +118,19 @@ Whatever we load into it will come blast'n out, and tha's not inside this shop."
 
 More nods from Adrex, and he prepared a few charges with different amounts of powder, noting them all on a paper in his notebook.
 
-As they went outside to the shop's back, which was nothing more than open plain, Adrex brought a modified hourglass, which had several indications marked on the side, a larger hole for sand to flow through, and a slider to stop the sand from running.
+As they went outside to the shop's back, which was nothing more than an open plain, Adrex brought a modified hourglass, which had several indications marked on the side, a larger hole for sand to flow through, and a slider to stop the sand from running.
 Their shop had space around it, and since no one was in the vicinity, they might as well test it here.
 
-Handing the modified hourglass to Yurgunn, and taking the smallest charge, loaded it into the tube, and readied himself with the tube in his hands pointing straight up in the skies.
+Handing the modified hourglass to Yurgunn, and taking the smallest of the prepared samples, loaded it into the tube, and readied himself with the tube in his hands pointing straight up in the skies.
 
 "Start the timer when you hear the puff, and stop it when you see the ball hit the ground", Adrex said to Yurgunn who just gave him nod, readying the the slider on the device.
 
+
+<!-- https://www.britannica.com/technology/gunpowder 
+Heat is enough to ignite -->
+
 As Adrex loaded the fuse into the tube, a nervous chill ran through his spine - he really hoped this wasn't too much powder for the first attempt.
-Igniting the fuse, he closed his eye closest to, held the tube to the air, pointing it as orthogonal as he could to the ground, and prepared himself for a huge blast, which might could-
+Igniting the fuse, he closed the eye closest to, held the tube to the air, pointing it as orthogonal as he could to the ground, and prepared himself for a huge blast, which might could-
 
 *fuhhh*
 
@@ -146,11 +150,48 @@ Sod covered the open end, and as he ran a finger over the edge of it, it felt a 
 
 Adrex turned his head towards Yurgunn.
 "Well, they only get bigger from here, so lets see what happens.
-But I have to put them on the ground - I can't hold them steady with the tuck it gives."
+But I have to put them on the ground - I can't hold them steady with the tuck it makes."
 
-<!-- https://www.britannica.com/technology/gunpowder 
-Heat is enough to ignite -->
+Yurgunn scratched her chin a bit.
+"Perhaps we cou' use tha' rack for tha' maps? 
+Eh' points upward, and eh' won' tumble from a wee bit o' shake."
+
+Adrex held the tube in front of him, measuring in his head whether the tube would fit in the rack, and started nodding as he came to the same conclusion.
+
+Fetching it, placing it leveled on the ground, they continued to load larger and larger charges, as the metal ball flew higher and higher each time.
+Noting down the time it took for the ball to travel from the takeoff to it hit again, they could properly calculate how far up it had been later on.
+
+As the last charge went off, Adrex kept looking up into the air at nothing in particular, whilst Yurgunn wrote down the last time stamp.
+This had almost been too easy - the twins just had to make sure the balls of colorful explosives would go off at the right time, and they could sell this as a new kind of product.
+How come no one ever had thought of this before?
+Well, they still needed to look at the numbers, and they still needed some sort of formula to calculate the actual height, but that couldn't bee too hard, could it?
+
+As his master closed the notebook, she gave Adrex a small nudge at his hip.
+"Yeh' went da' dreaming, Adri'.
+Wha's on yeh' mind?"
+
+"I can't help but think we are doing something wrong", he said looking down at the dwarf.
+"We took a few things, put them together, and now we have..." gesturing with a hand to the tube.
+"... whatever this is."
+
+Yurgunn held the modified hourglasses up in front of her.
+"Yeh' remember when we made this beauti'?
+We came up with a way t' measure seconds in an one minute hourglass - all because we had some creative think'n between us, and we weren't shy t' put existing stuff t'gether.
+And that served us very well over the last few years, I'd say."
+
+Indeed it had.
+With some smaller hourglasses they had come up with a method, so they could mark the amount of sand in the one minute hourglass second by second.
+Having this had given them options for create some very interesting traps over time which had paid off pretty good.
+
+"So - wha's next?" she said, as she started walking to the workshop.
+
+"Well, the time it takes to get up is the same it takes to come down, I think."
+Adrex picked up the rack and the tube, which surprisingly still was cold.
+"If we can figure out how long it takes for something to fall from a certain distance, we might have the last clues we need to make a formula."
+
+"We cou' get some rope, put measuring flags on it, drop a ball from different heights, and measuring th' time it takes to hit th' ground?"
 
 
 
-[[Previously chapter]](Chapter5.md) - [[~~Next chapter~~]](Chapter6.md)
+
+[[Previously chapter]](Chapter5.md) - [[~~Next chapter~~]](Chapter7.md)
