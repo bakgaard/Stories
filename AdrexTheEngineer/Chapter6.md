@@ -23,9 +23,10 @@ The bag had not settled on the table, before the dragonborn had snatched it, and
 
 "O'ight, Adri' - fill me in this time... before *we* do it" she said, pushing the last part a bit.
 
-As the container popped open, Adrex flipped his notebook to her with the recipe for black powder.
+As a container popped open, Adrex flipped his notebook to her with the recipe for black powder.
 
-"We are making black powder, and the potassium nitrate you just collected, along with the sulfur, are what do most of the job.
+"We are making black powder" he said in a monotone voice.
+"... and the potassium nitrate you just collected, along with the sulfur, are what do most of the job.
 We just need to mix it with some charcoal, and we could start make fireworks our self."
 
 "Are we ta' make fireworks for the twins?" his master followed, confused but also a bit judging.
@@ -43,7 +44,7 @@ Adrex had a hard time countering it, as he puffed out some air through his mouth
 
 Yurgunn took another look at the tubes, picked one up the size of an arms length, and held it from her hip in one hand and horizontal outwards with the other.
 
-"We are making cannons you can carry..."
+"We are making cannons yeh' can carry..."
 Her head started nodding, as her mouth made an grin.
 "A' like it, Adri'. 
 That could be a great way to fulfill the contract!"
@@ -70,14 +71,14 @@ Carefully placing more powder on the cup on the weight, Adrex confirmed once mor
 
 Adrex let the weight settle, as he reached for a small tube next to him along with some parchment.
 
-"Well, the idea was, that it all goes down the tube as one unit" he started, taking some parchment, placing it above the tube's end, gently stuffing it down with a finger, before he pulled it up again.
+"Well, the idea was that it all goes down the tube as one unit" he started, taking some parchment, placing it above the tube's end, gently stuffing it down with a finger, before he pulled it up again.
 In his hand he now had parchment with folds perfect to the tube.
 
 "If we put powder at the bottom, the explosive ball on the top, and seal it all with the parchment, that could slide right down the tube.
 Afterwards we can prick a hole into the side of the unit once it is inside the tube, put the fuse in there, and it should keep it in place".
 
 He looked at his master, to the parchment, and back to Yurgunn. 
-"I hope" he added somewhat uncertain.
+"... I hope" he added somewhat uncertain.
 
 If it wasn't for the height difference between the two, Yurgunn would have tilted her head forward, with an eyebrow raised to give him 'that' look, but instead she shook her head twice before adding: 
 "A tiny fuse like that won't hold anything."
@@ -139,7 +140,7 @@ The tube gave a tuck downwards, away from the opening, as a cloud of black smoke
 *duk*
 
 The ball landed not even a second later at the ground close by.
-As Adrex opened his closed eye, he could see the ball lay close only a few feet by.
+As Adrex opened his closed eye, he could see the ball lay close, only a few feet away.
 
 *That wasn't long*, he thought to himself, as Yurgunn had started looking at the markings on the hourglass.
 She soon after joined in: "Let's say tha' was a starting point, shall we?"
@@ -155,6 +156,10 @@ But I have to put them on the ground - I can't hold them steady with the tuck it
 Yurgunn scratched her chin a bit.
 "Perhaps we cou' use tha' rack for tha' maps? 
 Eh' points upward, and eh' won' tumble from a wee bit o' shake."
+<!-- Blast out, and it tilts just before a shot.
+Adrex places himself on top of it, and feels the full blast of the barrel.
+"It doesn't shake much, but if I could just hold it steady..." -->
+
 
 Adrex held the tube in front of him, measuring in his head whether the tube would fit in the rack, and started nodding as he came to the same conclusion.
 

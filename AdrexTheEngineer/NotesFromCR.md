@@ -21,12 +21,6 @@ Those who wait are very well dressed.
 Dark-elf snuck in, and attack inland
 Attacked Feldewin and fields
 
-## Episode 46
-
-[2:39:xx](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m0s) - "Orphanmaker"
-
-[2:41:50](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m0s) - "Zuella", the wife of Yasha
-
 
 ## Episode 46
 
@@ -34,7 +28,8 @@ Underelf snuck in, and attack inland
 Attacked Feldewin and fields
 
 
-[2:39:xx](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m0s) - "Orphanmaker"
+[2:39:00](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h39m00s) - "Orphanmaker"
+
 [2:41:50](https://www.youtube.com/watch?v=cIcNY0sx-DE&t=2h41m50s) - "Zuella", the wife of Yasha
 
 
@@ -171,4 +166,39 @@ It's a stronghold, 20 feet tall entrance
 
 [3:14:04](https://www.youtube.com/watch?v=yJgaEh_GZ6M&t=3h14m04s) - Zuna says they have had encounters with bugbears of the west (clamper beneath the Spider Queen)
 
-[3:14:04](https://www.youtube.com/watch?v=yJgaEh_GZ6M&t=3h14m04s)
+
+## Episode 61
+
+[1:27:05](https://www.youtube.com/watch?v=Ck_yuplT8O8&t=1h27m05s) - The Gold Chain Merchenary Company has gathered in Zardash.
+
+[2:42:09](https://www.youtube.com/watch?v=Ck_yuplT8O8&t=2h42m09s) - A 15 minutes walk south outer edge towards the Ghostlands, goblins lives in homes atop of each other.
+The Overcrow Apothecary in Choronas
+
+
+## Episode 62
+
+[1:02:18](https://www.youtube.com/watch?v=-EfuYx_YWC8&t=1h02m18s) - The Gold Chain Merchenary Company are merchenary, and are hired as bodyguards for both land and water. About a couple of hundreds a few years ago. Expensive and ruthless. 
+
+[2:58:25](https://www.youtube.com/watch?v=-EfuYx_YWC8&t=2h58m25s) - The Overcrow Apothecary, in the outskirts. Two stories, thin but tall, makeshift inn to the left side. Chains hanging from the roof. The second roof have a windows with shutter
+
+[3:16:40](https://www.youtube.com/watch?v=-EfuYx_YWC8&t=3h16m40s) - The crate contains small bags of spices and fine, green diamond-like powder.
+
+[3:40:00](https://www.youtube.com/watch?v=-EfuYx_YWC8&t=3h40m00s) - "Scourgers" is a nickname for Royal Assassins under the Crown. The name is used like ghost stories
+
+
+## Episode 63
+
+[0:23:25](https://www.youtube.com/watch?v=CQWv6zQZTGo&t=0h23m25s) - "Luzon be praised" is a phrase used by guards
+
+[2:04:00](https://www.youtube.com/watch?v=CQWv6zQZTGo&t=2h04m00s) - "Bazuzan" from the dragon born
+
+[0:00:00](https://www.youtube.com/watch?v=CQWv6zQZTGo&t=0h00m00s) - 
+
+[0:00:00](https://www.youtube.com/watch?v=CQWv6zQZTGo&t=0h00m00s) - 
+
+
+
+## Episode 64
+
+[3:13:10](https://www.youtube.com/watch?v=3yfLht7w7Yk&t=3h13m10s) - Talinstad: Ravenites lives here and sought refuse here.
+Some of the local ravenites worries, that nobles of the Draconian family is inside the leading structure of the Empire, and fear they will come after them.
