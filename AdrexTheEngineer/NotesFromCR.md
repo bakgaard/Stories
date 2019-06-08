@@ -202,3 +202,17 @@ The Overcrow Apothecary in Choronas
 
 [3:13:10](https://www.youtube.com/watch?v=3yfLht7w7Yk&t=3h13m10s) - Talinstad: Ravenites lives here and sought refuse here.
 Some of the local ravenites worries, that nobles of the Draconian family is inside the leading structure of the Empire, and fear they will come after them.
+
+
+
+## Episode 65
+
+[3:00:25](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - A beach, a jungle along the coast, with a lake and an oasis.
+Red earth and rocks make a cavern, with plants, roots, and veins of gold shows a way down to a temple, filled with crystals.
+From the crystals, "fingers" emerges of crystals as well.
+
+
+[3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
+[3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
+[3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
+[3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
