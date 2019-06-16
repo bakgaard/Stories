@@ -1,5 +1,24 @@
 # Episode notes
 
+## Season 1, Episode 65
+
+[2:30:30](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h30m30s) - Draconia's stone have fallen and shattered.
+
+[2:31:10](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h31m10s) - The first Ravenites are sigthed.
+
+[2:37:40](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h37m40s) - The fallen city is descriped. 
+
+[2:41:20](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h41m20s) - A ravenite call out, and VM has interacting with them. 
+They are not fond of "Skywalker", and want to enslave them.
+
+[2:37:35](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h37m35s) - Being under the Fridged Doom, they "are in a better position". 
+It must have been *pretty* bad.
+
+[2:49:30](https://www.youtube.com/watch?v=yqJdHshftrs&t=2h49m30s) - Matt descripes how the caves looks.
+
+[3:23:55](https://www.youtube.com/watch?v=yqJdHshftrs&t=3h23m55s) - "It is not our place to fight"
+
+
 ## Episode 23
 
 [3:40:00](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h40m00s) - Hupperdook has a testing ground for cannons and the sorts.

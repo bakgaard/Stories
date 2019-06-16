@@ -220,8 +220,55 @@ The lift was used only for the very rich of the Upper Tier, and everyone else wa
 
 "They will never let us use eh' for free, yeh' mean"
 his master countered.
-"We have some coin to spare, rememeber?"
+"We have some coin to spare, remember?"
 
+"You want to bribe a Crownsguard?"
+
+"I intend to bribe all four of 'em" she replied in a mischievous tone.
+"Most o' the day, they just stand around, waiting for fancy-ass guest to arrive, allowing a sightseeing or two when they come to inspect their precious production.
+They have time, and I'm pretty sure they also like the coin."
+
+Adrex wasn't so sure this was a good idea, but currently he didn't have a better alternative.
+Using the lift was actually a pretty good idea, and it could reduce the time this small side quest would take.
+
+Inside the shop Adrex set the tools back at their dedicate spaces, and went looking for some objects they could use.
+They didn't have balls lying around to through from high places.
+Roaming around he did find a sandbag, and with some smaller bags they had laying around he filled up 10 of these, sealing them with a small string.
+
+Yurgunn had found some paper slips, and marked each of them with '10 feet', '20 feet', and so forth. 
+"Yeh' ready?" she asked, looking like she was already on her way out the door.
+
+Putting the small bags in a satchel along with his notebook, Adrex picked up their hourglass device, nodded, and went along with his master out the door.
+
+Stopping by a shop for buying a 100 feet of rope, they started measuring out 10 feet at a time, and inserted the paper slips with some string to the rope.
+
+As they headed towards the lift, Yurgunn turned to Adrex.
+
+"Just ta' be sure" she started.
+"One o' us takes th' lift up, takes the rope along, and makes sure its end can reach the bottom of the lift.
+For each 10 feet, a sandbag is flipped over the edge, and the time it takes to travel will be measured - is tha' correct?"
+
+Adrex nodded, as they approached.
+"Should I take the lift, or do you want to?"
+
+"We'll be needed a certain amount of charm to keep the guards happy.
+If yeh' don't mind me saying, I think eh' might be best if I took eh' up?"
+
+It was a reminder to quite a few times where Adrex had really tried to be charming, and it fell flat on the ground, almost shattering potential new contracts.
+
+"Well, when you say it like that..." he responded, a bit embarrassed though still agreeing. 
+He really wanted to try the lift, but it wasn't a big deal.
+The sight was as good on the top anyway, so it was only really for the experience.
+
+As they reached the lift, four Crownsguard stood watch in their vermilion robes, bronze scale mail breast and arm plates, and each with a weapon at one side, and a crossbows on their other side or back.
+Two of the gnomish guards was eating from a small piece of paper, while the two dwarvish guards sits quietly looking around, as one of them see the partners approach.
+
+"How can I help yeh' two?" the beard bellows out, as he stands from his seat.
+
+Yurgunn took a step in front of Adrex, as she curls one of her braids in a finger.
+"I was hopin' I could"
+
+<!-- A guard asks if Adrex is from Talinstad -->
 
 
 [[Previously chapter]](Chapter5.md) - [[~~Next chapter~~]](Chapter7.md)
