@@ -201,7 +201,7 @@ We need someplace high for this - like a hundred feet tall, or more, and we need
 
 They walk to the door in silence, thinking about where they could do that.
 
-"How tall is th' house yeh' folk live in, Adri?"
+"How tall is th' house yeh' folk live in, Adri'?"
 
 Entering the workshop, the dragonborn just shook his head.
 "Not tall enough. 
@@ -412,8 +412,46 @@ Adrex continued up the stairs, fuming, hissing, and snarling the entire way, as 
 *And the experiment failed, because I didn't think it through.
 Of cause Yurgunn needed to make sure the rope was just touching the ground when she tossed a sandbag, but how could she without falling off that damn lift?*
 
+Now he had to come up with a new way to measure the time, and he only had a single sandbag left.
+*How long does it take for a sandbag to fall, how long does it take, how long does it take?*
+
+When he got up to the top he would take the leftover sandbag, tie the rope around it and let it hang until it...
+*Wait - that's it*, he thought to himself.
+*Tie a bag to the end, and drop it.
+Drop it 10 feet, then 20 feet, then...* 
+
+He forgot all about the Crownsguard and Talinstadt. 
+Why hadn't he thought of this earlier?
+
+It didn't take him long before he reached the top of the stairs.
+His head was buzzing with how he would perform the test, how to tie the sandbag so it didn't tore when the rope reached its full length - it would be perfect.
+
+As he took the last steps to the Upper Tier, he was greeted by another angry dwarf, most likely just as unpleasant as the last one, but this one he could talk with.
+
+"Wha' the fuck happened down there?" his master exclaimed.
+"A' hadn't been gone for two minutes, before A' see him throwing a sandbag after yeh'.
+How did yeh' manage tha' result?"
+
+Adrex took a deep breath.
+"He asked if I was from Talinstadt", as if that was explanation enough.
+And it was.
+Yurgunn mood changed from frustrated to worried and serious.
+
+"And wha' did yeh' say to make him tha' angry?" she followed up.
+
+"Well, he asked if I was a Ravenite, and I..." 
+Adrex would have lifted his hands if they wasn't filled with items.
+"I compared them to dwarfs and Duergars, which I really shouldn't..." 
+
+"No, you should not have" she interrupted him, the anger back in her voice, as she strode towards him, fist clenched.
+As she reached him she flung her arms around his waist, and held him... fast, but gently.
+
+"A' love yeh', Adri'" she said with a soft voice.
+"But you have got to start learning people skills."
+
+A whimpering sound came from the dragonborn, as the notebook fell from his arms, followed by the sandbag, and the hourglass, before his knees gave in under him, and he slumbered to the ground.
+It had been a really long day, and he wasn't sure he could handle more mood swings.
 
 
 
-
-[[Previously chapter]](Chapter5.md) - [[~~Next chapter~~]](Chapter7.md)
+[[Previously chapter]](Chapter5.md) - [[Next chapter]](Chapter7.md)
