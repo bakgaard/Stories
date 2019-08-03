@@ -23,7 +23,7 @@ It must have been *pretty* bad.
 
 [3:40:00](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h40m00s) - Hupperdook has a testing ground for cannons and the sorts.
 
-[3:41:42](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h42m42s) - The guards carry rifles.
+[3:41:42](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h41m42s) - The guards carry rifles.
 Blueprints must be sold then.
 
 [3:43:43](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h43m43s) - Elevator is described, going from the lower tier to the upper tier. 
@@ -235,3 +235,16 @@ From the crystals, "fingers" emerges of crystals as well.
 [3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
 [3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
 [3:13:10](https://www.youtube.com/watch?v=HNODkS9gZmM&t=3h13m10s) - 
+
+
+## Episode 68
+
+[2:33:00](https://www.youtube.com/watch?v=5GAclNF61Xs&t=2h33m00s) - The Laughing Hand - Captured was a The Timeless and the Seeking the Tourment of All - The Undying Chosen. 
+Said entity was kept in the tomb.
+
+It can only be sealed, and that was its tomb.
+
+
+## Episode 72
+
+[1:52:30](https://www.youtube.com/watch?v=8tCcRA2aogk&t=1h52m30s) - Residuum Glass is a rare thing, which not a lot of people know about.
