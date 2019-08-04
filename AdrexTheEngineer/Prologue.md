@@ -6,8 +6,8 @@
 
 The ground shook, causing everything in the house to tremble, clink, and fall over to the ground.
 The eyes of the grown dragonborn whirled around to find a nearby cause, but settled on the front door, and the outside as the only source - nothing inside the house could cause everything to shake this much.
-And most disturbingly was the feeling, that this must be what some would call an earthquake, which was absolutely impossible, since Draconia was a float disc in the skies.
-He dropped the planer he had been running over the wood, as another trembled made everything in the house vibrate, and he started running towards the front door - his mind still racing with what could cause this disturbing event. 
+And most disturbingly was the feeling, that this must be what some would call an earthquake, which was absolutely impossible, since Draconia was a floating disc in the skies.
+He dropped the planer he had been running over the wood, as another tremble made everything in the house vibrate, and he started running towards the front door - his mind still racing with what could cause this disturbing event. 
 
 *Could it be the crystals that had stopped working?* he thought to himself, as the thought started to unravel what would happen if it was true.
 
@@ -22,16 +22,16 @@ The words carved into his father's heart, who wanted nothing more than reassure 
 He reached out for the handle, as a roar, louder than anything he had ever heard before, echoed through every inch of the house causing him stop dead in the motion.
 He could feel his heart pounding, his breath inhale trembling, and his hand shaking as he laid it on the grip of the door.
 He swallowed, and steeled himself for the encounter with the only kind of entity he could think of could make such a noise, and still be so high up in the clouds.
-The hardy door he had build himself made no audible noise as it swung up, but the surprisingly freezing cold wind hit his face as if a wall of snow had suddenly been dropped upon him.
+The hardy door he had built himself made no audible noise as it swung up, but the surprisingly freezing cold wind hit his face as if a wall of snow had suddenly been dropped upon him.
 
 The garden was not what he remembered from yesterday - where there had been green was now mostly white, and what had been waving in the wind was now stiff as icicles - literally.
 As frozen in place, the long leaves and flowers now had a stiff angle to the same side, as some of them started to break under their own weight.
 I took a second for the dragonborn to accept what he was seeing with his own two eyes - everything they had groomed in their little garden was dead with no hope of revival.
 
-As his nostrils inhaled another lungful of air, a chill ran through his scaly body - both from the very sudden drop in temperature, but also from the realization of what destiny would had succumb to anyone who would have stayed next to the trees.
+As his nostrils inhaled another lungful of air, a chill ran through his scaly body - both from the very sudden drop in temperature, but also from the realization of what destiny anyone who would have stayed next to the trees would have succumbed to.
 His open mouth exhaled a clear fog in the weather from his warm breath.
-This narrowed the the range of entities down to precisely one. 
-And as he turned his head around, stomps from the massive creature was heard clear as drums on 60 yards distance, as its huge form started moving into sight - the wings flapped twice as a storm started to form beneath its white, scaly torso, and as the two front legs landed, it roared again with a ferocity which hinted absolutely no mercy would come to anyone who would stand in its path.
+This narrowed the range of entities down to precisely one. 
+And as he turned his head around, stomps from the massive creature was heard clear as drums in 60 yards distance, as its huge form started moving into sight - the wings flapped twice as a storm started to form beneath its white, scaly torso, and as the two front legs landed, it roared again with a ferocity which hinted absolutely no mercy would come to anyone who would stand in its path.
 
 He slammed the door shut, eyes wide open, and his thoughts trying to create an order of everything they now needed to do to survive.
 He swirled towards the two creatures he held most dear in this world, as the dreadful word left his mouth:
@@ -71,7 +71,7 @@ There, in a blue and black robe, stood his green scaled, elder brother with the 
 "And it came way faster than Kruvanis and the High Council had anticipated. 
 There is nothing we can do now."
 
-Another building close by came tumbling down, and rumble hit the walls of the house, sending shock waves through the floor.
+Another building close by came tumbling down, and the rumble hit the walls of the house, sending shock waves through the floor.
 
 Nadraa quickly swept in to catch his brother before he fell on his knees. 
 They all knew that the Chroma Conclave had attacked and burned Emon to the ground only a few days before, and the other great cities of Tal'Dorei would be next.
