@@ -2,7 +2,7 @@
 
 *Year: 813 D.P.*
 
-*Location: Draconia, south east of the Ashkeeper Peaks.*
+*Location: Draconia, floating south east of the Ashkeeper Peaks.*
 
 The ground shook, causing everything in the house to tremble, clink, and fall over to the ground.
 The eyes of the grown dragonborn whirled around to find a nearby cause, but settled on the front door, and the outside as the only source - nothing inside the house could cause everything to shake this much.
@@ -21,7 +21,7 @@ He really wanted to give her a clear answer, cause if his fear had come true, th
 The words carved into his father's heart, who wanted nothing more than reassure them both, that there was nothing to worry about.
 He reached out for the handle, as a roar, louder than anything he had ever heard before, echoed through every inch of the house causing him stop dead in the motion.
 He could feel his heart pounding, his breath inhale trembling, and his hand shaking as he laid it on the grip of the door.
-He swallowed, and steeled himself for the encounter with the only kind of entity he could think of could make such a noise, and still be so high up in the clouds.
+He swallowed, and steeled himself for the encounter with the only kind of entity he could think capable of make such a noise, and still be so high up in the clouds.
 The hardy door he had built himself made no audible noise as it swung up, but the surprisingly freezing cold wind hit his face as if a wall of snow had suddenly been dropped upon him.
 
 The garden was not what he remembered from yesterday - where there had been green was now mostly white, and what had been waving in the wind was now stiff as icicles - literally.
@@ -33,7 +33,7 @@ His open mouth exhaled a clear fog in the weather from his warm breath.
 This narrowed the range of entities down to precisely one. 
 And as he turned his head around, stomps from the massive creature was heard clear as drums in 60 yards distance, as its huge form started moving into sight - the wings flapped twice as a storm started to form beneath its white, scaly torso, and as the two front legs landed, it roared again with a ferocity which hinted absolutely no mercy would come to anyone who would stand in its path.
 
-He slammed the door shut, eyes wide open, and his thoughts trying to create an order of everything they now needed to do to survive.
+He slammed the door shut, eyes wide open, and his mind tried to create an order of everything they now needed to do to survive.
 He swirled towards the two creatures he held most dear in this world, as the dreadful word left his mouth:
 
 "It's the white dragon - we have to leave."
@@ -42,16 +42,15 @@ It was said without any hints of hope.
 It was not a suggestion.
 It was not up to debate.
 Everything would be gone, and if they stayed too long, they would be as well.
-His soulmate had no intentions of objecting.
+The dread in the face of his soulmate showed no intentions of objecting.
 
-"Get the egg, get a bag to it, take Ildrex under your arm, and get down here."
-
+"Get the egg, get a bag to it, take Ildrex under your arm, and get down here" he called upstairs, although they kept standing perfectly still.
 As she stood at the top of the stairs, not moving a muscle, a sound of stone and wood being crushed echoed over the city.
 
-"Now!" he shouted, as he himself started to move to his shop downstairs, where wooden chairs, -doors, -symbols and -tools laid scrambled everywhere on the floor.
+"Now!" he shouted, as he himself started to move to his shop downstairs, where wooden chairs, -doors, -symbols, and -tools laid scrambled everywhere on the floor.
 He forced his way through it all, towards the painting on the wall, which illustrated his father and mother holding hands, with his brother and himself on each of their laps.
 He paused for a split second, as he realized this would be the last time he ever saw them, before he tore it to the ground, revealing a safe in the wall.
-He spun the wheel back and forth as the combination clicked, unlocking the door to the one thing he had inherited from his parents most precious.
+He spun the wheel back and forth as the combination clicked, unlocking the door to the one thing he had inherited from his parents most precious wrapped in a leather pouch.
 
 A sound of arcane magic and a slight weight change on the wooden floors from the hallway suddenly announces a visitor he had not dared hope for.
 
@@ -59,7 +58,6 @@ A sound of arcane magic and a slight weight change on the wooden floors from the
 
 "Ay, brother - it is I" a slightly older voice rang back. 
 "Do you have the stone?"
-
 The tone of the question was clear, demanding, but most of all worried.
 
 "Right here" came the reply from the small shop.
@@ -77,7 +75,7 @@ Nadraa quickly swept in to catch his brother before he fell on his knees.
 They all knew that the Chroma Conclave had attacked and burned Emon to the ground only a few days before, and the other great cities of Tal'Dorei would be next.
 So the High Council had prepared their army, and gone through procedures for defenses, but to no avail.
 
-Nadraa and his brother, however, had laid emergency plans, should the worst happen - and it had.
+Nadraa and his brother, however, had made emergency plans, should the worst happen - and it had.
 
 "Sora!?" Nadraa called to his soulmate.
 "Are yo-" but he halted the rest of his line, as she came rushing down the stairs with Ildrex in her arm, and a bag over her shoulder.
@@ -88,6 +86,6 @@ They all hugged each other in a small circle, as the dust started to fall from t
 "Donaar, dear - get us out of here!" she pleaded.
 
 The eyes of robed dragonborn lit up in white arcane magic, as the wall of the house suddenly fell in over the hallway. 
-But as the stones hit the floor, they crushed only the carpet, and the arcane residue that were left.
+But as the stones hit the floor, they crushed only the carpet, and the arcane residue that were left behind.
 
 [[Next chapter]](Chapter1.md)

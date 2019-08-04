@@ -1,6 +1,6 @@
 # Chapter 1
 
-*Year: 833 D.P.*
+*Year: 833 D.P. (20 years later)*
 
 *Location: The city of Hupperdook in Wildemount.*
 
