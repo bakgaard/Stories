@@ -1,453 +1,456 @@
 # Chapter 5
 
-Adrex was sitting relaxed in the shop with his notebook and a pencil, tabbing the top corner of the blank arc.
-The deal he had struck with the twins were rather simple: he would get the formula for black powder, and he would find out how long it would take for the explosive part to be at its maximum height when shot up.
-But that was tricky, for some reason.
+<!-- * What is this chapter's purpose?
+  * Adrex will perform a few tests for the twins to show he is methodical
+  * Adrex and Yurgunn will drill a small barrel for a gun
+    * Test the barrel
+  * Get his dad to make a handle of wood
+  * Create a rifle
 
-He put down the pencil, and took the apple next him, tossing it up a few inches, mentally tracking how long it took for the apple to land in his hand.
-He used a bit more force, tossing the apple a bit higher into the air, noting the time from leaving his hand to grabbing it was longer.
+* What shall it accomplish?
+  * Get moving with the story
 
-No surprise.
-That made sense.
-More power - more height - longer travel time.
-And he wasn't really interested in how long it took to fall down again, since that would be too late for this purpose.
-So all Adrex had to do, was find the time it took to get the apple up.
+* What is being shown that hasn't been shown before?
+  * Gun and rifle being tested
+  * Methodological testing of equipment -->
 
-He looked at the iron stamp which held some loose parchments down, and then looked back at the apple in his hand.
+When Yurgunn came back to the shop with the new equipment, she could see Adrex most certainly had not taken time to feel sorry for himself.
+All wheels and cogs were gone from the workbenches, replaced with a weight, parchments, small bowls, strings, a lot of tubes, saws, and drills.
 
-*The heavier the object I send up, the more power I need*, he thought to himself.
-He had had harder problems before, so this just needed a lot of testing.
+Her apprentice was fiddling with some parchment and a tube, and as she sat the bag at the table, her face clearly showed she was trying to figure out what it all was for before asking.
 
-He put the apple down, picked up his pencil, and wrote "light ball" in the top of the paper, and "heavy ball" halfway down the paper.
-Then he drew two arrows under section - one horizontal, one vertical - wrote "powder" under the horizontal line, and "height" at the vertical line.
-He started tapping his pencil at the corner again, as he rested his head in left hand.
+The bag had not settled on the table, before the dragonborn had snatched it, and taken out the small containers with the refined niter in.
 
-*So, if I use no powder, I won't get anywhere - that's for sure*, he thought to himself, as he made a small cross where the lines met.
+"O'ight, Adri' - fill me in this time... before *we* do it" she said, pushing the last part a bit.
 
-*And if I use a lot of powder, I will get high up*, he murmured to himself, as he made another mark at the opposite end of where the lines met.
-He stared at the paper.
-He couldn't quite predict if it would be a straight line from the first mark to the second, or if the line would bend upwards or downwards.
-Well, no need to glare at this for too long.
-He needed to test it anyway, but it would have been nice to have an idea of what to expect.
+As a container popped open, Adrex flipped his notebook to her with the recipe for black powder.
 
-He closed his notebook just as the door swung up with the sound of the little bell, as Yurgunn and the gnome, Cleff Tinkertop, came through the door.
-His black bush of a beard was easy to recognize, with small patches of white-gray hair here and there, with large spectacles in front of his eyes with extra lenses to flip in front of as well.
-His tucked up shirt underneath his brown apron told Adrex, that the gnome didn't care that much about his appearances around other tinkers, cause there was business to be had.
+"We are making black powder" he said in a monotone voice
+"... and the potassium nitrate you just collected, along with the sulfur, are what do most of the job.
+We just need to mix it with some charcoal, and we could start make fireworks our self."
 
-As they stepped inside, Yurgunn sent a determined look towards Adrex - she had most likely made a good sales pitch, and now Adrex just had to seal the deal.
-Adrex stood up, as the gnome noticed Adrex was there.
+"Are we ta' make fireworks for the twins?" his master followed, confused but also a bit judging.
 
-"Ah, Adrex me' boy - good to see you again" the gnome said with a genuine delight.
-"How is it clickin'?"
+"No, I ehh..." Adrex started, as he gathered his thoughts.
+"I went up to the twins, they were upset because of some feedback from a customer, and had started fixing the issue.
+We talked a bit back and forth about how a rocket can only have so much powder before it blows up, and I suggested they send it up through an explosion in a tube, and the rest could be ignited with a fuse."
+As he looked over to Yurgunn, he could see her eyes wide open, to which he hurried to add: "- and we agreed they could have that idea, if I could make a prototype for them."
 
-Adrex adored the gnome.
-He was a bit like Adrex himself in a way; 
-If you could tinker a bit with the items, you could make something new of it.
+When Yurgunn spoke, the disbelief was clear:
+"Yeh' suggested them ta' make a cannon with explosive balls?"
 
-"Mister Tinkertop" Adrex said, though happy to see him, not fully focused.
-"Good to see you as well.
-I assume Yurgunn have told you of our latest concept?"
+Adrex had a hard time countering it, as he puffed out some air through his mouth, looking at nothing in particular.
+"Well, it sounds harsh when you say it like that..."
 
-The fuzzy eyebrows of the gnome made a small jump, as his right eye narrowed Adrex.
+Yurgunn took another look at the tubes, picked one up the size of an arms length, and held it from her hip in one hand and horizontal outwards with the other.
 
-"Ey - and it really sounds like you had the... 'wheels turning'... for this one, eh?" he said, as he blinked to Adrex.
+"We are making cannons yeh' can carry..."
+Her head started nodding, as her mouth made an grin.
+"A' like it, Adri'. 
+That could be a great way to fulfill the contract!"
 
-Adrex smiled, looking to Yurgunn who gave him a big grin.
-He opened the door to the back room, and showed Cleff to the setup he had shown Yurgunn earlier.
+Her smile faded, as she held the tube in her hands, starring at it at bit bewildered.
 
-After the demonstration, Cleff was clearly impressed, as he inspected one of the small wheels in his hand, with an extra lens in front of his spectacles.
+"So, how do yeh' intend to make tha' work?" she said, curious more than judging.
+"Yeh' gonna fill some powder in a tube with only one end open, and then place the explosive ball afterwards?" 
 
-"So precise..." he muttered, before he turned his attention to Adrex.
-"It must have taken a lot of attempts to make them fit?" 
-The question was both of curiosity but also of wonder.
+Adrex looked up from the containers, and nodded.
+"Yeah, something like that", he said plainly, his attention still on the materials.
 
-Adrex couldn't help but smile, as this was actually a huge compliment for him, before he shook his head.
+A more skeptical frown could be seen on Yurgunn's face now.
+"So lets say yeh' close this end", she started, pointing to the tube, "yeh' fill it from the other end, and let it slide down, aigth?"
 
-"It took two attempts, before I got it right" he said, as he picked up the largest of the wheels.
-He pointed towards one of the cogs, as he started to explain:
+Adrex had started weighing the white powder on the weight, confirming with a distracted "mhm".
 
-"The individual cogs are not just a tooth. 
-They have very precise angles".
-He pointed to the edge, before continuing:
+Yurgunn glanced at the workbench to all the tools.
+"Can A' assume yeh' will drill a hole at tha' end to ignite it, just like a cannon?"
 
-"But it's not just an angle from the edge and inwards.
-From the very tip is a rounding, which ensures the wheels spin as smooth as they can, and each cog's length and width are very precisely carved."
+Carefully placing more powder on the cup on the weight, Adrex confirmed once more with the same sound.
 
-Cleff sent him a look of disbelief, as he adjusted a lens to better see the wheel he was holding.
-Adrex fetched his notebook, as he turned to one of the latest pages which explained the math with detailed drawings.
-He put the notebook down in front of Cleff, as he pushed it across the table.
-The gnome started tracing written text with a finger, as he nodded, made a halt to think, nodded again, and continued through the notes.
+"Then please tell me how yeh' intent to fix the problem of flipping the tube upside down" she replied, as something that was dead obvious to everyone, as she flipped the tube 180 degrees, letting the end she had pointed to be straight up in the air.
 
-After a few minutes, he finally uttered the words: 
-"I see...", not taking his eyes from the pages and the wheel in his hand.
-"Most fascinating, Adrex", he continued, as he flipped a page.
-"I can't leave this place without a copy of these notes, rest assured.
-I have plans already" the determined gnome said, perhaps most to himself.
+Adrex let the weight settle, as he reached for a small tube next to him along with some parchment.
 
-He flipped another page, which landed him on the second most recent, which had two words underlined at the very top:
+"Well, the idea was that it all goes down the tube as one unit" he started, taking some parchment, placing it above the tube's end, gently stuffing it down with a finger, before he pulled it up again.
+In his hand he now had parchment with folds perfect to the tube.
 
-***Black powder***
+"If we put powder at the bottom, the explosive ball on the top, and seal it all with the parchment, that could slide right down the tube.
+Afterwards we can prick a hole into the side of the unit once it is inside the tube, put the fuse in there, and it should keep it in place".
 
-The gnome froze with the flipped page still between two fingers, as Adrex tried to grab the book from him, gently pulling it away.
+He looked at his master, to the parchment, and back to Yurgunn. 
+"... I hope" he added somewhat uncertain.
 
-"Ah" Adrex started.
-"That was... not-"
+If it wasn't for the height difference between the two, Yurgunn would have tilted her head forward, with an eyebrow raised to give him 'that' look, but instead she shook her head twice before adding: 
+"A tiny fuse like that won't hold anything."
 
-But he was interrupted by a serious index finger from Cleff, pointing straight into the air in front of him.
+She inspected the tube again, and continued:
+"But if we are just makin' something for test purpose, this would do tha' trick.
+Besides - it would be way too expensive, if yeh' needed to buy a tube each time. 
+But the twins gotta crack tha' nut themselves."
 
-"Two things" he said, as precise as a soldier could shout commands.
+She looked to Adrex.
+"Should I heat up the forge, so we can have this pipe sealed, then we drill a hole afterwards?"
 
-"First, I am sorry to have been looking too far in your notes.
-I thought there was more belonging to this".
-He held a small pause before he continued.
+Scratching his chin wondering how he missed the problem flipping the tube, he nodded, and continued measuring the powder.
 
-"Second - that is dangerous stuff to be tampering with, me' boy".
+___
 
-Yurgunn stood at the side of the table, with her companion to her right side, client and long time friend to her left, with a very concerned - though hard - expression on her face.
+10 minutes later the temperature in the workshop had risen quite some, and Adrex had mixed what his recipe had specified.
+He now had a small bowl full of black powder, which left every surface covered in the charcoal ingredient's black dust.
 
-She snatched the notebook from Adrex' hand, and she flipped to the page in question.
+From the forge flowed a steady heat, and the satisfied dwarf stood holding a tube with a seal end in a tong, with a smile as wide as she could.
 
-"What do you mea-"
-She stopped as she saw the words underlined.
+"Tha' shou' do it, Adri'!" she exclaimed, as she dipped it into a bucket of water to cool it down, hot steam rising into the air.
 
-There was a moment of silence, as she looked from the dragonborn to the gnome.
-She raised her head a bit, as she said with confidence:
-"We have dealt with worse before, such as lethal poison, you know".
+Adrex had found the drill, and was ready to drill as Yurgunn placed the tube to the table.
+Slowly turning the handle, not applying too much pressure, he carefully drilled into the side of the tube.
 
-Cleff took off his glass, and pulled out a cloth to clean them.
+"Alright" Adrex said, nodding a bit to himself as the drill made it through to the center.
+"Now we just need some powder inside".
 
-"It is not the powder I will warn you about, me dear." 
-He took a breath as he found a seat, putting his spectacles on again with a small tremor.
+"How much powder do we start with?"
 
-"Adrex - what do you know about the group called 'Vox Machina'?"
+Adrex opened his mouth without speaking.
+He hadn't given this a lot of thought.
+Yurgunn continued:
 
-Although only said as a simple question, the words sent a shiver down Adrex' spine. 
+"And A' take we're go'n to fire it outside?
+Whatever we load into it will come blast'n out, and tha's not gonna be inside this shop!"
 
-"Eh, they were the ones who defeated Vecna almost 20 years ago, right?"
-He hadn't heard a lot about them, and what he had heard was conflicting.
-It was an odd group of *very* powerful adventures, who had traveled the continent of Tal'dorei, apparently slaying dragons and a demigod, which sounded crazy had it not been for hardcore facts to back it up.
+More nods from Adrex, and he prepared a few charges with different amounts of powder, noting them all on a paper in his notebook.
 
-Cleff nodded.
-"Indeed, they did.
-Now, they had a range of different abilities to do what they did - each of them strong in their own way" Cleff continued.
+As they went outside to the shop's back, which was nothing more than an open plain, Adrex brought a modified hourglass, which had several indications marked on the side, a larger hole for sand to flow through, and a slider to stop the sand from running.
+Their shop had space around it, and since no one was in the vicinity, they might as well test it here.
 
-"One of them had a long metal stick, which were often referred to as 'a boomstick'.
-He actually had several with him, to be precise."
-His tone had reached a low registry.
+Handing the modified hourglass to Yurgunn, and taking the smallest of the prepared samples, he loaded it into the tube, and readied himself with the tube in his hands pointing straight up in the skies.
 
-"The short ones he called 'guns', and the long ones he called 'rifles'.
-I don't know how they work, but I know that this -" he pointed to the notebook in Yurgunn's hand, "- is a requirement for them to work.
-And I know of this since I know the son of the man who sold the exact compound to them."
+"Start the timer when you hear the puff, and stop it when you see the ball hit the ground", Adrex said to Yurgunn who just gave him nod, readying the the slider on the device.
 
-There was only the faint breath of Cleff to be heard in the room, before the gnome spoke again.
 
-"... and I believe you know that son's two daughters" he finished with a small smile in his right cheek.
+<!-- https://www.britannica.com/technology/gunpowder 
+Heat is enough to ignite -->
 
-*Daughters?* Adrex thought to himself.
-*Two of those... that can only be...*
+As Adrex loaded the fuse into the tube, a nervous chill ran through his spine - he really hoped this wasn't too much powder for the first attempt.
+Igniting the fuse, he closed the eye closest to, held the tube to the air, pointing it as orthogonal as he could to the ground, and prepared himself for a huge blast, which might could-
 
-A stammer from Adrex uttered: 
-"Y-you mean... Victoria and S-Smearchuckle?"
+*fuhhh*
 
-The dwarf pushed a stool to Adrex, as she took a seat on her own.
-She tried to clarify it:
+The tube gave a tuck downwards, away from the opening, as a cloud of black smoke blew from it into the air, but not followed by the blast of a cannon at all, but more like...
 
-"Are yeh' say'n, tha' the two girls' grandpa' sold-" she waved the book twice in front of her "-to Lord Percival d' Rolo himself?" with a small disbelief and accusation.
+*duk*
 
-Cleff made a small nod as his fussy eyebrows shot up, his lips tight.
+The ball landed not even a second later at the ground close by.
+As Adrex opened his closed eye, he could see the ball lay close, only a few feet away.
 
-Adrex couldn't get his head around it.
+*That wasn't long*, he thought to himself, as Yurgunn had started looking at the markings on the hourglass.
+She soon after joined in: "Let's say tha' was a starting point, shall we?"
 
-"Why is that bad? 
-It sounds like quality!?" he said bewildered.
+Adrex leaned in to inspect the tube at its end.
+Sod covered the open end, and as he ran a finger over the edge of it, it felt a bit hotter than before at the very tip of it.
+*It should last another shot, for sure*, he thought to himself.
 
-Cleff's eyes darted back to Adrex.
+Adrex turned his head towards Yurgunn.
+"Well, they only get bigger from here, so lets see what happens.
+But I have to put them on the ground - I can't hold them steady with the tuck it makes."
 
-"Quality, indeed, me' boy.
-And nothing wrong with it." 
-He took a deep breath, and narrowed his eyes.
+Yurgunn scratched her chin a bit.
+"Perhaps we cou' use tha' rack for the maps? 
+Eh' points upward, and eh' won' tumble from a wee bit o' shake."
+<!-- Blast out, and it tilts just before a shot.
+Adrex places himself on top of it, and feels the full blast of the barrel.
+"It doesn't shake much, but if I could just hold it steady..." -->
 
-"The story goes, however, that their grandfather once sold some of it to a woman, who had stolen one of these guns from Percival. 
-And based on that information, Vox Machina tracked her down, and killed her on the spot."
 
-Both Yurgunn and Adrex was as locked in place, and didn't take their eyes off the gnome. 
-Almost simultaneously they swallowed, before Yurgunn asked with worry:
-"Just 'cause she ha' one o' his... guns, was e'?"
+Adrex held the tube in front of him, measuring in his head whether the tube would fit in the rack, and started nodding as he came to the same conclusion.
 
-Cleff gave a half nod, half turned with his head.
+Fetching it, placing it leveled on the ground, they continued to load larger and larger charges, as the metal ball flew higher and higher each time.
+Noting down the time it took for the ball to travel from the takeoff until it hit again, they could properly calculate how far up it had been later on.
 
-"Something about them being very dangerous in the wrong hands, I think" he said, with his gaze down into table with the wheels.
+As the last charge went off, Adrex kept looking up into the air at nothing in particular, whilst Yurgunn wrote down the last time stamp.
+This had almost been too easy - the twins just had to make sure the balls of colorful explosives would go off at the right time, and they could sell this as a new kind of product.
+How come no one ever had thought of this before?
+Well, they still needed to look at the numbers, and they still needed some sort of formula to calculate the actual height, but that couldn't bee too hard, could it?
 
-"But hunt her down, they did... twenty years ago."
+As his master closed the notebook, she gave Adrex a small nudge at his hip.
+"Yeh' went day dreaming, Adri'.
+Wha's on yeh' mind?"
 
-He looked back up at the two.
+"I can't help but think we are doing something wrong", he said looking down at the dwarf.
+"We took a few things, put them together, and now we have..." gesturing with a hand to the tube.
+"... whatever this is."
 
-"I don't know what you intent to make, but you usually make traps", he said a bit tired, though with a smile on his face.
-"Be careful about what you do with it."
+Yurgunn held the modified hourglasses up in front of her.
+"Yeh' remember when we made this beauti'?
+We came up with a way t' measure seconds in an one minute hourglass - all because we had some creative think'n between us, and we weren't shy t' put existing stuff t'gether.
+And that served us very well over the last few years, I'd say."
 
-He clapped his hands together, as he stood from his chair.
+Indeed it had.
+With some smaller hourglasses they had come up with a method, so they could mark the amount of sand in the one minute hourglass second by second.
+Having this had given them options for create some very interesting traps over time which had paid off pretty good.
 
-"So - you mentioned a price earlier, Yurgunn.
-I'll take it, if I can have the notes on a clean set of parchments."
+"So - wha's next?" she said, as she started walking to the workshop.
 
-He went to leave with Yurgunn, who glanced back at Adrex just before she left the room. 
-He was currently frozen to the place, not looking anywhere but where the gnome had left his warning.
+"Well, the time it takes to get up is the same it takes to come down, I think."
+Adrex picked up the rack and the tube, which surprisingly still was cold.
+"If we can figure out how long it takes for something to fall from a certain distance, we might have the last clues we need to make a formula."
 
-Adrex' mind was racing with questions and concerns.
+"We cou' get some rope, put measuring flags on it, drop a ball from different heights, and measuring th' time it takes to hit th' ground?"
 
-*They killed her for having it?
-Just for having it?
-And now I am making something like it... for others even.
-Oh, dear Bahamut, I will be putting everyone in danger if I do this.
-And what about me? ... and Yurgunn? 
-If they find out, they will take us out on the spot.*
+"Mm - good idea.
+We need someplace high for this - like a hundred feet tall, or more, and we need to be able to drop a ball from multiple points along the way."
 
-He started to look around, at nothing in particular, as his balance started wavering.
+They walk to the door in silence, thinking about where they could do that.
 
-*So don't do it, right? 
-If I don't do it, they can't come after me...
-Wait, I signed a contract with one of those magical seals on - I have to do it!
-SHIT!* 
+"How tall is th' house yeh' folk live in, Adri'?"
 
-He placed his hands clasped together in front of his snout, as he started to tap his fingertips together.
+Entering the workshop, the dragonborn just shook his head.
+"Not tall enough. 
+Not more than 30 or 35 feet, I think.
+Do you think the metal apartments at the Upper Tier are taller?"
 
-*There has got to be a solution to this - come on, Adrex - think!
-If I don't deliver, the Xhorhasian Empire will come after me.
-If I deliver, Vox Machina will come after me.
-That means I... have... to please them both?
-Gah - how can I make something by not making it?
-Do a half-assed job, so neither consider me to be worth a threat, and claim the task to be impossible? 
-Wait, that might actually work.*
+"Meh, I doubt it, lad."
 
-The finger clapping stopped only for a brief moment, before they continued.
+As they entered Yurgunn suddenly exclaimed: 
+"Of cause - we use th' lift!"
 
-*Nah, I have to it correctly, or we'll loose our reputation everywhere.
-'Hammer & Scale can't deliver' - pff. 
-Not happening.*
+A bit surprised he hadn't thought of it himself, he injected: 
+"They will never let us use it."
 
-He started walking around the work bench, which he so often had done when something was troubling him.
+The lift was used only for the very rich of the Upper Tier, and everyone else was directed to use the stairs.
 
-*We have to deliver to the Xhorhasians - we can't get around that.
-We deliver, and... tell no one?
-It will fulfill the contract, and if we are discrete, Vox Machina won't ever know we made them.
-Mhm - that might be alright.
-Then we just need to tell no one, and those who knows something, we pay off.
-Nah, that won't last.
-Money makes people do all sort of things.
-We have to...*
+"They will never let us use eh' for free, yeh' mean"
+his master countered.
+"We have some coin to spare, remember?"
 
-Adrex trailed off - he was getting down a very dark line of thinking.
+"You want to bribe a Crownsguard?"
 
-The door to the room suddenly slammed shut, making Adrex jump in his place, as an enraged Yurgunn matched into the room.
+"I intend to bribe all four of 'em" she replied in a mischievous tone.
+"Most o' the day, they just stand around, waiting for fancy-ass guest to arrive, allowing a sightseeing or two when they come to inspect their precious production.
+They have time, and I'm pretty sure they also like the coin."
 
-"Oh, Yurgunn, please don't-" Adrex started, but was cut off.
+Adrex wasn't so sure this was a good idea, but currently he didn't have a better alternative.
+Using the lift was actually a pretty good idea, and it could reduce the time this small side quest would take.
 
-"SIT", she shouted, as she slammed Adrex' notebook into the work bench. 
-Adrex butt found its way to the stool right beside him very fast, being sure not to utter a sound, as his mentor sent him a death glare.
+Inside the shop Adrex set the tools back at their dedicate spaces, and went looking for some objects they could use.
+They didn't have balls lying around to throw from high places.
+Roaming around he did find a sandbag, and with some smaller bags they had laying around he filled up 10 of these, sealing them with a small string.
 
-Her voice rang with perfection, as she started walking back and forth:
+Yurgunn had found some paper slips, and marked each of them with '10 feet', '20 feet', and so forth. 
+"Yeh' ready?" she asked, looking like she was already on her way out the door.
 
-"I leave yeh' for ONE hour, being specific 'bout not givin' away our secrets, but instead yeh' pick up someone else's, dragging a whole bunch o' problems over our heads."
+Putting the small bags in a satchel along with his notebook, Adrex picked up their hourglass device, nodded, and went along with his master out the door.
 
-"When I told yeh' tha' take initiative last week, it was to encourage yeh' to *say* what was on yeh' mind - not signing deals on a whim, trading secrets on a whim, and showing it off to the first person yeh' see!".
+Stopping by a shop for buying a 100 feet of rope, they started measuring out 10 feet at a time, and inserted the paper slips with some string to the rope.
 
-She went around the bench to the green scaled dragonborn, who seemed to have become smaller over the shoulders, and almost a foot shorter, as her voice had become a bit softer, though still not pleasant:
+As they headed towards the lift, Yurgunn turned to Adrex.
 
-"I would have asked if you ever used tha' big head o' your, if it wasn't for the amount of gold pieces we just earned from it", she said, as she grabbed him by his shoulders, shaking him a bit.
+"Just ta' be sure" she started.
+"One o' us takes th' lift up, takes the rope along, and makes sure its end can reach the bottom of the lift.
+For each 10 feet, a sandbag is flipped over the edge, and the time it takes to travel will be measured - is tha' correct?"
 
-"Now THA' was some great stuff yeh' did, Adri'!"
+Adrex nodded, as they approached.
+"Should I take the lift, or do you want to?"
 
-She tapped him on his right shoulder, as she found her own chair, in which she sank down, resting her head in one hand over her eyes.
+"We'll be needed a certain amount of charm to keep the guards happy.
+If yeh' don't mind me saying, A' think it might be best if A' took it up?"
 
-Adrex didn't know what to say.
-She wasn't wrong.
-How could she see it in another light? 
-He had single-handedly signed the contract the Zhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would outright kill him for, and let someone else know he had the information.
+It was a reminder to quite a few times where Adrex had really tried to be charming, and it fell flat on the ground, almost shattering potential new contracts.
 
-Well, that was maybe putting it on the edge.
-Yes, the contract was entirely on him, but he had thought it was as ordinary as any contract they had ever done.
-The black powder was unexpected though - he couldn't have known that was illegal to possess by some mighty adventures.
-And that Cleff had seen it was not intentional, to say the least.
+"Well, when you say it like that..." he responded, a bit embarrassed though still agreeing. 
+He really wanted to try the lift, but it wasn't a big deal.
+The sight was as good on the top anyway, so it was only really for the experience.
 
-But here they were.
+As they reached the lift, four Crownsguard stood watch in their vermilion robes, bronze scale mail breast and arm plates, and each with a weapon at one side, and a crossbows on their other side or back.
+Two of the gnomish guards was eating from a small piece of paper, while the two Dwarvish guards sat quietly looking around, as one of them saw the partners approach.
 
-"Look, Yurgunn. 
-I am sorry about all of this.
-I... I didn't..."
+"How can I help yeh' two?" the beard bellowed out, as he stood from his seat.
 
-He felt bad, and had no words to express it.
-He had brought them into a bad position, even though he hadn't meant to.
+Yurgunn took a step in front of Adrex, as she curled one of her braids in a finger.
+"I was hopin' I could take lift up today."
+Walking a a bit closer to the guard, she tilted her her head a bit forward, trying to make puppy eyes.
+"I need to carry some sandbags up, and they are awfully heavy."
 
-Yurgunn made a long sigh, as she looked up from her chair.
+With only the smallest of pauses, the guard responded with some regret:
+"Sorry, miss - I can't let yeh' do tha'." 
+He was used to this.
+But that didn't mean Yurgunn gave up.
 
-"Tha' contract is some real shit, Adri'" she started, shaking her head.
+Keeping up the charming voice, and curling some hair behind her ear, she took out a small purse with 20 gold pieces and rang it ever so faintly in front of the guard.
+"What if you and the boys got a bit extra for it?"
 
-"Can't we get out of it?"
+The guard made a small pause while he looked at the purse, before glancing back to the three others, who apparently had heard the clinging from the purse as well.
+"Tha' wouldn't be a bribe of a Crownsguard, now would it, miss?" he asked, one eyebrow raised.
 
-She shot a glance at him, as her tongue made some movement inside her mouth.
+Raising her voice slightly, she replied with some confidence:
+"It would be a donation of... I assume... a weeks work for each and all of you."
 
-"I never told yeh' why I came ta' Hupperdook, did I?" she said softly, all of the hard tone gone.
+None of them spoke.
+They were considering it.
 
-"Well", Adrex started, trying to recall it.
-"You mentioned your old master, and that you came to seek out new challenges."
+Before they could refuse she added:
+"And if yeh' are asked why yeh' raised it, you can say you wanted to make sure it was still working.
+No one have been using this for at least a week."
 
-"Ay, I did tell you that.
-But tha' wasn't exactly the right reason."
-She sent him a sad look.
+If the guard ever had had any will to say 'no' to gold, it was now long gone.
+He turned to look at his comrades, who had hungry looks in their eyes, and suddenly started twitching their heads a bit, making small motions with their eyes and eyebrows.
+It reminded Adrex of the twins, who had communicated in a similar fashion in which he wasn't sure he had those capabilities.
+Did he and Yurgunn have it as well, or did they just always say what they thought?
+He wasn't sure.
 
-"I had a master once, who could turn every piece o' metal to an exact shape.
-Nothin' was too complicated, and nothing stood in his way, so we worked on all sort o' odd jobs no one else could complete.
-One day, however, he signed a magical contract to deliver som' rods te' withstand any force sent against it."
+The guard next to Yurgunn looked at the lift for a second.
+"Ay - we can't have it not working. 
+Better..." he held out his hand, as Yurgunn passed the purse to him.
+"... better see if it still works."
 
-She drew a breath, and exhaled deeply.
+He slid the purse inside a pocket, before he gave a nod to to the other three.
+"Warmspine - it's yeh' watch for this hoist.
+Yeh' know the drill."
 
-"Well, long story short; it couldn't, and I had no master anymore.
-Magical contracts have some fine prints, that set consequences if not held up to the agreements, and this one was not good."
+The other Crownsguard dwarf gave a nod, as he walked off the lift, and rested on a large rock next to the platform.
 
-Adrex stared at Yurgunn with his eyes wide open, finding it hard to swallow.
+Yurgunn turned around to Adrex and gave him a wink as she walked on the platform with the other guards.
+"Yeh' won't mind if I toss some of these down to my partner, would yea'?" she asked the Crownsguard dwarf.
 
-"How... how severe are the consequences of the one I signed?"
-He could feel his heart hammering away, as she looked at him.
+"We usually explain to the civilians using the lift, tha' falling off it is their own fault.
+Stand on the edge at yeh' own risk, but A' should warn you, that it's a bit shaky" he said, as he walked to a thin line Adrex hadn't noticed before now, and tucked it twice. 
+Shortly after the lift started to rise with audible noise.
 
-"Not good" she said, making a face that indicated the severity was just as bad as her old master's.
+Adrex took out the hourglass, and readied his pen for his notebook, as he watched the 100-feet rope's end dangle just above the ground.
+10 feet later Yurgun called out, Adrex flipped the hourglass, and shortly after a sandbag hit the ground next to the end of the rope.
+Inspecting the marks on the hourglass, he noted a number in his book, and flipping the hourglass back.
 
-*I am doomed!*
+10 feet later, the same thing happened, though the sandbag seemed to hit a bit closer to Adrex... a bit too close for his liking, and it sounded like it had hit the ground hard.
+Noting the time, Adrex moved himself closer to where the guard sat, obviously pondering what the two partners were up to.
 
-That was about all going through Adrex' mind, as the implications sank in.
-He couldn't get out of it, and now he had to watch out for some crazy people.
+He barely got into a sitting position before Yurgunn yelled at the 30-feet mark, sending another sandbag towards the hard surface, and this time tearing a hole through it as the sand inside it tore a weak point open.
 
-Although dragonborns' facial expression are less visible than most other creatures, Yurgunn apparently had no trouble seeing them.
-Maybe it was his eyes than had turned red, or the two lines of salty water than ran from his chins, as he quietly sat there, heaving for air, starring at the notebook which in minutes had torn the world around him apart.
+The guard cleared his throat a bit, as he scratched in his beard.
+"So, what are yeh' two doing, if one may ask?"
 
-As she stood, and put her arms around him for comfort, a high pitched sound could be heard from Adrex:
+Adrex needed to focus, so he didn't look away from the platform which seemed to reach its 40 meter mark.
 
-"Please don't shout", followed by a very heavy breath, as his eyes closed, and his chest started to jerk up and down.
+"We are measuring how long it takes for a sandbag to fall a certain distance" Adrex said staring in the air, as the 40-feet yell was heard, and he flipped the hourglass, heard the sandbag shatter at the ground, and flipped the hourglass again.
 
-"I won't, Adri'", she said as she rubbed her hand on his back.
+"And we measure for each 10 feet, with the small markers telling us when to toss a bag" he continued, as he marked the number, and looked to the platform again.
 
-"I'm so sorry, Yurgunn" he finally let out, as the sobs became audible, and he buried his face in his hands, unable to hold back his fears.
+The guard nodded, as he looked to the dangling rope.
+"But eh - does tha' work, when the rope is not touching the ground?" he said, pointing to the end, which hovered two feet above.
 
-Although it didn't last last, and it after a few seconds became more like a whimper, Adrex had suddenly found some determination, as his breathing became more consistent.
+Adrex cursed inside.
+He hadn't been paying attention to it.
+"YURGUNN - GIVE IT MORE ROPE!" he called out to his mentor.
 
-*One thing at the time, dummy.*
-*What will kill you first are the Xhorhasians, and then* maybe *afterwards Vox Machina*.
-*Don't get killed, and don't fuck up even more.*
+A head poked out, but quickly vanished again.
+More rope was added, although a bit too much.
+Before he could yell to have her correct it, she yelled back for the 50-feet mark.
 
-He stood up, as Yurgunn released her hug around his shoulders, reached for the notebook, tore out a page, and wrote down a short list, before he handed it to his master.
+Adrex hadn't written it down before the guard asked again, a bit casual:
+"So, yeh' are from Talinstadt, I take?"
 
-"We need this from an alchemist", he sniffed with some sort of determination, before he turned to the back of the workshop.
+Adrex froze in his place as a lot of memories surged over him.
+Not of the place of Talinstadt, but of who lived there, and what his parents and uncle had told him to do if ever asked about it, or confronted by their citizen.
 
-"Are ye' sure you don't wa-" Yurgunn started before Adrex cut her of.
+*Don't deny who you are - just hide it*.
 
-"I don't have time, Yurgunn.
-I need to do this, and I don't have long to do it." 
-He had started looking at some metal scraps they had laying around in a few boxes.
+"N-no, I'm..." Adrex had to swallow before he could continue.
+"I live in this city, and I grew up here." 
 
-She looked over the list, tired and worried.
-A quick glance at her apprentice, and she knew he was in a mood she couldn't get him out of.
+The dwarf was now curious.
+"But yeh' are from Draconia, ain't yeh'?"
 
-"Ay... I'll lock tha' door before I go... don't open fo' anyone, o'right?" she said.
+Adrex had never seen the city itself, as he was still in its egg when the magic that held the floating city aloft had been undone, sending the entire city to the ground, and shattering everything that had ever stood... At least that was what he had been told.
 
-There was no reply from Adrex, but scramble rustling around.
+"Well... my parents moved from Draconia many years ago, and I was born here."
 
-He had to do something to make up for this mess he had put himself in, and he needed to do something fast.
+Another yell from the 60-feet mark.
+Adrex almost missed it, as yet another sandbag fell like the city of Draconia, leaving nothing recognizable from its original form but dust and torn strips of the cloth that held it together.
+Just a single push, and hard work to create the sandbag was undone in mere seconds.
 
-Point of order - get the twins' data, so he could move on with more pressing matters.
-And to get that, he needed something he could test his powder in, but not burn the whole place down.
+He wasn't sure he had got the time right on this one, as he jotted the number down in his notes.
 
-*No, that's too small*.
-*That's too thin.*
-*This has a hole in it.*
+"But aren't yeh' a Ravenite?" asked the Crownsguard a bit confused.
 
-As he furiously rummaged around the scraps from earlier projects, he could hear the doorbell ring, the door close, and the lock being turned.
-As as soon as it had, he took the first thing in the box he could keep in his hand, and hurled the tube through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, his breath visible in the air around him, before he fell to his knees, tears streaming from his face once more, as the tube clanged over the floor, rolling up next to him.
+A fast comparison came to mind:
+"As much as you are a Duergar" Adrex responded too fast, regretting it even faster.
 
-The roar didn't last more than two seconds, and quickly turned to a whimper.
-Soon after it turned into a few coughs, as the air around him slowly cleared from the poisoned gas he had breathed out.
-It didn't hurt a lot, but he had to fan his hand before his nostrils before he could inhale clearly again.
+The face of the dwarf grew hard and his eye got cold, as he raised himself from the rock with his hand on the shaft of his sword.
 
-"This is crazy!" he quietly thought to himself.
-"How can someone come after me for something I haven't even done yet?" 
+"A' don't think tha' coin purse was heavy enough such a comment" came the reply in a tense and monotone voice.
 
-He rolled around to lay on his back, as he picked up the tube, and lightly tapped it on his snout.
-What was it Glenn had called them?
-Guns and rifles?
-And made of a long metal tube, like this one? 
+*Why can't you keep your mouth shut, Adrex?* he thought to himself.
+It had really been a fair comparison for all intense and purpose, but it had not been the right company to make it in.
+The Duergar dwarfs had gray skin and lived under the ground, while their cousins of the hills and mountains had a more colorful skin like humans and lived above ground... And they were mortal enemies.
+The Ravenite dragonborns looked like the Skywalker dragonborns except the for the lack of tail, and the Ravenites hated Skywalkers with a burning passion.
 
-His eyes narrowed the tube, as his mind started to pick up speed again.
+"Look, I-I'm..." Adrex started before he was cut off.
 
-*It's a tube, which means something can flow in a direction*.
-He blew a quick breath into it, as small pieces of dirt flew out the other end.
+"A' think you better take a walk, citizen of Hupperdook.
+No disturbing of the Crownsguard on duty."
+The words were so precise they could have cut stones, and punctuated by the 70-feet sandbag hitting the ground.
+Adrex had not even noticed the yell from Yurgunn.
 
-*And if I apply pressure in one end, I blow things out the other*.
-He picked up some metal dust, rolled it into a small bead, placed it in the tube with his left thumb, and blew through the tube again.
-The little ball flew out, and made a small *thud* as it hit a box at the shelf.
+Adrex had no interest in staying - this could not be salvaged, not even with coin.
+As he raised himself from the ground the dwarf looked at the place the sandbags had fallen, quickly took on of the intact ones, and threw it at Adrex.
 
-*This is basically a cannon*, he thought to himself, as he rolled another ball, loaded it into the tube, took a breath, and fired the ball at the box again.
+"And take yeh' shit with yeh', yeh' bloody refugee!"
 
-*A time expensive process, because I need to load a ball, and I need to take a breath, before I can fire it*.
+Adrex caught the sandbag as it came hurling towards him, and started running as fast as he could towards the stairs to the Upper Tier.
 
-He picked himself up to a sitting position, as he looked into nothingness, deep in thought of how to reduce these steps.
+*This is all my fault, for not keeping my big mouth shut*, he cursed mentally.
+*If I had just made the reference to any other race, or just some materials, I would have been perfectly fine, but no - you had to compare them to the most obvious in the context*.
 
-Cannons where huge, heavy, and required a lot of powder for the heavy metal balls - mostly to shoot through ships.
-He didn't need huge, didn't want heavy, and he didn't need a heavy metal ball, since he wasn't to shoot through ships. He only needed to hit a target and make it hurt.
+He ran as fast as he could, until he was a good 100 feet from the lift's connection to the Lower Tier, before he slowed down to a fast walk.
 
-He gathered another ball, placed it in the tube, took a deep breath, held his right hand as far from the tube's ending he could, and blew as hard as he could.
+"GAH" Adrex spat as he started the walk up the steps.
+It was the dwarfs own fault.
+Why didn't he know about the relationship the Skywalkers and the Ravenites had to each other?
+The dwarf would just have said 'oh', and perhaps dropped the subject like a hot potato, but for some reason he didn't know about the slavery that had ended 20 years ago when Draconia fell.
+The dwarf would also have gathered Adrex was born after that event, and he had absolutely no stakes in that matter, but being on the wrong side of the table.
 
-"Aw!"
+Adrex continued up the stairs, fuming, hissing, and snarling the entire way, as he held the sandbag, hourglass, and notebook in his arms.
 
-He shook his hand numb the pain. 
-That actually hurt quite a bit - not for long, but still.
-He turned the tube in his hand, as he inspected it.
-It wasn't heavy, it just required some pressure, and it had made his hand hurt.
+*And the experiment failed, because I didn't think it through.
+Of cause Yurgunn needed to make sure the rope was just touching the ground when she tossed a sandbag, but how could she without falling off that damn lift?*
 
-"So how much powder do I need to stuff into the bottom of this to make the same pressure, if not more", he said aloud to himself.
+Now he had to come up with a new way to measure the time, and he only had a single sandbag left.
+*How long does it take for a sandbag to fall, how long does it take, how long does it take?*
 
-He pulled himself to his feet, found his notebook, turned the pages to the graph he made earlier, and starred at it.
+When he got up to the top he would take the leftover sandbag, tie the rope around it and let it hang until it...
+*Wait - that's it*, he thought to himself.
+*Tie a bag to the end, and drop it.
+Drop it 10 feet, then 20 feet, then...* 
 
-*More power - higher up.
-But how high does it go?*
-He starred at it for a moment, before he tossed the tube into the air, noting it fly up, come a halt, and dropping down.
+He forgot all about the Crownsguard and Talinstadt. 
+Why hadn't he thought of this earlier?
 
-*Same time up, is the same time down?*
-If that was the case he could measure how long it took for something to drop, and then note down how far up it dropped from - that would be the height it was at.
+It didn't take him long before he reached the top of the stairs.
+His head was buzzing with how he would perform the test, how to tie the sandbag so it didn't tore when the rope reached its full length - it would be perfect.
 
-He started nodding to himself - he could do this.
-*So if I put some powder in a tube, it will make a small explosion. 
-That all has to come out of this tiny hole. 
-The wider the hole, the less power will push it out.*
-He narrowed his eyes, as he studied the tube.
-*Perhaps the length as well?*
+As he took the last steps to the Upper Tier, he was greeted by another angry dwarf, most likely just as unpleasant as the last one, but this one he could talk with.
 
-This one wasn't so easy to crack.
-He needed to do some experiments with that. 
-And to do that, he needed more tubes.
+"Wha' the fuck happened down there?" his master exclaimed.
+"A' hadn't been gone for two minutes, before A' see him throwing a sandbag after yeh'.
+How did yeh' manage tha' result?"
 
-<!-- 
-## Math
-Deceleration formula: https://www.school-for-champions.com/science/gravity_equations_upward_velocity.htm (linear, and half time to go up, for full time to go down)
+Adrex took a deep breath.
+"He asked if I was from Talinstadt", as if that was explanation enough.
+And it was.
+Yurgunn mood changed from frustrated to worried and serious.
 
-If gone for x-seconds, how far up were you?
-https://sciencenotes.org/vertical-motion-example-problem-coin-toss-equations-motion/
+"And wha' did yeh' say to make him tha' angry?" she followed up.
 
-Splat effect: 
-https://www.angio.net/personal/climb/speed.html
+"Well, he asked if I was a Ravenite, and I..." 
+Adrex would have lifted his hands if they wasn't filled with items.
+"I compared them to dwarfs and Duergars, which I really shouldn't..." 
 
-=>
+"No, you should not have" she interrupted him, the anger back in her voice, as she strode towards him, fist clenched.
+As she reached him she flung her arms around his waist, and held him... fast, but gently.
 
-height = (start speed m/s^2)/(19.6 m/s^2)
-19.6 m = 64.3 ft
+"A' love yeh', Adri'" she said with a soft voice.
+"But you have got to start learning people skills."
 
-https://www.wikiwand.com/en/Gunpowder#/Combustion_characteristics
-Releases 3 MegaJoule/kg
-
-Measure with hempen robe from mill tower?
- -->
-
-
-
-
-
+A whimpering sound came from the dragonborn, as the notebook fell from his arms, followed by the sandbag, and the hourglass, before his knees gave in under him, and he slumbered to the ground.
+It had been a really long day, and he wasn't sure he could handle more mood swings.
 
 
 

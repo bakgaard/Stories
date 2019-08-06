@@ -1,497 +1,539 @@
 # Chapter 3
 
+"Bye mom, bye dad, bye Uncle Donaar!" Adrex shouted over his shoulder, as he rushed through the door with his satchel over his shoulder.
+Today was a new day - with new opportunities to explore, investigate, and engineer.
+He had a plan for the day, and he was excited to get to working.
 
-The sound of more fireworks flying in the air, busting into different colors had become so mundane, that Adrex didn't even bother to look up at it.
-'*Work hard, and party hard*'' had become the motto of the city, and it was quite fitting.
+As he walked with a hasty speed towards the city, he had started humming [a song](https://www.youtube.com/watch?v=-hHfDTVgs0Q) he had heard one time in a tavern, performed by a traveling group:
 
-12 hour work days was the norm here, compared to... well everywhere else, as far as Adrex had heard.
-Hupperdook was the factory of the Dwendalian Empire, and for the long hours system to work, the council of the city had pushed for making it the norm to also celebrate the long days - booze was cheap, the legal drinking age was when you started working 12 hour shifts a day, and it was in no way frowned upon to still be partying at 3 in the morning.
-After all - the barkeepers had 12 hour too, just shifted compared to most in the city.
+"*Hupperdoo-oo-ook, Hupperdoo-oo-ook*
 
-Another rocket went up not too far from Adrex - it took a bit longer to go off, and burst into a large, silver ring of glistening sparkles, followed by a cheer from the launchpad from where it had been shot up.
-Adrex looked in their direction.
-He had tried to send some rockets up - it wasn't expensive in Hupperdook, and they had quite an export of it to the rest of the empire. 
-The twins made and sold fireworks, and although it was a competitive business here, they mainly focused on shipping to elsewhere - the price was higher, and they didn't have to make as much of it.
+*We set the course for Hupperdook.*
 
-They had explained that they really had to focus on two things, which they separated between them; They made fireworks that didn't blow up in your face, and they made instruction manuals that was as clear as day.
-Apparently they had received a lot of complains about people getting injured who where not used to handling fireworks - mostly from stupid people, they had added.
-Some had stood no longer than a few feet from an exploding rocket, while other had even held it in their hand, as the fuse ran its cause and the rocket started to fly away.
+*Hupperdoo-oo-ook, Hupperdoo-oo-ook*
 
-"It's dangerous, but we try to make it safe" one of the twins - Victoria - had said.
-She wrote manuals far longer than any normal person would ever need, but she and her sister - Smearchuckle - really couldn't afford more lawsuits from people *who thought* they knew how to use them.
-Adrex had to roll his eyes just thinking about it.
+*The wind leads us to Hupperdook*"
 
-As he continued walking from the shop towards his home, another rocket went up with much more power than usual.
-Adrex turned his head as he kept walking, just to see if-
+They had been playing on violin, lutes, accordion, flute, and an odd box which had set the beat. 
+And they had all been singing as the song went on. 
+The mood was at its peak that night in the tavern, no doubt about it.
 
-**BOOOM**
+Almost dancing his way through the door under the sign that said "Hammer and Scale", his dwarven colleague raised both an eyebrow and a smile seeing him.
 
-It went off far earlier than anticipated, and sent a shower of red, blue, and green sparkles flying around the nearby houses, even some just a few feet from Adrex, to which he instinctively dropped to the ground, knees curled up to his chin, and arms protecting the rest of his head.
+"Well, well - someone's in e' good mood, eh?" she greeted him.
 
-Common for all rocket was, that they flew as long as they had powder before they went off. 
-You could normally hear when the powder ran out, before the rest of the rocket exploded into colors in various patterns. 
-This rocket had *not* used all of its powder before it blew up, and from the intense sound it gave off to start with, it had a lot to carry up, if it was not evident from the explosion he had just witnessed. 
+"... to Hup-per-dook" Adrex finished, as the music in his head finished.
+"Indeed, a good day" he continued.
+"And good morning to you, Yurgunn."
 
-Adrex hadn't been hit, but it was damn close.
-As he looked up and around, he could see scorch marks on the ground near him from small burning balls the rocket had carried.
+"Care te' share wha' got yeh' so high up t'day?"
+She had a smile on her face, seeing Adrex so happy and lively. 
+Normally he sat with his face buried in notes, writing, calculating, and mumbling to himself.
 
-"Sweet Bahamut - thank you" Adrex mumbled under his breath as he got up, and dusted the dirt from his clothes.
-Doors swung up with curious, although careful, people who came to see what the huge explosion was about.
-It had been both loud and nearby, and if there was anything entertaining, there would be a crowd to watch.
-But besides the scorch marks, all the action was gone as far as Adrex could see.
+"Absolutely" Adrex replied, fumbling in his satchel, before he made a pause, looking a bit around for nothing but his own thoughts.
 
-A voice from one of the patrons in the nearby inn reached Adrex' ear:
-"Was that your doing, dragon?" 
+"Point of order: gears, then rockets", as he took off his back, and went to the workshop in the back.
+"Come - you have to see them in action".
 
-As Adrex looked in the direction, a stubby bearded gnome stood on the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
+As he walked past Yurgunn, she lit up even more:
+"Uh, yeh' got 'em working?" she exclaimed.
 
-Adrex ignored the question from the gnome, continuing towards his home.
+Adrex turned his head with a grin on his face. 
+"Oh, did I".
 
-The voice continued, now louder than before:
-"Don't think for a sec'n, that we don't all know it was you, you overgrown iguana!
-But keep walking, would you! 
-We don't want you here!"
+As he took the last few steps towards the bench with his setup, he stood a bit to the side, so Yurgunn could see what he had made. 
+He let the lead piece hang freely in the air, which made everything spin a few degrees, as it got loaded.
 
-*I hereby relieve you of your right to existence, you racist ankle biter*, Adrex thought to himself, as the shouting became less and less audible.
-Now in a foul mood, Adrex starting walking faster.
+"So - as you can see - the plate is pushed up by this spring.
+The spring, when pushed down, will let go of this lever, which releases the break of these gears.
+They are set in motion because of this piece of lead dragging them down, and because of the size of the gears, it will only drop a few inches, but spin the gear over here..." Adrex had to check at his notes, just to be sure.
+"... 8 times, before the gears lock again by the lever and the spring".
 
-*Why can't they just keep their face shut?* he thought as he kicked the nearby pebble.
-*Why does he even think it's OK to say that out loud?
-There should be a freaking law against that shit!
-A tour in Gearhold Prison would really serve idiots like him well - just for a few days.*
+He stood for a moment looking at it all, nodding to himself, before Yurgunn interrupted his inner fanfare.
 
-Adrex kicked the pebble a bit further.
+"Yeh' tell'n me, tha' tha' plate being pushed down, will only make this stone drop a nudge, but spin tha' gear 8 times, before it's ready again?"
+Her tone was a combination of disbelief and amazement, so Adrex just took a step back, and opened his hand towards the plate as a gesture for her to try it.
 
-*He should be target practice for rockets!
-Instead of up in the air, he should be strapped to an archery target, and you just fire towards h-*
+She had one of her expressions on her face where he could almost hear her say "really now?", and as she walked around the table, she held her hand above the plate with a stretch finger, still looking at Adrex.
 
-Adrex stopped his line of thought, before the next took over:
+Adrex nodded twice, as she pressed it down with narrow eyes.
 
-*Shoot with a rocket?
-Have it fire away in the direction you point, and hit a target...*
+*Click, zzzzuuuuuiiii, duk, click* - in that order, as the gear spun from the drag of the lead piece, letting it fall just a few inches, as the plate raised itself again, and the lever snapped into place, keeping the gears in check.
 
-He had a feeling he was onto something here.
-This might be what he and Yurgunn needed for their mobile trap.
+*Click, zzzzuuuuuiiii, duk, click*.
 
-He started a fast walk home, his mind racing of what to do, what would and wouldn't work, and after thinking a bit about it, he realized he didn't know enough about rockets to actually say what would work.
+*Click, zzzzuuuuuiiii, duk, click*.
 
-*We don't need a huge explosion, just a small one, but instead of fireballs it could explode with shrapnels.
-And perhaps we can put some feathers on it - just like an arrow - so it will fly more straight. 
-We really need precision here.*
+Yurgunn's finger kept pressing the plate, with a visibly excited facial expression.
 
-*And a short fuse for instant rocket start - yeah, that might do it.
-But what about the jet stream behind the rocket, which pushed it upwards? 
-You would get burned...*
+*Click, zzzzuuuuuiiii, duk, click*
 
-It was not perfect. 
-He had to consider how to handle this safely.
-Perhaps he could swing by Victoria and Smearchucle tomorrow and have a chat about it. 
-They might be able to show him the inside of their profession.
+"Eh's like a toy, Adri!
+A' could keep press'en this buttom all day."
+She was like hypnotized of it.
 
-As he went further away from the center of the city, the houses started to thin out, and he took a turn off the road towards an old mill.
-It wasn't in use anymore as a mill, but instead served as a house for a dragonborn family, who had come twenty years ago as refugees with a minimal amount of personal belongings, asking for a place to stay.
-Adrex was born here, and had never known his family's previous house or city, and talking about Draconia always made the mood drop a bit.
+Adrex folded his arms, rather proud of what he had made.
 
-The extension to the side housed his dad's workshop, and the top of the mill was his uncle's 'sanctum', as uncle Donaar liked to call it - it wasn't that they weren't allowed up there, they were just instructed not to touch anything that was glowing - except for normal candle light.
-Adrex' room was in the basement, next to his brother's room. 
+"I didn't get to try it much yesterday, but the math is solid" he said with a smile on his face.
 
-As he reached the door of the old building, he called out:
-"Mom - dad - I'm home!"
+*Click, zzzzuuuuuiiii, duk, click*
 
-He found his key, put it in the key hole, and pushed a hidden panel at the top of the framework he and his dad had installed, to which the door clicked open, letting him in. 
-He inhaled the welcoming smell - a mix of stew his mom was cooking, and small bit of fine sawdust which couldn't be kept out from the extension to the house.
+"So, wha' would yeh' say this could be used for?" Yurgunn asked, as she sat down in a chair next to the table, looking him in the eyes.
 
-The inside of the building was all covered in fine wooden facades his dad had made over the years, which made everything seem really nice and expensive.
-The kitchen and dinning room on the ground floor took up most of the space, and the spinal stair case led up to their common room, and the sleeping quarters for both his parents, and for his uncle.
+"Well, there's the obvious trap, that keeps reloading" Adrex started.
+"Then there's-"
 
-In the kitchen stood his mom, humming near the stove, slicing something to mix into a stewpot.
-Dressed in her midday-blue dress and a white apron, she turned her head slightly as she continued slicing what was in front of her, her tail tip waved a bit from side to side.
+*Click, zzzzuuuuuiiii, duk, click*
 
-"Welcome home, dear." she replied with the soft, warm tone, as she gently eyed him.
-"How was your day?"
+"-the..." Adrex had a hard time not giggling, as Yurgunn pressed the plate again.
+"eh - the gears can spin an exact amount of time, which-"
 
-As she continued to prepare the food, Adrex brushed his feet in the door mat, and started prioritizing the day's events.
+*Click, zzzzuuuuuiiii, duk, click*
 
-"Well..." Adrex started, dragging it a bit as the greatest impacts oddly seemed to be the most negative.
+The dwarf didn't take her eyes from his, and her face were without a change, as she clicked the plate again.
 
-If there ever came a time when he could hide his feelings from his mother, it would be far in the future, cause she stopped her cyclic motion on the cutting board, turned her attention towards him, her head bowed a bit forward to meet his level, and with eyes that could tell what had transpired.
+"... could - hehe - make two devices work in-"
 
-"Another one?" she simply asked.
+*Click, zzzzuuuuuiiii, duk, click*
 
-Adrex bumped his head from side to side.
+"Yurgunn, pl... please stop." 
+A combination of laughter and frustration was building up inside Adrex, as the dwarf kept her eyes on him, as she pressed the plated another time.
 
-"Well, Yurgunn explained our new customer's actions, so it would actually be two in one day" he sighed, as he pulled a stool out and took a seat at the table, placing both of his elbows on the table, resting his face on his knuckles.
+"I'm list'ning, Adri" she said without a change in her face.
 
-"Was he drunk?" his mother tried, which were the most common cause this conversation normally took place.
+"... In synchroniz-"
 
-"No" Adrex replied a bit sad. *Not that it would have made it that much better if he were.*
+*Click, zzzzuuuuuiiii, duk, click*
 
-"The second one was though.
-The first one had just never seen a dragonborn before, and..."
+"Yurgunn-"
 
-They had had this talk over and over, and it was the same story each time.
+*Click, zzzzuuuuuiiii, duk, click*
 
-His mother placed a caring hand on his right shoulder, as she moved up behind him, laying her chin to the side of his head, giving him a supporting hug.
+"Please, I-"
 
-"The eyes, the hesitance reactions, and staggering speech?" she tried categorize it to.
+*Click, zzzzuuuuuiiii, duk, click*
 
-"Absolutely the eyes and the reaction, but..." 
-Adrex sighed once again.
-"I was in the back making - oh yeah" he interrupted himself, with a more possitive note.
-"I finished the gear-system I've been working on for the past few weeks, and it runs like a charm!" 
-Excitement had taken over the grim mood - he hadn't even had time to talk to Yurgunn about it.
+Adrex couldn't contain his laughter any longer.
+It was funny, but it was also annoying beyond anything he had tried for a long time, and for each press, a shiver shot through his bones, making him weak in his knees, and left an itch he had to rub away.
 
-"It's silent, takes up way less space that anything we've previously made, and everything just fits.
-It's..." he looked up towards the always caring mother of his, and inhaled to finish:
+*Click, zzzzuuuuuiiii, duk, click*
 
-"It's the best thing I've ever made, and worthy of my legacy."
+*Click, zzzzuuuuuiiii, duk, click*
 
-"Legacy?" his mother said in an amused and questioning tone, as she stood up, and went back to the stove.
-"Sweet, sweet child of mine - you are 20 years old, and creates something new each moon cycle.
-If this is to be your legacy, what will you spend the rest of your time doing?"
-She picked up the spoon, and stirred in the stewpot.
+"Hihi - stop it, Yurgunn - hihi. 
+I- I can't..." Adrex actually couldn't stand up anymore, and his knees gave in under him, as he fell to the ground giggling like a little kid.
 
-"Well, one of my achievements then" Adrex corrected himself.
-"But we got this new client today, and he didn't want something we normally create.
-He wants a *mobile* trap."
+*Click, zzzzuuuuuiiii, duk, click*
 
-Adrex waited for his mother to ask for details, just as his father walked into the room.
+"Wha's tha', Adri?" the dwarf said with tone of wonder, but a mind only out to tease him.
 
-"A mobile trap, hm? 
-He wants to carry a plate around with him, which has a crossbow pointing towards itself?" 
-He greeted his son with a double tap on the shoulder, as he continued towards his wife, kissing her at her cheek, while Adrex' eye rolled a round for the dump dad-joke.
-His dad put his head towards the stewpot, and took a deep breath through his nose.
+*Click, zzzzuuuuuiiii, duk, click*
 
-"Smell like a lovely wife, and a lovely dinner" he said, as he placed both of his hands at her hips, moving them from side to side in a small dance.
-"What are we having tonight?"
+It was like a dozen of small insects crawling around inside his bones, making every joint in this body itch and nothing to help it.
+And it kept getting worse and worse for each click.
 
-Adrex rolled his eyes another round.
-*Yes, that is somehow cute, but please, dad - every night?*
-But apparently his mother loved it.
+*Click, zzzzuuuuuiiii, duk, click*
 
-"It's juniper stew, and I've added some rosary peas for flavor - just like old times" she said with a small chuckle.
+*Click, zzzz, du-duk*
 
-His dad made a noise, that sounded almost like a purr from a cat.
+The lead piece hit the ground.
+Adrex' knees were still itching along with his elbows, hand wrists, ankles, and shoulders, and he was still giggling, though less audible and more focused on rubbing his joints.
 
-"Ahh - spicy. 
-I love it!"
+"Looks more la' yeh' mad' a toy, Adri" the dwarf said with a big grin on her face, as she turned back to the setup to study it further.
 
-"How was your day, dad?" Adrex asked.
+"Of cause we can use it fo' traps - tha's obvious" she said, with her face up close to one of the gears. 
+"Yeh started te' say somethin' 'bout e' makin' a certain amount of spin, and somethin' about two devices, eh?"
 
-Nadraa turned around from his wife, and pulled a stool out as well.
-"Not too bad, I should say.
-Warden Poppin Drokrusher came by for his desk, saw it, and ordered both a new chair, and a new cane."
+Adrex had finally gather himself enough to get an arm up at the table to help him up from the floor.
 
-His low voice changed to a higher registry. 
-"The handle must be exact", he said, imitating the grumpy, old gnome taking care of Gearhold Prison.
+"Yeah, the gears turn in perfect unison - they cannot not be exactly where you expect them to be with the math.
+They don't skip a cog - even though they are so small."
+He was still rubbing his wrists as he got up.
 
-Adrex couldn't help but chuckle a bit.
-That gnome had had the most ridicules requirements for the table - all sorts of finesses and details had to be engraved into it.
-And although Nadraa had written each of them down, handed the notes to the gnome to review, the gnome had still repeated each of the lines, ending each of them with "and do so properly".
-They all knew why he had emphasized it, but they had also learned to turn the 
-rough to the smooth. 
-Also, there were no customers if you always yelled at them, and most of them actually came back because they had good a experience doing business.
+Yurgunn had raised an eyebrow at this moment, as if an idea had struck her.
 
-"Did he go over everything again this time?" Adrex asked a bit tired, though hoping for a laugh.
+"Wha' 'bout tha' Tinkertop fam'ly?
+They might be in need of som'n like this?" 
+She looked back to Adrex, who had tilted his head a bit to the side.
+"We could get 'em over to see the pos'bilities, and sell 'em the schematics, ai?"
 
-His dad gave a slight chuckle.
-"For the chair, he just looked over the list, back at me, back to the list, and nodded while mumbling it."
-His dad loved to tell these kind of stories.
+Adrex liked the sound of that. 
+If Cleff Tinkertop and his daugther, Rissannya, would buy it, then they could sell it to others as well.
 
-"For the cane however, he kept saying 'but it must fit *my* hand', and of cause it should.
-So I took out some clay, made him squeeze it - haha."
+"Yeah", Adrex said, nodding while scratching the back of his head.
+"That sounds like a plan.
+Do you want to setup the meeting today?"
 
-*Clay?* Adrex thought to himself.
+Yurgunn clapped the table, as she started walking towards the door.
+"No time t' waste!
+We've money t' make."
 
-"He wasn't exactly pleased, but when I told him I now had a mold for his exact hand, he started looking frantically at the notes for the chair, to which I had to reassure him he didn't have to sit in clay."
+She suddenly made a halt, before entering the front of the store, as she turned a worried face towards Adrex.
+"Yeh' said som'n 'bout rockets before?"
 
-Adrex laughed just imagining the look on the gnome's face.
+"Yeah, I have been thinking about the mobile trap from yesterday, and I think I came up with a..." 
+He had to find a phrase for it.
+"... possible path to investigate.
+Rockets are the stepping stone."
 
-"So, will you just carve from a huge block and then get the handle right afterwards?" Adrex asked.
+Yurgunn didn't seem less worried by that statement, but started nodding.
+"Yeh' wan' t' send som'n like rockets towards the target?" 
 
-Nadraa shuck with his shoulders.
-"I don't think I can water bend it.
-The handle won't be able to... handle... it" he said, winking his right eye.
+She wasn't convinced at all by the look on her face.
+"Ay - tha' most indeed be a stepping stone.
+I need t' hear more about it later.
+First, I'll head over t' Tinkertop n' ask if 'e wan' t' com'n have a look a' this", she said nodding her head towards the bench and its setup, "and then we'll talk more 'bout rockets, ai'?"
 
-Adrex shut his eyes.
-"Dad - please, I-I'm..."
+She was already about to leave through the front door, as Adrex called out to her: 
+"You won't mind, if I stop by the twins for some research, right?"
+That usually wasn't a problem.
 
-He had a bit of trouble saying it.
-It was actually a little funny.
+"Just don't tell 'em the secrets this time!" came a stern reply.
 
-"... I'm trying to help you here."
+It *usually* wasn't a problem - for a reason.
+When Adrex had an idea and people probed him about it, he had a hard time holding back about the details. 
+And that was half of their business - selling functional ideas, and turning these ideas into actual solutions for clients.
 
-Nadraa placed an elbow on the table, resting his head in his hand.
-"Go on then.
-Lets see if I can get a... grip... on it." he said, putting a smirk on his face.
+Well - that meant he had an hour or two, before a demonstration was needed from him.
+He grabbed his satchel, checked his notebook and pencil was in there, and found the sign for the front door.
+Well, it wasn't a sign, but more a modular board, with the carved in text:
 
-*There are no end to these silly jokes*, Adrex thought to himself, as he pulled up the notebook he always carried in his satchel along with a pen.
-As he placed it on the table, he started explaining with a few drawings on an empty page;
+**Not in the store.**
 
-"Let's say you have the handle here" Adrex said, drawing a rectangle in the book.
-"If you drill a hole from the bottom of the handle and up, you should be able to attach a stick to it."
+**Will be back at __ __ __ __.**
 
-Adrex turned the book around, and pushed it towards his father.
+The blank line at the end was a hole, which showed a small part of a spinner.
+The spinner had the text "noon", "evening", and "tomorrow" engraved.
+This way they could reuse the same sign whenever they went out, but modify it to show clients who came by about when to expect them back.
 
-"This way you'll save a lot of wood" he added.
+Adrex turned it to *noon*, placed it on the door, locked it, and headed towards the twins and their shop.
+He had tried to figure out how to conceal how he could ask questions, that wouldn't give away what he was making - or planning to make at least.
+He had made a small list of phrases he thought would not give away too much, yet stay close enough to the subject.
+Basically, he needed to know why rockets took so long to fly off, what made them fly, and if they could fly straight in any way.
+That could be wrapped into some questions that wouldn't spark too much of an interest with the twins.
 
-As his dad looked at it, he said "yes, but then the stick would fall out, right?" not exactly impressed.
+After a few minutes of walking, Adrex turned a corner, and could see the two stories tall building which had its own flat roof which acted as a launchpad.
+The sign at the door said **Rockets with sparkles and glitter**, and it fooled no one.
+The twins specialized in sparkles and glitter, because that was what their customers wanted to see, and the customers would even have a chance to see some being shot off from the roof.
 
-"Right..." Adrex said, pulling the book back, tapping the back of his pen a few times at the page.
-"Then you could place the stick in the hole, drill another hole through the side of the handle and the stick, and place a pin in it" he said, drawing a small circle in the middle of the stick.
+Adrex stood outside the door for a short moment, gathering his thoughts, and wiggled his face to look relaxed, clearing his voice with a few coughs, before he knocked trice on the door, and entered.
 
-His dad started nodding a bit.
+The first thing Adrex noted when he entered was, that the air in here was not as bad as it had been at earlier occasions.
+It still had a bit of powder hanging in here, but this train of thought was shoved away as he saw one of the twins, Victoria, sitting with on the floor, knees up, and face buried in her hands - clearly not happy about something, though not audible crying.
+As the door bell rang, a small shock went through her, as a face with red swollen eyes look towards the him, quickly changing a depressed frown to... a delight?
 
-"That... could save me a lot of wood.
-And the stick could be replaced, should it break, right?" realizing what this could lead to.
+Adrex wasn't sure what to say, but tried anyway: "Eh... Victo-"
 
-"Yeah, or if the warden wants another type of wood, he can still keep the handle.
-Or if he wants to be fancy, he can replace the handle, and keep the sticks!"
+He was cut off, as she leapt up from the floor, and almost shot herself into him, arms hugging him.
 
-Nadraa sat there for a short moment of time with a smile on his face, staring at Adrex.
-"Where do you get all these ideas from, son?"
+"Oh, Adrex - just the one I needed to see" she started, her voice cracking a bit.
+"I don't know if I can keep on doing this." 
 
-"If he gets them from food, we might have a few more this evening" his mother injected, as she placed the steaming pot on the middle of the table.
+Adrex had to scan the room for whatever could have caused this, as he gently put his arms around her, lightly patting her on the back.
+There was no sign of a break-in, the desk had its papers stacked neatly, and finished products were stacked in glass cases - ah, there - at the floor, next to where she had been sitting was a scroll on the floor.
+That must have been what caused this.
 
-"Could you get the plates, dear?" she said to Adrex.
+"There, there" he said, still with some confusion in his voice.
+"How can I help you?"
 
-A simple nod, and he stood up to get the four plates, cups, and cutlery.
-Muscle memory however always counted 5 of everything, but since his brother, Ildrex, left the house, it was only his parents and uncle who were to be served.
+She released him of her hug, as she took a step back, and wiped her right eye with her sleeve.
 
-As he turned around to set the table, a small bump could be heard upstairs from his uncle's room, along with some creaking floors having a lot of weight pushed down on them.
+"You are one of the most sensible individuals I know, and I..." she started, before she cut herself off with as her arms made a resigning gesture, as her voice went from a helpless state to irritated.
+"I need common sense around, and perhaps a bit more than that."
 
-His mother glanced up, as she walked to her seat.
-"Donaar has an excellent sense of timing, I must say" she said with a smile on her face.
 
-New creaking from above told them, that Donaar had arrived - or at least someone had - but what sealed the deal was the sudden outcry he made.
+Adrex stilled had too little to go on, so he just took the compliment, as he closed the door behind him.
 
-"IDIOTS - ALL OF THEM!"
+"Okay... Ehm, tell me what happened", Adrex said, as Victoria had started to rub her temples.
 
-All though slightly muffled, the voice most certainly belonged to his uncle Donaar, and the outcries was like the 'I am home'-yell Adrex gave when he entered the mill.
-Sometimes Donaar would spice the line up with new phrases, that would empty your mouth for any food or drink in a spray in front of you.
+She let go of her head, and held her hands in the air for a second, before she spun around towards the scroll on the ground.
+A firmness entered her voice along with frustrations.
 
-As the footsteps continued down the stairs, Adrex started putting the plates on the table. 
-But it always felt... wrong, somehow. 
-There were four plates, and not five, which left the pentagon shaped table Nadraa had crafted for the family with an empty slot.
+"We received a complaint!
+The customer was *not* happy, and have said they will never buy anything from us again".
+She had picked up the scroll, and started waving it in the air, before she slammed it down on the table.
 
-Adrex paused as he put down the last plate, and stood still for a moment.
-The house hadn't been the same since Ildrex left two years ago.
-There was something missing, and it was not being replaced, changed, or even addressed.
+That was indeed bad news, Adrex thought to himself.
+If the customer had even taken the time to write the twins, it must have been a really bad experience they had had.
 
-As Donaar entered the kitchen, he - too - stood still, but for a very different reason, as he closed his eyes, inhaled, and spoke: 
-"Is this the house of reason and common sense?
-For I have yearned for such a place all day."
+"Okay - did the rocket misfire, or something like that?" Adrex asked, still not quite sure why he was the one she wanted to see over a complaint she had gotten.
+Adrex wasn't too good around customers, so he didn't have a whole lot of good advice to give on that subject.
 
-As he opened his eyes and continued towards the table where the others had just taking their seats, he padded Adrex on the shoulders as a greeting, before his snout turned its attention towards the pot in the middle of the table, and sat down with a loud sigh.
+"What? No - never!
+Our rockets always works." Victoria replied, with a rushed voice, and continued with a more frustrated tone:
+"The dimwit who wrote this thought they would be helpful, and wrote down the entire event!" 
 
-Sora had started to pour stew into each plate, as she said: "It sounds like you have had a long day too, dear."
+*Well, that makes it easier to find the root cause.*
+Adrex didn't say it, but just hang his satchel at the coat stand, as Victoria started to read from the paper.
 
-Adrex couldn't tell if it had been physically draining on his uncle's body, or it was more of an act, but Donaar looked like most of his energy and will had been sucked out of him.
+"*To 'Rockets with sparkles and glitter'.*"
 
-"It's like a kindergarten" he started, rubbing his eyes with one hand.
-"The day starts with good conversations, but at the end of the day they sit on their own little throne, and wants to dictate what should happen - and none of them wants the same."
+"*After my purchase at your shop, and many promises of the best money could buy, I am deeply disappointed in the result. 
+You even included a ridiculously long guide of how to proceed, and after reviewing it several times, I found I did everything to the point, but still ended up disappointed with the result.*"
 
-This was clearly the nice way of putting it, Adrex thought to himself, only based on complaints his uncle had uttered other days, before he continued:
+She had picked it up and started pacing back and forth in the room, as she read it aloud.
 
-"And when they can't get their will, they just repeat themselves with a raised voice, as if that would raise their arguments as well", he said before he turned the gaze to his sister-in-law, and the plate she was handing him with steaming stew.
+"*I placed it in a tube, as specified in section 5, cleared the area around it as specified in section 3, had the necessary protection gear* - yada, yada, yada." 
+She skipped most of the steps, as she continued:
+
+"*- and we almost couldn't see it.*
+*The sky was clear of clouds, and the rocket went straight up, and my would-be-business partner and I agreed, that this was the most disappointing ending to an otherwise wonderful* ***lunch arrangement!***".
+
+As she looked up from the paper with look of disbelief, it hit Adrex what was wrong, but he didn't get to more than open his mouth, before she slammed the scroll onto the counter, and with a fury Adrex never had imagined Victoria had inside her, roared: "THAT IDIOT FIRED IT MIDDAY!"
+
+She took a step towards the chair, as she collapsed in it, heavy breathing, as she tried to calm herself.
+
+Adrex had a challenge with what to do with himself.
+This was one of the most stupid things he had ever heard a customer do, and it so clearly justified why Victoria had to write all of these manuals. 
+But he couldn't laugh of it, cause the situation did not call out for laughter.
+
+He understood her frustration though, cause they had had stupid clients as well, who 'wanted to try their own security system, and had been hurt' - which was the point with said security system.
+When they had gotten that news, Adrex had not been able to contain himself, and there was still a clear mark in his workbench from his hammer, where he had slammed it several times until the initial rage had left his body - now serving him as a reminder, that clients must have very clear instructions of what they can do - and what they cannot do - with their products.
+
+
+Careful with his words, Adrex thought he might be able to shift Victoria's thoughts to something else.
+"So, what does Smearchuckle think of the situation?"
+
+A smile could be seen shortly at Victoria's face, as she kept staring into her desk.
+"She is always thinking about the business, you know.
+'Can't have people talking bad about the shop'.
+So she have decided to make an 'apology'-gift for the client..."
+
+*Well, that's nice of her...*
+
+"... with extra powder in it, very short fuse, and no instructions."
+
+Adrex couldn't hide his silent laughter that caused his chest to spasm.
+Victoria's fury had left, and was replaced with a smirk, as she turned her head towards the backroom Smearchuckle usually would be in.
+
+"I better go see she won't be blowing up this place" Victoria said, as she stood up.
+
+*Uh, this might be my chance*, Adrex thought to himself, as he probed with a combination of worry and curiosity: 
+"Blow up, you say?"
+
+Victoria was on her way to the back, as she simply replied: 
+"Well, that's what happens if you stuff the powder too tightly. 
+Then the rockets won't fly up, but simply blow."
+
+*Not too tight - got it*.
+
+As she reached the door, she knocked on it twice as she yelled: 
+"Hey - Chuckly'. 
+Is it safe to enter?"
+
+The answer that came back was from a more deep and harsh voice, which had a keen intelligence behind it:
+"Just don't smack any of the equipment around, and you'll be fine!"
+
+Victoria rolled her eyes as she entered the door:
+"That was *one* time, Chuckly'.
+Can you please leave it in the past where it belongs?"
+
+Adrex followed suit, as Smearchuckle's comeback cut clear through their shop:
+"LEARN FROM YOUR MISTAKES!"
+
+Adrex had, over time, found out this was the family motto, and could only wonder how it had come to be, but had not dared asking.
+
+He poked his head inside, as the smell of sulfur and charcoal hit his nostrils.
+"Hey Smearchuckle - I hear things are bad today?"
+
+The room reminded him somehow of his own workshop's backroom, except Adrex had files, hammers, and anvils, while Smearchuckle had labeled bottles with powder, mortars, weights, and parchments lying around.
+
+Victoria's sister sat with a mortar and a pestle, grinding something to powder, as she looked towards Adrex and Victoria. 
+She had a serious expression which shifted more towards a smile, as his face peaking through the door.
+
+"Well, if it isn't our favorite tinker". 
+She sat up a bit, as she brushed her hair with one end of the pestle.
+"Yes, the customer couldn't see enough fireworks, so I'm trying to give him a really good blast. 
+But I'm facing a bit of an issue with the weight-to-nozzle-width ratio, so the rocket won't take off at this state."
+
+Adrex looked slightly confused.
+To his knowledge, a rocket flew because the powder inside burned through a small hole - called a nozzle, pushing the rocket upwards.
+The more powder, the bigger the nozzle.
+The bigger the nozzle, the more could be pushed forward.
+
+"Don't you have a fixed ratio for that? 
+Like 2/3 of compound A, and 1/3 compound B, or something like that?"
+
+It was a honest question, and perhaps he could learn something from Smearchuckle.
+She was the one who came up with the materials and formulas, and Victoria came with the ideas, and helped assemble the rockets with Smearchuckle's instructions.
+
+The expression he got back from her, however, clearly stated he had that wrong.
+He glanced towards Victoria, who had a curious look on her face, as if that was her understanding as well.
+
+"Is that...?" he started.
+
+"No" Smearchuckle replied a bit tired.
+"No, not quite."
+
+She had put down the mortar and the pestle, as she tapped a finger on the edge of the mortar, clearly pondering something.
+She then held up a finger, stood up from her chair, and walked over to a table behind her.
+
+"Let's make a small quiz, shall we?" she said, as she grabbed a bottle with powder, and a metal plate.
+She made to rows of powder on the plate - both the same length, but one row had more powder in it that the other.
+
+"The question is simple - which row will burn faster? 
+The thin, or the tick?" she said as she pointed towards the two rows.
+
+That seemed simple enough - the more powder, the more could burn, and the faster it would burn. 
+
+Adrex and Victoria exchanged glances - they both had the same idea.
+
+"The thick one" Victoria said with a good amount of confidence.
+
+*Wait, the less to burn, the faster it can burn?* Adrex thought to himself, just before Smearchuckle took two candles, and held them to each row.
+It went rather fast, and the light was very bright - brightest from the thick row - but when the two rows faded, it was simultaneously.
+
+This was unexpected for both Adrex and Victoria.
+How could this be?
+Adrex had to rub his bridge between his eyes as he pondered this.
+
+Victoria was the first to break the silence:
+"So, they burn equally fast?"
+
+"In free form, yes" Smearchuckle replied, before continuing:
+"As you also saw, the thick row burned brighter than the thin row.
+That could imply, that when we seal the two rows in two rocket with the same size nozzle, the thick row's rocket would burn faster, and fly with greater force upwards, right?"
+
+That sounded like perfect logic to Adrex.
+Victoria nodded as well, as she leaned towards a table.
+
+"Now, I spread the powder in a nice row, and as you saw, the rows burn fast" Smearchuckle continued, as she held up her hands to explain further.
+"The way we make rockets, is by storing a certain amount of powder in the bottom of the rocket - just above the nozzle.
+The nozzle size determines how much can be pushed through at the same time.
+Still keeping up?"
+
+*So far, so good*, Adrex thought to himself, as he nodded again.
+
+"And as you might have thought; more powder - more flame.
+There's a small catch, however" she said with a more serious expression.
+"I spread the powder on lines, which meant they could burn as much as the wanted, and produce all the fire they could.
+As the powder burned in the row, it would ignite the rest of the row - but with the same speed, since the ratio between the two rows are the same."
+
+Suddenly Adrex got what she was saying, as she continued:
+
+"But when you pack that into a rocket, it's not in lines - it's just a pack, that almost burn everything at the same time.
+Take a guess at what happens, when more powder, in a rocket, all burns at the same time?"
+
+Adrex didn't have to guess.
+He saw what happened the other night, and had felt the effect around him, as the rocket had started flying, and blew up, sending all it's colors flying around his curled up tail.
+
+Victoria looked slightly confused though.
+"Then it will come out faster, and with a bigger nozzle push the rocket up, right?"
+
+Adrex held his hands up near each other so Victoria could see them, as he shaped them to a ball, and stretched his fingers so show an explosion.
+
+Smearchuckle had a wry smile on her face, as she nodded towards Adrex' motions.
+"I had the same thought, dear sister, but Adrex got it right, I'm afraid.
+When you pack powder too tight, it will blow up, sending everything flying around your ears.
+There's simply too great an expansion, and our rockets are merely made of clay and parchment."
+
+She threw her hands up in the air, as she exclaimed: "And that is why I can't make a bigger rocket with more content in. 
+It will blow up in our face."
+
+*Clay and parchments?* Adrex thought to himself.
+Well, there was something stronger out there, for sure.
+
+"How about making it of metal then?" he asked.
+
+Smearchuckle looked at him with a bit of confusion.
+"There's a couple of issues there, my dear tinker" she started.
+"If you make it of metal, it will be heavier, and require more powder.
+And if load more powder, you will get a equally short burn, just with way more force in it. 
+That, however, will make it more uncontrollable".
+
+It was like a frustration she could get off her mind.
+
+"And if that wasn't enough, metal rockets would cost way more to make, and a piece of metal would drop down from the sky when fired."
+
+She finally sighed.
+"I'm sorry, Adrex, but I don't think you can get such a heavy object up with a rocket."
+
+Adrex had to admit defeat.
+He simply didn't know enough about the topic to pitch in with something valuable at this point.
+"Yeah, you are right. 
+That would require a canon, or something like it.
+Perhaps not as big, but..."
+
+*Actually, that's not a bad idea*, Adrex thought to himself.
+Canons shot huge cannonballs, which required way too much force.
+
+"How about a small canon to fire the glitter in the air?" he asked.
+
+There was a quiet moment, as Smearchuckle sat frozen to the place, clearly thinking about it.
+As Adrex looked to Victoria, she had a very focused stare in the ground, as she too had started thinking about it.
+
+Smearchuckle broke the silence:
+"We could separate the powder in the rocket from the package with the glitter in, and we have fuses..." she started, before she made some big eyes to her sister.
+
+Adrex sometimes had short, mute conversations with Yurgunn, when he had proposed something, and she didn't even wanted to say anything, but just make facial expression, which they back and forth with, until it was decided that it was a ridiculous suggestion.
+
+The conversation Victoria and Smearchuckle held, however, was way longer, and required way more expressions, but still without a sound.
+At some point Smearchuckle, facing her sister, nodded towards Adrex with a very firm look.
+Victoria turned to Adrex, as she licked her mouth, and with a very charming voice said:
+
+"Adrex dear, why don't we... make a deal?"
+
+*What? yes, sure - wait no, not too hasty*, Adrex thought to himself, as his heart suddenly started pounding faster.
+
+"Ehm-" he started, as his mind kept racing.
+
+*Deal - why? 
+What do they want they want a deal about?
+They are not serious about making canons, are they?
+No they can't...
+Actually it could be a good idea to send up only the glitter... and... I came up with that*.
+
+Yes, that was it.
+But Adrex didn't want to make canons with glitter.
+He wanted...
+
+*A mobile cannon which could send something out in a heartbeat.*
+
+"Deal, you say?"
+There was something to gain here.
+
+Victoria gentle put her hand around his arm, as she closely leaned in him, padding his shoulder with her other hand, as her silky smooth voice continued.
+
+"You know - that was a really good suggestion you had there."
+
+*Oh dear, she smells wonderful*, Adrex thought has he had kept hammering.
+
+"And,-" she continued with a lulled tone.
+"That could put us in a *very* fine position on the market, if *we* don't tell them about how it works, right?"
+
+Adrex had a hard time thinking clearly.
+
+
+
+---
+
+
+He had let himself out without real words - just a mumble, some nodding, and the piece of paper he had written the formula on.
+
+<!-- 
+* 75% - Potassium nitrate / , dry
+* 15% - charcoal
+* 10% - Sulfur -->
+
+"Three quarter potassium nitrate. The rest is split three/fifth of charcoal, and two/fifth sulfur".
+
+Apparently this was what the twins used as "black powder", as they called it.
+Very fitting, of cause.
+It was a fine powder, but to think it could have the effect to send up rockets was very new to Adrex.
+And if it could be make an actual explosion, then Adrex had just what he wanted for his mobile trap.
+Just take a barrel, stomp in some of this black powder, and it would fly in the direction you held it?
+
+*Marvelous*, Adrex thought to himself, as he headed towards the shop.
+And he hadn't given them any secrets at all.
+He had just come up with some suggestions, and then...
 
 A smile curled up on his face.
-"Yes - a very long day, indeed" he finished, as he accepted the plate with both hands.
+Then Victoria had kissed him on the cheek, as she had let her soft body rest towards his.
+He could feel his heart start thumbing faster again. 
+Her face had been so close to his, with those puppy eyes, and that smile of hers.
+It was like he was next to her again.
+He could even recall her perfume of roses, as she had gently brushed his hand with hers, as her gentle words had left her beautiful lips.
 
-There was a moment of almost silent, as they each enjoyed a spoon of Sora's famous (at least in this household) stew, as the tickling at your throat required a full lung's breath, before you got used to the spicy food.
-
-As the food found its way, Donaar broke the silence: "This is indeed reason to come home".
-
-Adrex had a hard time focusing on the food though. 
-His eyes were fixated on the side where his brother used to sit, but now just left an empty space between his mother and uncle.
-It had been a nasty breakup to say the least.
-The one broken panel in the wall had been replaced, after Ildrex had let his anger strike that, instead of their father, as Nadraa had tried to calm him.
-There had been a lot of shouting back and forth, but Ildrex had left in the end, taking only what a backpack could carry, and set out into wherever the road would take him.
-
-His train of thought were disrupted as his father poke his spoon on Adrex'  hand. 
-"You look like you wandered off, son.
-What's the matter?"
-
-Adrex gave a look towards his father, as he started to nod slowly.
-"Yeah, that... that's a good reason to come home" he said without putting any enthusiasm into the line.
-
-It didn't miss anyone what Adrex was thinking.
-Everyone glanced in the direction of Ildrex' seat for a quiet moment, before Nadraa broke the silence.
-
-"If food could cut it-" he started, before Sora dropped her spoon onto the plate, stood up, turned around, and fled the room.
-
-Nadraa gave a sigh, as he tapped the spoon twice at the plate, closed his eyes briefly, and followed after his wife to comfort her.
-Adrex sat there, looking after his parents in silent, not quite comprehending how they have gotten to the taboo of the family.
-It wasn't until his uncle started slurping some of the food, that Adrex realized he wasn't along in the room.
-
-Donaar broke the silence:
-"I am sorry for placing the words in your mouth, Adrex" he started.
-"Those were a poor choise of words on my behalf."
-
-Adrex didn't have a lot of words in him right now. 
-He had a lot of unanswered questions, but he could only utter one heartbroken word:
-
-"Why?"
-
-His uncle gave a heavy sigh, as he placed the spoon next to the plate, and folded his finger with the elbows on the table.
-
-"Do you remember when you and Ildrex were young - when you played together outside?"
-
-Adrex sure did.
-"Yeah, we used to fight with sticks as swords, and play hide and seek."
-
-Donaar nodded his head, as he continued:
-"Yes, you spent quite a lot of time doing that.
-You were better at the latter, if I recall correctly. 
-You could always find a place to squeeze into, and you stopped that game at some point?"
-
-"Well, yeah..." Adrex had to contemplate why that was exactly.
-He had been good at finding hiding spots... or at least better than his one head taller brother had.
-
-"Guess he wasn't as good at it - I don't know?" 
-Was he supposed to feel guilty about it?
-
-"Mhm" his uncle nodded.
-"And you fought with ehh... your swords, right.
-How long did that last?" 
-
-It wasn't judgmental, but his uncle was clearly putting out some breadcrumbs for Adrex to follow.
-
-"Ehm, not that long.
-He was way better at it than I were, so..."
-
-His uncle cut in: "Yes, but you found a solution to come around that, right?"
-
-"Yeah, well I started using artillery to counter him.
-The slingshot, the bow I made, and the crossbow that followed that one?" Adrex said, slightly confused to where this was going.
-
-"Yes, it became a bit violent at that point, and thank Bahamut you didn't keep fighting each other, but made a dummy to practice on.
-But it was at that time you met your current employer, right?"
-
-Adrex simply nodded.
-It was one of his most fondest memories.
-Yurgunn had been out, when Adrex and Ildrex had come running with the home-build crossbow... loaded.
-She had stopped the two dragonborns who were both three feet taller than her, and said such things were not toys, and asked where they had the weapon from.
-As Adrex had explained he made it himself, she had asked if she could watch it in action, and the boys were happy to show.
-
-At this point, Ildrex were better at shooting with it, but Adrex kept writing improvements down in a notebook every time Ildrex shot with it.
-This led Yurgunn to come with further suggestions, slowly reeling him into the real world of engineering. 
-Since Adrex had so many questions for Yurgunn about all kinds of contraptions he wanted to make, she one day offered him a job with her, so he could build some of these things, and they could sell them.
-
-Bought and sold, Adrex were.
-When he had first told his parents about this, there had been a lot of debate in the house between the elders of whether to allow it or not.
-It hadn't been for long, but since Adrex wasn't more than 13 at the time, his parents and uncle had some concerns about everything.
-
-"But since I've met Yurgunn, I didn't have much time for all of that" Adrex responded.
-
-"No, you haven't" his uncle said shaking his head ever so slightly.
-"And I can't think you would have been happier, if you hadn't."
-
-He took a breath before he continued.
-
-"However, Ildrex didn't get the same opportunity as you did, Adrex.
-And he had lost his playmate to a dwarf he couldn't play with.
-So, he tried to do what you two had been doing before - he trained with his sword, and with your bow, and your crossbow.
-And he became quite good at it, I must admit".
-
-Adrex still wasn't quite sure how this resulted in what it did.
-
-"That doesn't sound like a bad thing?"
-
-His uncle had a serious look in his eyes, although he was looking at the plates Nadraa and Sora had left.
-
-"It's not, if you know when to use it" he then said.
-
-Adrex felt a shiver go through his spine, and his guts started twirling. 
-*Had Ildrex... no, he wouldn't!*
-
-Donaar saw the expression on Adrex, and hastily continued: "Don't misunderstand me, Adrex. 
-Ildrex didn't do anything to anyone." 
-
-He slowed the pace again, before he continued:
-"But at the time he was 15 years, more than twice the size of almost everyone he was near, and some of the narrow-minded individuals thought it was a good idea to 'poke the bear', as they say."
-
-"They still do" injected Adrex with a hard tone.
-"As soon as they get drunk, they think they can say whatever they like!"
-
-The gaze of Donaar was stern, as he looked his nephew in the eyes.
-"They don't need to be intoxicated by alcohol to say that.
-They can be intoxicate on power as well.
-Trust me - I know."
-
-He rubbed his nose before he continued in a softer tone:
-"And your parents and I have tried to teach you, that not everyone are nice people.
-We tend to remember the bad people more than the good ones.
-Integrating in society is the best way to overcome this, cause people fear what they don't understand."
-
-Adrex didn't know what to say.
-That his uncle dealt with this everyday was not something he had expected.
-
-"The difference between you and your brother though, was that you had one of the respected locals taking your part, while Ildrex didn't have anyone.
-And it left him... " Donaar was picking his word carefully. "... exposed" he finished.
-
-Adrex looked down at his stew before he asked:
-"Because he was alone?"
-
-Donaar didn't respond immediately, but his answer was as Adrex had expected: "Yes, because he was alone.
-It's easier to pick on one, than it is to pick on two, I guess."
-
-Adrex started spinning his spoon in his food, before he followed up:
-"So because I left him..." but he was interrupted.
-
-"No, please don't think that, Adrex" his uncle said with an almost sad tone.
-"It's... What you have now, is what we all dreamed for you to have.
-You are part of the city, and part of its business. 
-You have friends among the locals, and you are not a stranger to them. 
-They know what you can do for them."
-
-He held a small pause before he continued:
-"But the locals didn't know your brother, and he was frustrated he couldn't get a chance like yours."
-
-Donaar exhaled, as he finished:
-"Well, that frustration turned to arguments with your parents about whether this town was any good for him, and..." he nodded to the replaced panel at the wall.
-"You know how that went.
-But please don't blame yourself."
-
-Adrex wasn't home to hear those arguments, but he started to understand why his brother had left it all behind him.
-As he looked up to his uncle, he had only one concern.
-
-"Where is he now?"
-
-Donaar turned his eyes from Adrex towards the entrance to the kitchen where his parents just had come back.
-He let his tongue run over his teeth before he answered:
-"Well, lets find out after we have finished dinner, shall we?"
-
-They sat in silence as they finished their meal.
-It somehow helped on the spirit, and as they finished and cleaned the table, Donaar stood up, and walked to the wall in the entrance which had a mirror hanging on it.
-He picked it off the wall, and went back to kitchen table, where he laid it down.
-
-"Let's see, if I can get a read on him" he said as he started to mumble some incantations, while the others finished cleaning the dishes.
-
-They all gathered around the table, as the image in the mirror slowly started to waver, as an image of their mill showed.
-The image turned towards south-east, and started shooting with great speed, rushing faster than anything could move, over mountains, past forests, lakes, and deserts, before it slowly descended over a rocky path with a two travelers walking side by side.
-As the focus came down to head height, it started to spin around the two in a slow pace, showing Ildrex walking next to a half-orc.
-They were both laughing, and Ildrex looked happy in the moment.
-
-Donaar had started to breath heavily, and had to let go of the scrying spell, before he collapsed into his chair, as the image turned back into and ordinary mirror.
-
-"Well-" he started gasped from his chair. 
-"It looks like he has found a travel companion."
-
-That was a reassurance to everyone.
-Adrex got up from his chair.
-
-"I'll be downstairs if you need me" he said.
-
-His guts were turning - both of relief, but also of worry for his brother.
-He had so many questions for him - where he had been, if he were ever to come back, what he had seen, and who he had met. 
-He missed Ildrex - badly.
-
-As he walked down the stairs to his room, he couldn't stop pondering what would happen if he, too, were out there.
-It only took a few seconds to realize, that it was properly a bad idea. 
-He had absolutely *no* idea of how he would survive in the wild.
-
-As he entered his room, his old designs greeted him with their features and flaws.
-He pulled out his chair, and started writing questions he needed to ask Victoria and Smearchuckle the following day, as he also noted the ideas he had had for the mobile trap.
+He might need a moment for himself when he got back to the shop...
 
 [[Previously chapter]](Chapter2.md) - [[Next chapter]](Chapter4.md)
