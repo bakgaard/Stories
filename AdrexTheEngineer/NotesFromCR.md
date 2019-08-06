@@ -228,7 +228,7 @@ From the crystals, "fingers" emerges of crystals as well.
 
 ## Episode 68
 
-[2:33:00](https://www.youtube.com/watch?v=5GAclNF61Xs&t=2h33m00s) - The Laughing Hand - Captured was a The Timeless and the Seeking the Tourment of All - The Undying Chosen. 
+[2:33:00](https://www.youtube.com/watch?v=5GAclNF61Xs&t=2h33m00s) - The Laughing Hand - Captured was a The Timeless and the Seeking the Torment of All - The Undying Chosen. 
 Said entity was kept in the tomb.
 
 It can only be sealed, and that was its tomb.
@@ -237,3 +237,7 @@ It can only be sealed, and that was its tomb.
 ## Episode 72
 
 [1:52:30](https://www.youtube.com/watch?v=8tCcRA2aogk&t=1h52m30s) - Residuum Glass is a rare thing, which not a lot of people know about.
+
+## Episode 73
+
+[3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. She works with in a blacksmith called Umagorn Smeltborn, who can make magic swords with Iceflex.
