@@ -29,7 +29,7 @@ As a container popped open, Adrex flipped his notebook to her with the recipe fo
 "... and the potassium nitrate you just collected, along with the sulfur, are what do most of the job.
 We just need to mix it with some charcoal, and we could start make fireworks our self."
 
-"Are we ta' make fireworks for the twins?" his master followed, confused but also a bit judging.
+"Are we to make fireworks for the twins?" his master followed, confused but also a bit judging.
 
 "No, I ehh..." Adrex started, as he gathered his thoughts.
 "I went up to the twins, they were upset because of some feedback from a customer, and had started fixing the issue.
@@ -37,12 +37,12 @@ We talked a bit back and forth about how a rocket can only have so much powder b
 As he looked over to Yurgunn, he could see her eyes wide open, to which he hurried to add: "- and we agreed they could have that idea, if I could make a prototype for them."
 
 When Yurgunn spoke, the disbelief was clear:
-"Yeh' suggested them ta' make a cannon with explosive balls?"
+"Yeh' suggested them to make a cannon with explosive balls?"
 
 Adrex had a hard time countering it, as he puffed out some air through his mouth, looking at nothing in particular.
 "Well, it sounds harsh when you say it like that..."
 
-Yurgunn took another look at the tubes, picked one up the size of an arms length, and held it from her hip in one hand and horizontal outwards with the other.
+Yurgunn took another look at the tubes, picked one up the size of an arms length, and held it from her hip in one hand horizontal outwards with the other.
 
 "We are making cannons yeh' can carry..."
 Her head started nodding, as her mouth made an grin.
@@ -72,7 +72,7 @@ Carefully placing more powder on the cup on the weight, Adrex confirmed once mor
 Adrex let the weight settle, as he reached for a small tube next to him along with some parchment.
 
 "Well, the idea was that it all goes down the tube as one unit" he started, taking some parchment, placing it above the tube's end, gently stuffing it down with a finger, before he pulled it up again.
-In his hand he now had parchment with folds perfect to the tube.
+In his hand he now had parchment with folds perfect to the tube's hole.
 
 "If we put powder at the bottom, the explosive ball on the top, and seal it all with the parchment, that could slide right down the tube.
 Afterwards we can prick a hole into the side of the unit once it is inside the tube, put the fuse in there, and it should keep it in place".
@@ -84,7 +84,7 @@ If it wasn't for the height difference between the two, Yurgunn would have tilte
 "A tiny fuse like that won't hold anything."
 
 She inspected the tube again, and continued:
-"But if we are just makin' something for test purpose, this would do tha' trick.
+"But if we are just makin' somethin' for test purpose, this would do tha' trick.
 Besides - it would be way too expensive, if yeh' needed to buy a tube each time. 
 But the twins gotta crack tha' nut themselves."
 
@@ -244,7 +244,7 @@ Stopping by a shop for buying a 100 feet of rope, they started measuring out 10 
 
 As they headed towards the lift, Yurgunn turned to Adrex.
 
-"Just ta' be sure" she started.
+"Just to be sure" she started.
 "One o' us takes th' lift up, takes the rope along, and makes sure its end can reach the bottom of the lift.
 For each 10 feet, a sandbag is flipped over the edge, and the time it takes to travel will be measured - is tha' correct?"
 

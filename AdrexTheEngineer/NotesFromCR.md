@@ -240,4 +240,4 @@ It can only be sealed, and that was its tomb.
 
 ## Episode 73
 
-[3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. She works with in a blacksmith called Umagorn Smeltborn, who can make magic swords with Iceflex.
+[3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. She works with in a blacksmith called Umagorn Smeltborne, who can make magic swords with Iceflex.

@@ -1,6 +1,6 @@
 # Chapter 4
 
-Adrex was sitting relaxed in the shop with his notebook and a pencil, tabbing the top corner of the blank arc.
+Adrex was sitting relaxed in the shop with his notebook and a pencil, tabbing the top corner of the blank page.
 The deal he had struck with the twins were rather simple: he would get the formula for black powder, and he would find out how long it would take for the explosive part to be at its maximum height when shot up.
 But that was tricky, for some reason.
 
@@ -19,7 +19,7 @@ He looked at the iron stamp which held some loose parchments down, and then look
 He had had harder problems before, so this just needed a lot of testing.
 
 He put the apple down, picked up his pencil, and wrote "light ball" in the top of the paper, and "heavy ball" halfway down the paper.
-Then he drew two arrows under section - one horizontal, one vertical - wrote "powder" under the horizontal line, and "height" at the vertical line.
+Then he drew two arrows under each section - one horizontal, one vertical - wrote "powder" under the horizontal line, and "height" at the vertical line.
 He started tapping his pencil at the corner again, as he rested his head in left hand.
 
 *So, if I use no powder, I won't get anywhere - that's for sure*, he thought to himself, as he made a small cross where the lines met.
@@ -119,7 +119,7 @@ Cleff took off his glass, and pulled out a cloth to clean them.
 "It is not the powder I will warn you about, me dear." 
 He took a breath as he found a seat, putting his spectacles on again with a small tremor.
 
-"Adrex - what do you know about the group called 'Vox Machina'?"
+"Adrex - what do you know about the group called *Vox Machina*?"
 
 Although only said as a simple question, the words sent a shiver down Adrex' spine. 
 
@@ -131,7 +131,7 @@ Cleff nodded.
 "Indeed, they did.
 Now, they had a range of different abilities to do what they did - each of them strong in their own way" Cleff continued.
 
-"One of them had a long metal stick, which were often referred to as 'a boomstick'.
+"One of them had a long metal stick, which were often referred to as a 'boomstick'.
 He actually had several with him, to be precise."
 His tone had reached a low registry.
 
@@ -167,22 +167,22 @@ Cleff's eyes darted back to Adrex.
 And nothing wrong with it." 
 He took a deep breath, and narrowed his eyes.
 
-"The story goes, however, that their grandfather once sold some of it to a woman, who had stolen one of these guns from Percival. 
+"The story goes, however, that their grandfather once sold some of it to a woman, who had stolen one of these guns from Lord Percival. 
 And based on that information, Vox Machina tracked her down, and killed her on the spot."
 
 Both Yurgunn and Adrex was as locked in place, and didn't take their eyes off the gnome. 
 Almost simultaneously they swallowed, before Yurgunn asked with worry:
-"Just 'cause she ha' one o' his... guns, was e'?"
+"Just 'cause she had one of his... guns, was it?"
 
 Cleff gave a half nod, half turned with his head.
 
 "Something about them being very dangerous in the wrong hands, I think" he said, with his gaze down into table with the wheels.
 
-"But hunt her down, they did... twenty years ago."
+"But hunt her down, they did... almost twenty years ago."
 
 He looked back up at the two.
 
-"I don't know what you intent to make, but you usually make traps", he said a bit tired, though with a smile on his face.
+"I don't know what you intent to make, but you usually make traps", he said a bit tired, though with a gentle smile on his face.
 "Be careful about what you do with it."
 
 He clapped his hands together, as he stood from his chair.
@@ -247,9 +247,8 @@ Adrex butt found its way to the stool right beside him very fast, being sure not
 
 Her voice rang with perfection, as she started walking back and forth:
 
-"I leave yeh' for ONE hour, being specific 'bout not givin' away our secrets, but instead yeh' pick up someone else's, dragging a whole bunch o' problems over our heads."
-
-"When I told yeh' tha' take initiative last week, it was to encourage yeh' to *say* what was on yeh' mind - not signing deals on a whim, trading secrets on a whim, and showing it off to the first person yeh' see!".
+"I leave yeh' for ONE hour, being specific 'bout not givin' away our secrets, but instead yeh' pick up someone else's, dragging a whole bunch o' problems over our heads.
+When I told yeh' tha' take initiative last week, it was to encourage yeh' to *say* what was on yeh' mind - not signing deals on a whim, trading secrets on a whim, and showing it off to the first person yeh' see!".
 
 She went around the bench to the green scaled dragonborn, who seemed to have become smaller over the shoulders, and almost a foot shorter, as her voice had become a bit softer, though still not pleasant:
 
@@ -257,12 +256,12 @@ She went around the bench to the green scaled dragonborn, who seemed to have bec
 
 "Now THA' was some great stuff yeh' did, Adri'!"
 
-She tapped him on his right shoulder, as she found her own chair, in which she sank down, resting her head in one hand over her eyes.
+She tapped him on his right shoulder, as she found her own chair, in which she sank down, resting her forehead in one hand.
 
 Adrex didn't know what to say.
 She wasn't wrong.
 How could she see it in another light? 
-He had single-handedly signed the contract the Zhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would outright kill him for, and let someone else know he had the information.
+He had single-handedly signed the contract the Xhorhasian had brought in, went to chat with the twins only to bring back the recipe   a legendary group of adventures would outright kill him for, and let someone else know he had the information.
 
 Well, that was maybe putting it on the edge.
 Yes, the contract was entirely on him, but he had thought it was as ordinary as any contract they had ever done.
@@ -286,7 +285,7 @@ Yurgunn made a long sigh, as she looked up from her chair.
 
 She shot a glance at him, as her tongue made some movement inside her mouth.
 
-"I never told yeh' why I came ta' Hupperdook, did I?" she said softly, all of the hard tone gone.
+"I never told yeh' why I came to Hupperdook, did I?" she said softly, all of the hard tone gone.
 
 "Well", Adrex started, trying to recall it.
 "You mentioned your old master, and that you came to seek out new challenges."
@@ -296,8 +295,9 @@ But tha' wasn't exactly the right reason."
 She sent him a sad look.
 
 "I had a master once, who could turn every piece o' metal to an exact shape.
-Nothin' was too complicated, and nothing stood in his way, so we worked on all sort o' odd jobs no one else could complete.
-One day, however, he signed a magical contract to deliver som' rods te' withstand any force sent against it."
+He specialized in swords and blades, making some from the ground up, but also reforging and strengthenin' old swords of legends.
+Nothin' was too complicated, and nothing stood in his way, so he, his son, and I, worked on all sort o' odd jobs no one else could complete.
+One day, however, he signed a magical contract to deliver some rods to withstand any force sent against it."
 
 She drew a breath, and exhaled deeply.
 
@@ -314,18 +314,18 @@ He could feel his heart hammering away, as she looked at him.
 *I am doomed!*
 
 That was about all going through Adrex' mind, as the implications sank in.
-He couldn't get out of it, and now he had to watch out for some crazy people.
+He couldn't get out of it, and now he had to watch out for some crazy people as well.
 
 Although dragonborns' facial expression are less visible than most other creatures, Yurgunn apparently had no trouble seeing them.
 Maybe it was his eyes than had turned red, or the two lines of salty water than ran from his chins, as he quietly sat there, heaving for air, starring at the notebook which in minutes had torn the world around him apart.
 
 As she stood, and put her arms around him for comfort, a high pitched sound could be heard from Adrex:
 
-"Please don't shout", followed by a very heavy breath, as his eyes closed, and his chest started to jerk up and down.
+"Please don't shout", he whispered, followed by a very heavy breath, as his eyes closed, and his chest started to jerk up and down.
 
 "I won't, Adri'", she said as she rubbed her hand on his back.
 
-"I'm so sorry, Yurgunn" he finally let out, as the sobs became audible, and he buried his face in his hands, unable to hold back his fears.
+"I'm so sorry, Yurgunn" he finally let out, as the sobs became audible, and he buried his face in his hands, unable to hold back his tears.
 
 Although it didn't last last, and it after a few seconds became more like a whimper, Adrex had suddenly found some determination, as his breathing became more consistent.
 
@@ -337,7 +337,7 @@ He stood up, as Yurgunn released her hug around his shoulders, reached for the n
 
 "We need this from an alchemist", he sniffed with some sort of determination, before he turned to the back of the workshop.
 
-"Are ye' sure you don't wa-" Yurgunn started before Adrex cut her of.
+"Are ye' sure ye' don't wa-" Yurgunn started before Adrex cut her of.
 
 "I don't have time, Yurgunn.
 I need to do this, and I don't have long to do it." 
@@ -346,7 +346,7 @@ He had started looking at some metal scraps they had laying around in a few boxe
 She looked over the list, tired and worried.
 A quick glance at her apprentice, and she knew he was in a mood she couldn't get him out of.
 
-"Ay... I'll lock tha' door before I go... don't open fo' anyone, o'right?" she said.
+"Ay... I'll lock tha' door before I go... don't open for anyone, o'right?" she said.
 
 There was no reply from Adrex, but scramble rustling around.
 
@@ -360,14 +360,14 @@ And to get that, he needed something he could test his powder in, but not burn t
 *This has a hole in it.*
 
 As he furiously rummaged around the scraps from earlier projects, he could hear the doorbell ring, the door close, and the lock being turned.
-As as soon as it had, he took the first thing in the box he could keep in his hand, and hurled the tube through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, his breath visible in the air around him, before he fell to his knees, tears streaming from his face once more, as the tube clanged over the floor, rolling up next to him.
+As as soon as it had, he took the first thing within reach he could keep in his hand, and hurled the tube through the room, as he drew a full lounge of air, and let out a roar of mental pain and anger as loud as he could, his breath visible in the air around him, before he fell to his knees, tears streaming from his face once more, as the tube clanged over the floor, rolling up next to him.
 
 The roar didn't last more than two seconds, and quickly turned to a whimper.
 Soon after it turned into a few coughs, as the air around him slowly cleared from the poisoned gas he had breathed out.
 It didn't hurt a lot, but he had to fan his hand before his nostrils before he could inhale clearly again.
 
-"This is crazy!" he quietly thought to himself.
-"How can someone come after me for something I haven't even done yet?" 
+*This is crazy*, he quietly thought to himself.
+*How can someone come after me for something I haven't even done yet?*
 
 He rolled around to lay on his back, as he picked up the tube, and lightly tapped it on his snout.
 What was it Glenn had called them?
@@ -383,20 +383,21 @@ He blew a quick breath into it, as small pieces of dirt flew out the other end.
 He picked up some metal dust, rolled it into a small bead, placed it in the tube with his left thumb, and blew through the tube again.
 The little ball flew out, and made a small *thud* as it hit a box at the shelf.
 
-*This is basically a cannon*, he thought to himself, as he rolled another ball, loaded it into the tube, took a breath, and fired the ball at the box again.
+*This is basically a cannon*, he thought to himself, as he rolled another ball, loaded it into the tube, took a breath, and blew the ball at the box again.
 
-*A time expensive process, because I need to load a ball, and I need to take a breath, before I can fire it*.
+*A time consuming process, because I need to load a ball, and I need to take a breath, before I can fire it*.
 
 He picked himself up to a sitting position, as he looked into nothingness, deep in thought of how to reduce these steps.
 
 Cannons where huge, heavy, and required a lot of powder for the heavy metal balls - mostly to shoot through ships.
-He didn't need huge, didn't want heavy, and he didn't need a heavy metal ball, since he wasn't to shoot through ships. He only needed to hit a target and make it hurt.
+He didn't need huge, didn't want a heavy barrel, and he didn't need a heavy metal ball, since he wasn't going to shoot through ships. 
+He only needed to hit a target, and make it hurt.
 
 He gathered another ball, placed it in the tube, took a deep breath, held his right hand as far from the tube's ending he could, and blew as hard as he could.
 
 "Aw!"
 
-He shook his hand numb the pain. 
+He shook his hand to numb the pain. 
 That actually hurt quite a bit - not for long, but still.
 He turned the tube in his hand, as he inspected it.
 It wasn't heavy, it just required some pressure, and it had made his hand hurt.
@@ -422,33 +423,6 @@ He narrowed his eyes, as he studied the tube.
 This one wasn't so easy to crack.
 He needed to do some experiments with that. 
 And to do that, he needed more tubes.
-
-<!-- 
-## Math
-Deceleration formula: https://www.school-for-champions.com/science/gravity_equations_upward_velocity.htm (linear, and half time to go up, for full time to go down)
-
-If gone for x-seconds, how far up were you?
-https://sciencenotes.org/vertical-motion-example-problem-coin-toss-equations-motion/
-
-Splat effect: 
-https://www.angio.net/personal/climb/speed.html
-
-=>
-
-height = (start speed m/s^2)/(19.6 m/s^2)
-19.6 m = 64.3 ft
-
-https://www.wikiwand.com/en/Gunpowder#/Combustion_characteristics
-Releases 3 MegaJoule/kg
-
-Measure with hempen robe from mill tower?
- -->
-
-
-
-
-
-
 
 
 [[Previously chapter]](Chapter3.md) - [[Next chapter]](Chapter5.md)
