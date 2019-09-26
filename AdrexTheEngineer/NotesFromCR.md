@@ -240,4 +240,25 @@ It can only be sealed, and that was its tomb.
 
 ## Episode 73
 
-[3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. She works with in a blacksmith called Umagorn Smeltborne, who can make magic swords with Iceflex.
+[3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. 
+She works with in a blacksmith called Umagorn Smeltborne, who can make magic swords with Iceflex.
+
+## Dalen's Closet
+
+[0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t5m2s) - Firstborn of Vax and Percy is named Vesper Elena de Rolo.
+
+[0:12:04](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t12m04s)
+Arm clouds breaking with a sun on an arm (from the Tempest).
+
+[0:32:39](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t32m39s)
+Gold coins from Scanlan's daughter.
+
+[0:40:51](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t40m51s)
+Derrig has three triplet girls, and a younger brother for them.
+
+[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1t04m56s)
+Blond On Blond is a book Tarry Darrington has written.
+
+[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1t04m56s)
+Blond On Blond is a book Tarry Darrington has written.
+
