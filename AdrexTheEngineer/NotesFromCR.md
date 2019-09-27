@@ -245,20 +245,29 @@ She works with in a blacksmith called Umagorn Smeltborne, who can make magic swo
 
 ## Dalen's Closet
 
-[0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t5m2s) - Firstborn of Vax and Percy is named Vesper Elena de Rolo.
+[0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h5m2s) - Firstborn of Vex and Percy is named Vesper Elena de Rolo.
 
-[0:12:04](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t12m04s)
+[0:12:04](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h12m04s)
 Arm clouds breaking with a sun on an arm (from the Tempest).
 
-[0:32:39](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t32m39s)
+[0:32:39](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h32m39s)
 Gold coins from Scanlan's daughter.
 
-[0:40:51](https://www.youtube.com/watch?v=0oclW3MXABA&t=0t40m51s)
+[0:40:51](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h40m51s)
 Derrig has three triplet girls, and a younger brother for them.
 
-[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1t04m56s)
+[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1h04m56s)
 Blond On Blond is a book Tarry Darrington has written.
 
-[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1t04m56s)
+[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1h04m56s)
 Blond On Blond is a book Tarry Darrington has written.
 
+3:33 - awesome music
+
+## Talks Machina ofr Dalen's Closet
+
+[1:09:24](https://www.youtube.com/watch?v=FiRTgVhpgL8&t=1h09m24s)
+Names of Derrig's family:
+* Wife: Nell
+* Triplets: Berenie, Lita, and Maeve
+* Son: Will
