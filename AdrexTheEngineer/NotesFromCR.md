@@ -264,10 +264,39 @@ Blond On Blond is a book Tarry Darrington has written.
 
 3:33 - awesome music
 
-## Talks Machina ofr Dalen's Closet
+## Talks Machina for Dalen's Closet
 
 [1:09:24](https://www.youtube.com/watch?v=FiRTgVhpgL8&t=1h09m24s)
 Names of Derrig's family:
 * Wife: Nell
 * Triplets: Berenie, Lita, and Maeve
 * Son: Will
+
+
+## Episode 78
+
+https://www.youtube.com/watch?v=Z8Jbn8VoXaw
+
+[1:02:57](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&1h02m57) - The Ruins of Shattengroth is a recent discovery by hill dwarfs of The Pride's Call a few decades ago, where they found a a sink hole, and it is slowly being uncovered.
+The archaeologist doesn't know what it is, but are just looking for this magical place
+
+[1:07:13](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&1h07m13) - Beau's dad (Therow Lionet) is described as shorter, darker hair, rounded face, widow's peak, brown eyes, a unibrow, and cranky
+
+[2:30:05](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&2h30m05) - A chamber at the Cobalt Soul's archive, where rare books are kept with dangerous information.
+
+[2:32:22](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&2h32m22) - Historical keeping of terrifying entities with deity conflicts. 
+Angels, twisted/corrupted beings of Betrayer Gods and Prime Deities. 
+Mostly folklore, descriptions, tales. 
+Smaller book - old book, more than 20-25 years.
+
+3:00:20 - The Lotus Den, locaiton in Southern Xhorhas, sorrunded by somewhat swapland.
+Darken woods compared to other regions in there.
+People are called Charros - gnomes, and escaped Draconians
+Mostly druids
+**Woods should be cursed** and are moving around when no one is looking.
+Here is the (3:03:50) "Yorial's remains were bisected. The heart burried inside the The Lotus Den, and the skull entrusted to elves within The Wellov Fell"
+
+
+[3:09:18] - Yasha has a faint orange glow at the base at her skull. 
+Faint circular ember, which may control people.
+(Could be Mollymok?)
