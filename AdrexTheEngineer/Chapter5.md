@@ -234,20 +234,20 @@ Using the lift was actually a pretty good idea, and it could reduce the time thi
 
 Inside the shop Adrex set the tools back at their dedicate spaces, and went looking for some objects they could use.
 They didn't have balls lying around to throw from high places.
-Roaming around he did find a sandbag, and with some smaller bags they had laying around he filled up 10 of these, sealing them with a small string.
+Roaming around he did find a sandbag, and with some smaller bags they had laying around he filled up 20 of these, sealing them with a small string.
 
-Yurgunn had found some paper slips, and marked each of them with '10 feet', '20 feet', and so forth. 
+Yurgunn had found some paper slips, and marked each of them with '50 feet', '100 feet', and so forth. 
 "Yeh' ready?" she asked, looking like she was already on her way out the door.
 
 Putting the small bags in a satchel along with his notebook, Adrex picked up their hourglass device, nodded, and went along with his master out the door.
 
-Stopping by a shop for buying a 100 feet of rope, they started measuring out 10 feet at a time, and inserted the paper slips with some string to the rope.
+Stopping by a shop for buying a several 100 feet of ropes, they started measuring out 50 feet at a time, and inserted the paper slips with some string to the rope.
 
 As they headed towards the lift, Yurgunn turned to Adrex.
 
 "Just to be sure" she started.
 "One o' us takes the lift up, takes the rope along, and makes sure its end can reach the bottom of the lift.
-For each 10 feet, a sandbag is flipped over the edge, and the time it takes to travel will be measured - is tha' correct?"
+For each 50 feet, a sandbag is flipped over the edge, and the time it takes to travel will be measured - is tha' correct?"
 
 Adrex nodded, as they approached.
 "Should I take the lift, or do you want to?"
@@ -316,11 +316,11 @@ Yurgunn turned around to Adrex and gave him a wink as she walked on the platform
 Stand on the edge at yeh' own risk, but A' should warn you that it's a bit shaky" he said, as he walked to a thin line near the wall Adrex hadn't noticed before now, and tucked it twice. 
 Shortly after the lift started to rise with audible noise.
 
-Adrex took out the hourglass, and readied his pen for his notebook, as he watched the 100-feet rope's end dangle just above the ground.
-10 feet later Yurgun called out, Adrex flipped the hourglass, and shortly after a sandbag hit the ground next to the end of the rope.
+Adrex took out the hourglass, and readied his pen for his notebook, as he watched the long rope's end dangle just above the ground.
+50 feet later Yurgun called out, Adrex flipped the hourglass, and shortly after a sandbag hit the ground next to the end of the rope.
 Inspecting the marks on the hourglass, he noted a number in his book, and flipping the hourglass back.
 
-10 feet later, the same thing happened, though the sandbag seemed to hit a bit closer to Adrex... a bit too close for his liking, and it sounded like it had hit the ground hard.
+50 feet later, the same thing happened, though the sandbag seemed to hit a bit closer to Adrex... a bit too close for his liking, and it sounded like it had hit the ground hard.
 Noting the time, Adrex moved himself closer to where the guard sat who obviously pondered what the two partners were up to.
 
 He barely got into a sitting position before Yurgunn yelled at the 30-feet mark, sending another sandbag towards the hard surface, and this time tearing a hole through it as the sand inside it tore a weak point open.
@@ -332,7 +332,7 @@ Adrex needed to focus, so he didn't look away from the platform which seemed to 
 
 "We are measuring how long it takes for a sandbag to fall a certain distance" Adrex said staring in the air, as the 40-feet yell was heard, and he flipped the hourglass, heard the sandbag shatter at the ground, and flipped the hourglass again.
 
-"And we measure for each 10 feet, with the small markers telling us when to toss a bag" he continued, as he marked the number, and looked to the platform again.
+"And we measure for each 50 feet, with the small markers telling us when to toss a bag" he continued, as he marked the number, and looked to the platform again.
 
 The guard nodded, as he looked to the dangling rope.
 "But eh - does tha' work, when the rope is not touching the ground?" he said, pointing to the end, which hovered two feet above.
@@ -422,7 +422,7 @@ It went through his head over and over again.
 When he got up to the top he would take the leftover sandbag, tie the rope around it and let it hang until it...
 *Wait - that's it*, he thought to himself.
 *Tie a bag to the end, and drop it.
-Drop it 10 feet, then 20 feet, then...* 
+Drop it 50 feet, then 100 feet, then...* 
 
 He forgot all about the Crownsguard and Talinstadt. 
 Why hadn't he thought of this earlier?
