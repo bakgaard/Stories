@@ -15,6 +15,8 @@ Black powder:
 * 15% - charcoal
 * 10% - Sulfur
 
+[Burns about 6 cm/s](https://www.wikiwand.com/en/Gunpowder#/Corning)
+
 
 ## Episode 4
 
@@ -27,6 +29,9 @@ Splat effect:
 https://www.angio.net/personal/climb/speed.html
 
 =>
+time = sqrt( 2 * height / 9.8)  <=>
+time^2 = 2 * height / 9.8  <=>
+time^2 = height / 4.9  => height / 16 feet
 
 height = (start speed m/s^2)/(19.6 m/s^2)
 19.6 m = 64.3 ft
@@ -39,3 +44,16 @@ Releases 3 MegaJoule/kg
 ## Episode 5
 
 * [Dwarfs doesn't like Duergars](https://criticalrole.fandom.com/wiki/Duergar)
+
+
+## Episode 6
+
+* Black powder release [6 megajoules per kilogram](wikiwand.com/en/Gunpowder#/Energy)
+* [Barrel calculations](https://www.alternatewars.com/BBOW/Ballistics/EstMV/Est_Prop_Charge.htm)
+
+* Mass of different metals:
+	* Iron: 7.87 g/cm3
+	* Steel: 7.90 g/cm3
+	* Copper: 8.94 g/cm3
+	* Silver: 10.49 g/cm3
+	* Lead: 11.36 g/cm3

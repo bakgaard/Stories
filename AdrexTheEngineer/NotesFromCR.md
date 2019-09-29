@@ -19,6 +19,21 @@ It must have been *pretty* bad.
 [3:23:55](https://www.youtube.com/watch?v=yqJdHshftrs&t=3h23m55s) - "It is not our place to fight"
 
 
+## Episode 15
+
+[0:00:00](https://www.youtube.com/watch?v=seY-M0i78F4&t=0h00m00s)
+
+The tabaxi is called Cree.
+He calls Lucien Nonagon.
+The others were to scatter and vanish if something went wrong.
+A "spell spitter" lady from the capital too the book and left (contract was in place).
+"Jurell" (another) was meet with the axe.
+"Soren", "Otis", and "Tythiel" is scattered around the Empire.
+They were in an order before some of them broke up.
+They started a group called "The Tomb Takers" in Shady Creek Run.
+Something should have "worked".
+
+
 ## Episode 23
 
 [3:40:00](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h40m00s) - Hupperdook has a testing ground for cannons and the sorts.
