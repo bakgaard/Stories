@@ -52,6 +52,9 @@ The voice went on, now louder than before:
 But keep walking, would you! 
 We don't want you here!"
 
+Another of the tavern-goers chipped in: 
+"Yeah, you tell him, Fitz!"
+
 *I hereby relieve you of your right to existence, you racist ankle biter*, Adrex thought to himself, as the shouting became less and less audible.
 Now in a foul mood, Adrex starting walking faster.
 

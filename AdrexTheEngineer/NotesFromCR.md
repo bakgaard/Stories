@@ -48,11 +48,23 @@ Those who wait are very well dressed.
 [3:46:23](https://www.youtube.com/watch?v=6bLwlwMJdJU&t=3h46m23s) - Guard has a gun flare.
 
 
+## Episode 24
+
+[0:24:20](https://www.youtube.com/watch?v=TawI9iJIxBc&t=0h43m20s) - Fitz and Ashden er drunken tavern-goers, who call people names.
+
+[2:55:17](https://www.youtube.com/watch?v=TawI9iJIxBc&t=2h55m17s) - A friend help prepare the magically "Tinkertop Boltblaster 1000"
+
+
+## Episode 25
+
+[0:22:25](https://www.youtube.com/watch?v=kaBQwH7YQQw&t=0h22m25s) - The Gearkeeper is descriped to keep breakouts to a minimal.
+
+
 ## Episode 38
 
 [1:59:14](https://www.youtube.com/watch?v=JvBtKATmgLc&t=1h59m14s) - Spagetthi: North Area of the continent
 
-Dark-elf snuck in, and attack inland
+Dark-elf snuck in, and attacked inland
 Attacked Feldewin and fields
 
 
@@ -69,7 +81,7 @@ Attacked Feldewin and fields
 
 ## Episode 51
 
-[0:56:00](https://www.youtube.com/watch?v=P-cQdxZB5Kk&t=56m0s) - Meets Kolden (Mudmen)
+[0:56:00](https://www.youtube.com/watch?v=P-cQdxZB5Kk&t=0h56m00s) - Meets Kolden (Mudmen)
 * 11 mudmen in total, 3 survives
 * 4 scouting regiments in total
 * From Bladegarden
@@ -85,9 +97,9 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 ## Episode 56
 
-[2:00:00](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h0m0s) - Matt talks about teleportation circles in city
+[2:00:00](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h00m00s) - Matt talks about teleportation circles in city
 
-[2:09:00](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h9m0s) - Under arches of something
+[2:09:00](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h09m00s) - Under arches of something
 
 [2:25:15](https://www.youtube.com/watch?v=ZtcAs7jCDvw&t=2h25m15s) - Yasha says where she is from
 
@@ -99,9 +111,9 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 [1:47:25](https://www.youtube.com/watch?v=fUfCP184L0I&t=1h47m25s)  - Different places to stay
 
-[2:21:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h21m0s)  - Closer to the hotel - towards the trade district -  it's less architectural beautiful
+[2:21:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h21m00s)  - Closer to the hotel - towards the trade district -  it's less architectural beautiful
 
-[2:24:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h24m0s)  - The professor's location
+[2:24:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h24m00s)  - The professor's location
 
 [2:30:15](https://www.youtube.com/watch?v=fUfCP184L0I&t=2h30m15s)  - The wood used is purple/brown/deep marron
 
@@ -172,18 +184,18 @@ Two heavy gray stones, floating past the fence in the air over the wall.
 
 ## Episode 59
 
-[0:11:05](https://www.youtube.com/watch?v=-qveongNOUI&t=11m5s) - Materials are extracted from the Icozrin Steelworks, and sent throughout the dynasty.
+[0:11:05](https://www.youtube.com/watch?v=-qveongNOUI&t=0h11m05s) - Materials are extracted from the Icozrin Steelworks, and sent throughout the dynasty.
 
-[0:40:35](https://www.youtube.com/watch?v=-qveongNOUI&t=40m35s) - The giants do *not* speak Common
+[0:40:35](https://www.youtube.com/watch?v=-qveongNOUI&t=0h40m35s) - The giants do *not* speak Common
 
-[1:05:05](https://www.youtube.com/watch?v=-qveongNOUI&t=1h5m5s) - The steelworks is designed to smelt alloys, and create weapons. 
+[1:05:05](https://www.youtube.com/watch?v=-qveongNOUI&t=1h05m05s) - The steelworks is designed to smelt alloys, and create weapons. 
 *The giants have scavenged some of them*.
 
-[1:06:03](https://www.youtube.com/watch?v=-qveongNOUI&t=1h6m3s) - One giant is called Duin
+[1:06:03](https://www.youtube.com/watch?v=-qveongNOUI&t=1h06m03s) - One giant is called Duin
 
-[1:07:06](https://www.youtube.com/watch?v=-qveongNOUI&t=1h7m6s) - The big one is called Zuna, and explain they are running away from something horrible.
+[1:07:06](https://www.youtube.com/watch?v=-qveongNOUI&t=1h07m06s) - The big one is called Zuna, and explain they are running away from something horrible.
 
-[1:09:29](https://www.youtube.com/watch?v=-qveongNOUI&t=1h9m29s) - They are from "Bran" (means 'belly'). Kialo heard a low hum (win through the trees, but didn't stop), and things came out of the shadows with long faces and wings.
+[1:09:29](https://www.youtube.com/watch?v=-qveongNOUI&t=1h09m29s) - They are from "Bran" (means 'belly'). Kialo heard a low hum (win through the trees, but didn't stop), and things came out of the shadows with long faces and wings.
 They went after Shallo, so the rest fled.
 
 [1:12:17](https://www.youtube.com/watch?v=-qveongNOUI&t=1h12m17s) - There are 8 in the camp, and more in an hunting party (they were 12 before the were hunted).
@@ -229,7 +241,7 @@ The Overcrow Apothecary in Choronas
 
 ## Episode 64
 
-[3:13:05](https://www.youtube.com/watch?v=3yfLht7w7Yk&t=3h13m5s) - Talinstad: Ravenites lives here and sought refuse here.
+[3:13:05](https://www.youtube.com/watch?v=3yfLht7w7Yk&t=3h13m05s) - Talinstad: Ravenites lives here and sought refuse here.
 Some of the local ravenites worries, that nobles of the Draconian family is inside the leading structure of the Empire, and fear they will come after them.
 
 
@@ -260,7 +272,7 @@ She works with in a blacksmith called Umagorn Smeltborne, who can make magic swo
 
 ## Dalen's Closet
 
-[0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h5m2s) - Firstborn of Vex and Percy is named Vesper Elena de Rolo.
+[0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h05m02s) - Firstborn of Vex and Percy is named Vesper Elena de Rolo.
 
 [0:12:04](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h12m04s)
 Arm clouds breaking with a sun on an arm (from the Tempest).
@@ -274,10 +286,6 @@ Derrig has three triplet girls, and a younger brother for them.
 [1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1h04m56s)
 Blond On Blond is a book Tarry Darrington has written.
 
-[1:04:56](https://www.youtube.com/watch?v=0oclW3MXABA&t=1h04m56s)
-Blond On Blond is a book Tarry Darrington has written.
-
-3:33 - awesome music
 
 ## Talks Machina for Dalen's Closet
 
@@ -312,6 +320,6 @@ Mostly druids
 Here is the (3:03:50) "Yorial's remains were bisected. The heart burried inside the The Lotus Den, and the skull entrusted to elves within The Wellov Fell"
 
 
-[3:09:18] - Yasha has a faint orange glow at the base at her skull. 
+[3:09:18](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&3h09m18) - Yasha has a faint orange glow at the base at her skull. 
 Faint circular ember, which may control people.
 (Could be Mollymok?)

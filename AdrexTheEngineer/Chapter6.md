@@ -212,7 +212,7 @@ The barren fields all covered in sod had some moss here and there, and the only 
 Plants with thorns could still be found though.
 Not that they bothered Adrex, but they were annoying for most other people in Hupperdook since they had soft skin.
 
-Making his way to 
+Making his way to the Armavault on the sod covered road, 
 
 
 
