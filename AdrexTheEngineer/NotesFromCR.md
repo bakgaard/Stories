@@ -91,7 +91,7 @@ Attacked Feldewin and fields
 
 ## Episode 52 
 
-[3:23:00](https://www.youtube.com/watch?v=REyVoebe06E&t=3h23m0s) - Tharaz Doom
+[3:23:00](https://www.youtube.com/watch?v=REyVoebe06E&t=3h23m00s) - Tharaz Doom
 A madness which have claimed the drows. Could also be spreading in the east
 
 
@@ -107,7 +107,7 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 [0:46:50](https://www.youtube.com/watch?v=fUfCP184L0I&t=0h46m50s) - Professor Waccoh seeks aid for projects
 
-[1:14:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=1h14m0s)  - Matt describes the city of Xhorhas
+[1:14:00](https://www.youtube.com/watch?v=fUfCP184L0I&t=1h14m00s)  - Matt describes the city of Xhorhas
 
 [1:47:25](https://www.youtube.com/watch?v=fUfCP184L0I&t=1h47m25s)  - Different places to stay
 
@@ -125,30 +125,30 @@ A madness which have claimed the drows. Could also be spreading in the east
 
 ## "Building Your Own Campaign Setting" (Interview)
 
-[11:15](https://www.youtube.com/watch?v=sig8X_kojco&t=11m15s) - Matt talks about the themes
+[0:11:15](https://www.youtube.com/watch?v=sig8X_kojco&t=0h11m15s) - Matt talks about the themes
 
-[55:50](https://www.youtube.com/watch?v=sig8X_kojco&t=55m50s) - CR is to show intense conflict, desperate structure of power between classes and different societies
+[0:55:50](https://www.youtube.com/watch?v=sig8X_kojco&t=0h55m50s) - CR is to show intense conflict, desperate structure of power between classes and different societies
 
 
 ## Episode 58
 
-[0:17:53](https://www.youtube.com/watch?v=7Z610fSoifk&t=17m53s) - *The Dim's Inn* has a back
+[0:17:53](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h17m53s) - *The Dim's Inn* has a back
 
-[0:28:52](https://www.youtube.com/watch?v=7Z610fSoifk&t=28m52s) - *The Hammer Call*, a smith managed by a half-orc, Wurch the Tapar (7 foot tall). Welcoming, curious. 
+[0:28:52](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h28m52s) - *The Hammer Call*, a smith managed by a half-orc, Wurch the Tapar (7 foot tall). Welcoming, curious. 
 Has a home town, Morathcrah, in the Greying Wildlands in the north of the Empire - long from the Dynasty, with hunting grounds around, near the Savalir Wood (crazy place). 
 
-[0:37:30](https://www.youtube.com/watch?v=7Z610fSoifk&t=37m30s) - U'thedurnean, to the north, consisting of dwarfs and elves, with The Rime Planes in between. If they come across the orcs, square your shoulders, and *don't bow*.
+[0:37:30](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h37m30s) - U'thedurnean, to the north, consisting of dwarfs and elves, with The Rime Planes in between. If they come across the orcs, square your shoulders, and *don't bow*.
 
-[0:50:15](https://www.youtube.com/watch?v=7Z610fSoifk&t=50m15s) - The Firmaments, heading to the Marbletum's Conservatory - a beautiful place marble walls with towers.
+[0:50:15](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h50m15s) - The Firmaments, heading to the Marbletum's Conservatory - a beautiful place marble walls with towers.
 Guards are present, and non-drows are a suspension. 
 Credentials are needed from newcomers, it seems, and they need to be escorted.
 
-[0:54:25](https://www.youtube.com/watch?v=7Z610fSoifk&t=54m25s) - Stone doors, marble floors, warm welcome, high ceiling, chandeliers, warm green glow, a semi-circle desk.
+[0:54:25](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h54m25s) - Stone doors, marble floors, warm welcome, high ceiling, chandeliers, warm green glow, a semi-circle desk.
 A dark-elf in robes (very focused), hair in a bun, telepathic communication.
 Across a court yard, a long 80 foot hallway, 10 ft across, 10 ft high, with paintings on the walls, but glass walls 5 ft up with gardens to the sides.
 The second floor has 3 doors - to the left has some smell of jasmine and lavender. The center is more metallic and burned.
 
-[0:58:32](https://www.youtube.com/watch?v=7Z610fSoifk&t=58m32s) - Waccoh might not like humans. Works in an oval shape room, with shelves everywhere, burners, glass containers connected, brass pots, papers everywhere and in a mess. Heavy smells in here
+[0:58:32](https://www.youtube.com/watch?v=7Z610fSoifk&t=0h58m32s) - Waccoh might not like humans. Works in an oval shape room, with shelves everywhere, burners, glass containers connected, brass pots, papers everywhere and in a mess. Heavy smells in here
 Tuss' Waccoh is a female orc, crazy hair covering her eyes, with a Moody-like glass lense (tube) on her right eye, jar a bit forward set, and one tusk a bit pushed on the left side.
 ( [Can't say 'r'.](https://www.wikiwand.com/en/Rhotacism_(speech_impediment))).
 Very curious in an objective way (with people as well).
@@ -168,10 +168,10 @@ Turman is from the Shadow Shire (a district down under the city).
 
 [2:24:25](https://www.youtube.com/watch?v=7Z610fSoifk&t=2h24m25s) - Growls comes from the back alleys from the [Moorbounders](https://criticalrole.fandom.com/wiki/Moorbounder).
 
-[3:08:55](https://www.youtube.com/watch?v=7Z610fSoifk&t=3h8m55s) - Cluster of tents / cloth, elements of domiciles. Closer are tents, with workers and soldiers (not many... 14) with many workers (about 100).
+[3:08:55](https://www.youtube.com/watch?v=7Z610fSoifk&t=3h08m55s) - Cluster of tents / cloth, elements of domiciles. Closer are tents, with workers and soldiers (not many... 14) with many workers (about 100).
 A male drow, Den Harcopshrin, shoulder-length hair, goat-tee bear, hard facial features, a bit sweaty, dressed in standard equipment, but with lots of jewelery.
 
-[3:15:00](https://www.youtube.com/watch?v=7Z610fSoifk&t=3h15m0s) - 7 giants came down from the mountains, and just stated destroying the mining camp.
+[3:15:00](https://www.youtube.com/watch?v=7Z610fSoifk&t=3h15m00s) - 7 giants came down from the mountains, and just stated destroying the mining camp.
 
 [3:18:55](https://www.youtube.com/watch?v=7Z610fSoifk&t=3h18m55s) - Spiders in the forest.
 
@@ -298,16 +298,14 @@ Names of Derrig's family:
 
 ## Episode 78
 
-https://www.youtube.com/watch?v=Z8Jbn8VoXaw
-
-[1:02:57](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&1h02m57) - The Ruins of Shattengroth is a recent discovery by hill dwarfs of The Pride's Call a few decades ago, where they found a a sink hole, and it is slowly being uncovered.
+[1:02:57](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=1h02m57s) - The Ruins of Shattengroth is a recent discovery by hill dwarfs of The Pride's Call a few decades ago, where they found a a sink hole, and it is slowly being uncovered.
 The archaeologist doesn't know what it is, but are just looking for this magical place
 
-[1:07:13](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&1h07m13) - Beau's dad (Therow Lionet) is described as shorter, darker hair, rounded face, widow's peak, brown eyes, a unibrow, and cranky
+[1:07:13](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=1h07m13s) - Beau's dad (Therow Lionet) is described as shorter, darker hair, rounded face, widow's peak, brown eyes, a unibrow, and cranky
 
-[2:30:05](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&2h30m05) - A chamber at the Cobalt Soul's archive, where rare books are kept with dangerous information.
+[2:30:05](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=2h30m05s) - A chamber at the Cobalt Soul's archive, where rare books are kept with dangerous information.
 
-[2:32:22](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&2h32m22) - Historical keeping of terrifying entities with deity conflicts. 
+[2:32:22](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=2h32m22s) - Historical keeping of terrifying entities with deity conflicts. 
 Angels, twisted/corrupted beings of Betrayer Gods and Prime Deities. 
 Mostly folklore, descriptions, tales. 
 Smaller book - old book, more than 20-25 years.
@@ -320,6 +318,15 @@ Mostly druids
 Here is the (3:03:50) "Yorial's remains were bisected. The heart burried inside the The Lotus Den, and the skull entrusted to elves within The Wellov Fell"
 
 
-[3:09:18](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&3h09m18) - Yasha has a faint orange glow at the base at her skull. 
+[3:09:18](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=3h09m18s) - Yasha has a faint orange glow at the base at her skull. 
 Faint circular ember, which may control people.
 (Could be Mollymok?)
+
+
+## Episode 79
+
+[0:59:27](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=0h00m00s) - Two dead bodies in the wood. A halfling and a dragonborn, with gash wounds across their torso.
+They are hunters.
+They have some bones tied together!
+
+1:10:00 - The Wraithroot Tree
