@@ -296,6 +296,15 @@ Names of Derrig's family:
 * Son: Will
 
 
+## Episode 77
+
+[2:20:35](https://www.youtube.com/watch?v=IW-wt6u7GNQ&t=2h20m35s) - Blightshore to Xhorhas (Eastern shores). Part of the Luxons. Contain ability to change time, decision, destinies and breaking them. Place is called 'Misgath Strand', but now known as 'The Light Shore' after the Calamity.
+
+[2:32:19](https://www.youtube.com/watch?v=IW-wt6u7GNQ&t=2h23m19s) - Astrid is described.
+
+[2:33:02](https://www.youtube.com/watch?v=IW-wt6u7GNQ&t=2h23m02s) - Aedwolf is described.
+
+
 ## Episode 78
 
 [1:02:57](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=1h02m57s) - The Ruins of Shattengroth is a recent discovery by hill dwarfs of The Pride's Call a few decades ago, where they found a a sink hole, and it is slowly being uncovered.
@@ -310,12 +319,12 @@ Angels, twisted/corrupted beings of Betrayer Gods and Prime Deities.
 Mostly folklore, descriptions, tales. 
 Smaller book - old book, more than 20-25 years.
 
-3:00:20 - The Lotus Den, locaiton in Southern Xhorhas, sorrunded by somewhat swapland.
+3:00:20 - The Lotus Den, location in Southern Xhorhas, surrounded by somewhat swampland.
 Darken woods compared to other regions in there.
-People are called Charros - gnomes, and escaped Draconians
+People are called Charros - gnomes, and escaped Draconians.
 Mostly druids
 **Woods should be cursed** and are moving around when no one is looking.
-Here is the (3:03:50) "Yorial's remains were bisected. The heart burried inside the The Lotus Den, and the skull entrusted to elves within The Wellov Fell"
+Here is the (3:03:50) "Yorial's remains were bisected. The heart buried inside the The Lotus Den, and the skull entrusted to elves within The Wellov Fell"
 
 
 [3:09:18](https://www.youtube.com/watch?v=Z8Jbn8VoXaw&t=3h09m18s) - Yasha has a faint orange glow at the base at her skull. 
@@ -325,8 +334,10 @@ Faint circular ember, which may control people.
 
 ## Episode 79
 
-[0:59:27](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=0h00m00s) - Two dead bodies in the wood. A halfling and a dragonborn, with gash wounds across their torso.
+[0:59:27](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=0h59m27s) - Two dead bodies in the wood. A halfling and a dragonborn, with gash wounds across their torso.
 They are hunters.
 They have some bones tied together!
 
-1:10:00 - The Wraithroot Tree
+[1:10:00](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=1h10m00s) - The Wraithroot Tree
+
+[3:31:45](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=3h31m45s) - It is described
