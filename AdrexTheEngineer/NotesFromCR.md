@@ -341,3 +341,16 @@ They have some bones tied together!
 [1:10:00](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=1h10m00s) - The Wraithroot Tree
 
 [3:31:45](https://www.youtube.com/watch?v=yG2vBIu1ieg&t=3h31m45s) - It is described
+
+
+## Episode 80
+
+[0:19:58](https://www.youtube.com/watch?v=aHKloZn2rII&t=0h19m58s) - Someone inside the dynasty gave away the beacon **a year or more ago**.
+
+[0:26:07](https://www.youtube.com/watch?v=aHKloZn2rII&t=0h26m07s) - Paper trail was destroyed.
+
+[1:21:59](https://www.youtube.com/watch?v=aHKloZn2rII&t=1h21m59s) - The Heirlooms Sphere / the Arch Mage Bane. Key to the Folding Holes of Halas.
+
+[2:19:03](https://www.youtube.com/watch?v=aHKloZn2rII&t=2h19m03s) - Scrypemites. Floating around strong magical presence, which they eat.
+
+[3:25:XX](https://www.youtube.com/watch?v=aHKloZn2rII&t=3h25m00s) - 'Dreadnaught' is debated, and it's something big and bad (from Hupperdook).
