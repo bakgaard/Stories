@@ -354,3 +354,16 @@ They have some bones tied together!
 [2:19:03](https://www.youtube.com/watch?v=aHKloZn2rII&t=2h19m03s) - Scrypemites. Floating around strong magical presence, which they eat.
 
 [3:25:XX](https://www.youtube.com/watch?v=aHKloZn2rII&t=3h25m00s) - 'Dreadnaught' is debated, and it's something big and bad (from Hupperdook).
+
+
+3:25:23 - attack on the siege installations in Hupperdook
+
+
+## Episode 85
+
+[2:01:23](https://www.youtube.com/watch?v=J1Efz6E3_-0&t=2h01m23s) - The Gentleman sold a "strange skull" from the The Savelier Wood, but it's hard to smuggle anything out, under the Trabane family. 
+He sold a skull.
+It was sold to The Starsmen (winemen with interest for intequitice for decades). 
+
+[2:05:14](https://www.youtube.com/watch?v=J1Efz6E3_-0&t=2h05m14s) - The starsmen are from Kamorda, interest in having a home.based museum, have nobles coming in to show off, and very rich.
+
