@@ -270,6 +270,20 @@ It can only be sealed, and that was its tomb.
 [3:51:45](https://www.youtube.com/watch?v=M5lRGaV-xQk&t=3h51m45s) - Dillan, Elvish girl (teenager) who is mute. 
 She works with in a blacksmith called Umagorn Smeltborne, who can make magic swords with Iceflex.
 
+
+
+
+## Episode 74
+
+[1:35:30](https://www.youtube.com/watch?v=rMZYyG8qm-Y&t=3h51m45s) - There are two moons; Karthra (bright one), and Ruhedis (Brown, smaller, not always visible).
+Archemist Demit tells this (male gnome)
+
+* Karthra is meant to be "ill omens".
+* Ruhedis could be pre-creations, or doing Creation the Betrayer Gods were banished using it.
+
+[1:56:20](https://www.youtube.com/watch?v=rMZYyG8qm-Y&t=1h56m20s) - In Mithborow, 350 miles from here (East, South East), Southern ends of the alphs, a dragon is supossed to be resting, though unseen for a century - Gilidon The Nightmare in Ivory.
+
+
 ## Dalen's Closet
 
 [0:05:02](https://www.youtube.com/watch?v=0oclW3MXABA&t=0h05m02s) - Firstborn of Vex and Percy is named Vesper Elena de Rolo.
@@ -366,4 +380,52 @@ He sold a skull.
 It was sold to The Starsmen (winemen with interest for intequitice for decades). 
 
 [2:05:14](https://www.youtube.com/watch?v=J1Efz6E3_-0&t=2h05m14s) - The starsmen are from Kamorda, interest in having a home.based museum, have nobles coming in to show off, and very rich.
+
+## Mini Prime Time with Will Fiddell
+
+[0:09:42](https://www.youtube.com/watch?v=uO3Qt8XIAws&t=0h09m42s) - Molly worthship the Moonweaver
+
+2:29:45 - Yasha tells Obaan found her before. She was bound to him, came across a shrine of the Storm Lord, and just woke up more 'her'.
+
+2:34:45 - Yasha and Mollymok found each other in the circus
+
+
+## The Adventures of the Darrington Brigade
+
+[0:14:32](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h14m32s) - The year is 826
+
+[0:26:42](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h26m42s) - The Hubberdook Copperpots from Hubberdook (went off 9
+
+[0:27:3
+## Mini Prime Time with Will Fiddell
+
+[0:09:42](https://www.youtube.com/watch?v=uO3Qt8XIAws&t=0h09m42s) - Molly worthship the Moonweaver
+
+2:29:45 - Yasha tells Obaan found her before. She was bound to him, came across a shrine of the Storm Lord, and just woke up more 'her'.
+
+2:34:45 - Yasha and Mollymok found each other in the circus
+
+
+## The Adventures of the Darrington Brigade
+
+[0:14:32](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h14m32s) - The year is 826
+
+[0:26:42](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h26m42s) - The Hubberdook Copperpots from Hubberdook (went off 9
+
+[0:27:33](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h27m33s) - Darrington's books: The Man who should be King, The Blond the Brave and the Bold, And the Half Blood Prince, Darring Trials and Turbulations of Sir Darrington (15m44s)
+
+[0:33:20](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h27m33s) - Damian Vadoma is introduced
+
+1:46:25 - Syrin Green Forrest - largest forrest within the Empire.
+
+
+## Episode 90
+
+~~[0:00:00](https://www.youtube.com/watch?v=wdHE0avQRVw&t=0h00m00s)~~
+
+
+## Episode 91
+
+~~[0:00:00](&t=0h00m00s)~~
+
 
