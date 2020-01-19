@@ -1,0 +1,102 @@
+# Chapter X
+
+Adrex was panting hard for air.
+His wound didn't make it any easier, but the half-elf finally laid still... or at least, she wasn't putting up a fight anymore, cause it looked like she was trying to just not pass out.
+Not that he had any intentions of letting her.
+He needed answer, and no way would he let her pass before he had gotten them.
+
+He dropped his empty gun on the bramble of the tree he had taken cover behind, before he slowly stumbled his way towards her, one step at the time, still clutching his ribs that had lost scales in a straight line.
+He wouldn't die of it, he was sure, but it could get infected if he didn't do something about it soon.
+But that time was not now - it was time for answers of the past few weeks' senseless attacks from her.
+
+Taking another step towards her sent a shot of pain through his ribcage.
+
+*Note to self: don't place too much weight on the left side*, he thought to himself, as the anger slowly started to build.
+He could taste the poison he produced in his mouth, that apparently had started to leak.
+It wasn't nice, but neither was what he was about to do to her.
+
+Another step; less painful this time, as he continued towards her, his focus like a the blaze from fireworks going up.
+As she laid there, half focused on the bullet wound in her guts, she sent glances towards him - not of hate, but of fear.
+
+*Good*, he thought to himself.
+*Fear is rather justified right now*.
+
+A small grin could properly be seen on his face right now, if there was anyone to see it in this ruined landscape.
+The wind blew his cape up to the side as he cracked his fingers, readying his claws for something he never had done, but really wanted to for a long time.
+
+"I said" he started, before he had to cough twice, "-why of Tiamat's first plane of Hell do you keep chasing me?"
+
+He was just about to swipe at her, as another voice sounded from behind him:
+"You sound like you need some **manners**!"
+
+Adrex' head snapped directly behind him, where three individuals had... stepped out of... the tree?
+Although he wanted to keep his focus on them, it was way more pressing to keep his eyes on the iron bands that came flying towards him.
+He tried to shield himself with his left hand, but this wasn't just a net that was tossed at him.
+The bands wrap themself around his arm, before they continued to entangle his torso, which sent a wave of pain through him, sending him to his knees.
+And the bands kept encasing his entire body as never ending bandages; 
+His arms got locked in place, his legs got bound to each other, his head twisted straight, and his snout tightly wrapped tight to his jaw.
+A short second later he tilted to the side, landing hard on his left side, facing the girl.
+
+A fury grew in Adrex' mind, like a seething, red, expanding dot.
+He was *so* close to getting the answers out of this girl.
+She was no more than an arms reach away from him.
+But perhaps he could anyway.
+
+He slowly inhaled, as the taste became evermore present in his mouth, before it slowly started to bellow out of his mouth.
+As he exhaled as hard as he could, the venomous gas started to fill the space around his head, blowing out where he could open his lips ever so slightly.
+
+"Oh, no - I don't think you do" the male interjected.
+He sounded closer to Adrex without Adrex actually able to see him.
+A new set of bands snapped all around his mouth, and trapped the gas in his mouth and lounges.
+
+It hurt.
+A lot.
+And it kept hurting.
+
+This couldn't be it - this couldn't be how he went out. 
+Not after all the bullshit he had gone through. 
+The world couldn't possible be this unfair!
+
+As his eyes started blur from the water that filled them, two of the individuals had rushed and knelt next to the girl, sparking some sort of light around her.
+
+The last thing he heard was the words "dear - are you alright?".
+But they wasn't for him; he was no one's 'dear' anymore.
+
+___
+
+According to Adrex' mother, Bahamut would make sure your afterlife was pleasant.
+She had described it as being a floating existence, where all the ones that came before you would greet you, and all the hate you had ever had would be forgiven and mended.
+That was what happened when you ascended to the afterlife, because you lived a good and honest life.
+
+Adrex never really asked too much what would happen if you didn't live as such.
+How little honesty and good was required to *not* ascend.
+But that must have been the case for him, cause everything hurt - that was how he awoke.
+
+Not a slow, blurred awakening - it was a spontaneous slap in his face that did the trick, reawakening all the wounds he had.
+His eyes wide open, his mouth trying to gasp for air, but found his teeth still clinched together by the iron bands that had been there before.
+The air wasn't the same though - it was... old, moist, warmer, and his gasp had given a slight echo.
+
+His eyes started darting around, though his head was still locked in place, and his arms where now fixed to each side of his head, palms out towards a... dungeon?
+Torches lid up the place ever so slightly, as the white stones in the room formed a new existence for Adrex.
+To his right he could see the shape of the girl - all well, without a problem in her stomach, hand stretched out after the backhand lash she had just dealt him to get him back to consciousness.
+
+The male voice from earlier filled the room:
+"Thank you, dear.
+Let me do the talking from here, please".
+
+It wasn't an evil sounding voice, but it bore a grim tone to it.
+It sounded like too much confidence for Adrex' liking.
+
+As his eyes shifted focus, a white haired human halfway through his forties sat on a chair with his legs planted firmly in front of him.
+His white shirt underneath his brown vest had a emblem sewn into it, and his hands held... Adrex' gun.
+
+The man inspected it, turned it around, grabbed it firmly by the grip, and held it in a straight arm towards Adrex' left, before taking it in for another closer inspection.
+Poking around it, the human also found the way to open it up to quickly study, before his face became *very* grim, and his eyes pieced right into Adrex' own.
+
+
+<!-- 
+Where did you get it?
+Who did you get your hands on this?
+Where did you get it from?
+Do you know what this is?
+ -->
