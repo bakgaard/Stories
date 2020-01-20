@@ -93,6 +93,49 @@ His white shirt underneath his brown vest had a emblem sewn into it, and his han
 The man inspected it, turned it around, grabbed it firmly by the grip, and held it in a straight arm towards Adrex' left, before taking it in for another closer inspection.
 Poking around it, the human also found the way to open it up to quickly study, before his face became *very* grim, and his eyes pieced right into Adrex' own.
 
+"You are Adrex Scalenduur, if I am not mistaken?" he said in a monotone voice, without a hint of compassion or interest.
+
+It surprised Adrex the guy actually knew him, as his eyes started looking for clues out of this situation.
+This white haired human somehow...
+
+*Oh*, Adrex thought to himself, as the realization kicked in.
+
+"Mhh, mhhphh" Adrex hissed out of his sealed mouth.
+
+The human stood up, anger clearly showing across his face.
+"If you release just a hint of your poisoning gas, she-" he tilted his head towards someone Adrex couldn't see, "- will put an arrow through your skull before you have breathed your lounges out.
+Do I make myself perfectly clear, dragonborn?"
+
+He did, Adrex thought to himself.
+This might have been the clearest message he'd ever received.
+Did it really matter though?
+The girl had tried to kill him for weeks, and now he was... caged in the iron bands, and her toying with him.
+An arrow sounded like a quick death right now.
+But it was interesting company he had found himself in, and right now he didn't know who of the three was the most dangerous to him.
+
+The human snapped his finger, and the seal of Adrex' mouth and neck withdrew, allowing him to speak again.
+Watering his mouth and teeth, he rephrased his reply:
+"Yes, I am."
+
+Adrex took a glance around to see another half-elf female with long black hair, and a spiked bow already loaded standing ready in the shadow, her face not giving away anything.
+Her clothing was nice and fitted though - almost royal.
+But that confirmed it.
+
+Adrex continued before the human could ask his second question:
+
+"And you must be the parent of this..."
+*Uh, choose these words carefully*
+"girl, who have been trying to kill me over the past couple of weeks, I take?"
+
+The human tilted his head, now more curious than angry, one eyebrow up, as Adrex continued:
+"Based on the way you hold my gun, you know how to use it, which I believe only one individual know how to." 
+Adrex' eyes narrowed.
+"- which makes you a member of Vox Machina, if I am not mistaken?"
+
+His eyes had only one focus in the world, and that was trying to read this human.
+He might hold enough power over his wife and child to keep Adrex alive a bit more.
+The hair gave it away, and not even Yurgunn had known how to hold the gun the first time - this guy did.
+
 
 <!-- 
 Where did you get it?
