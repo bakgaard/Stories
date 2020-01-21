@@ -141,7 +141,8 @@ But this time there had been no theft.
 Adrex could see small grin on the human's face, before he pushed his circular spectacles up a nudge with two fingers, still holding Adrex' gun in his other hand.
 
 "You are correct - on both accounts, mr. Scalenduur" he said, putting both hands behind his back, standing firm in front of his prisoner.
-"Do you know why we did so?"
+"For the record - my name is Lord Percival de Rolo the Third of Whitestone.
+Do you know why we did so?"
 
 There was a moment of silence, while the dragonborn's eyes searched his memories.
 Adrex actually didn't know, even though he had questioned himself that many times over the past two weeks.
@@ -152,18 +153,27 @@ Nah, he and his family had never done anything to any other dragonborns, and the
 It couldn't be to get secrets out of him of how a certain trap he had constructed could be bypassed - he wouldn't be alive to tell it.
 So that left what he had done, and the biggest "crime" he could think of, was a deal he had made with the Krynn, and constructing the mobile trap, that had turned into...
 
-Adrex' eyes went from confusion to almost disbelief, as he looked back to the human.
+Adrex' eyes went from confusion to almost disbelief, as he looked back to the lord in front of him.
 "My guns?" he said, not really wanting to believe it.
 
 The girl suddenly chimed in: 
-"Dingeling - he got it!" with a heavy sarcasm.
+"Dingeling - he got it!" she exclaimed with a heavy sarcasm.
 
 *Why would they go after me?
 I'm not part of anything they have done!*
 
 "But I made them!" Adrex injected.
-"I came up with them".
+"I came up with them!"
 
+"You came up with nothing, mr. Scalenduur", Percival countered.
+"You might have made your own tweaks and modifications, but I most certainly guarantee you, you did not invent this monstrosity!"
+
+He raised Adrex' gun which he held over its barrel and trigger - Adrex knew it was empty for bullet, and the Lord of Whitestone properly did too.
+
+"The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire material plane!" 
+This most certainly had pulled a nerve with him.
+
+"When these things came into existance, it was out of "
 
 <!-- 
 Where did you get it?
