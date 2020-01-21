@@ -117,24 +117,52 @@ The human snapped his finger, and the seal of Adrex' mouth and neck withdrew, al
 Watering his mouth and teeth, he rephrased his reply:
 "Yes, I am."
 
-Adrex took a glance around to see another half-elf female with long black hair, and a spiked bow already loaded standing ready in the shadow, her face not giving away anything.
+Adrex took a glance around to see another half-elf female with long black hair, and a spiked bow already loaded standing ready in the shadow, her face not giving away anything but a stern look.
 Her clothing was nice and fitted though - almost royal.
 But that confirmed it.
 
 Adrex continued before the human could ask his second question:
 
-"And you must be the parent of this..."
+"And you must be the parents of this..."
 *Uh, choose these words carefully*
 "girl, who have been trying to kill me over the past couple of weeks, I take?"
 
-The human tilted his head, now more curious than angry, one eyebrow up, as Adrex continued:
-"Based on the way you hold my gun, you know how to use it, which I believe only one individual know how to." 
+The human tilted his head, now more curious than angry, one eyebrow up, so Adrex went on:
+"Based on the way you hold my gun, you know how to use it, which I believe only one individual knows how to." 
 Adrex' eyes narrowed.
-"- which makes you a member of Vox Machina, if I am not mistaken?"
+"- which makes you a member of Vox Machina, if *I* am not mistaken?"
 
 His eyes had only one focus in the world, and that was trying to read this human.
 He might hold enough power over his wife and child to keep Adrex alive a bit more.
-The hair gave it away, and not even Yurgunn had known how to hold the gun the first time - this guy did.
+They were the parents - hair gave it away, and not even Yurgunn had known how to hold the gun the first time, but this guy did.
+Which meant that this was an ugly bet with destiny, since Adrex only ever heard one thing about the Vox Machina, and that was the story old Cleff Tinkertop had told a few months back.
+But this time there had been no theft.
+
+Adrex could see small grin on the human's face, before he pushed his circular spectacles up a nudge with two fingers, still holding Adrex' gun in his other hand.
+
+"You are correct - on both accounts, mr. Scalenduur" he said, putting both hands behind his back, standing firm in front of his prisoner.
+"Do you know why we did so?"
+
+There was a moment of silence, while the dragonborn's eyes searched his memories.
+Adrex actually didn't know, even though he had questioned himself that many times over the past two weeks.
+He had ideas, but they sounded ridiculous when he went over them.
+He couldn't be for wealth - these guys looked like they had everything they needed, both in terms of equipment and magic - they could have everything they needed.
+Did they hate highborns? 
+Nah, he and his family had never done anything to any other dragonborns, and there would surely have been a ravenite gloating in here if that was the case.
+It couldn't be to get secrets out of him of how a certain trap he had constructed could be bypassed - he wouldn't be alive to tell it.
+So that left what he had done, and the biggest "crime" he could think of, was a deal he had made with the Krynn, and constructing the mobile trap, that had turned into...
+
+Adrex' eyes went from confusion to almost disbelief, as he looked back to the human.
+"My guns?" he said, not really wanting to believe it.
+
+The girl suddenly chimed in: 
+"Dingeling - he got it!" with a heavy sarcasm.
+
+*Why would they go after me?
+I'm not part of anything they have done!*
+
+"But I made them!" Adrex injected.
+"I came up with them".
 
 
 <!-- 
