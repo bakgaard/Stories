@@ -173,7 +173,27 @@ He raised Adrex' gun which he held over its barrel and trigger - Adrex knew it w
 "The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire material plane!" 
 This most certainly had pulled a nerve with him.
 
-"When these things came into existance, it was out of "
+"When these things came into existence, I struck a deal with a shadow demon, and the only thing that brought was pain and misery."
+He knelt down right in front of Adrex' face, before he hissed at Adrex.
+"Unless a certain Orthax is hiding within you, I'd guess you heard about these creations, and found a way to make them yourself for your own good."
+
+This somehow struck closer to home than Adrex would have expected.
+His gaze fell down at nothing in particular.
+He had struck a deal, and the gun and the rifle was made for his own good, but only as a mean to escape.
+
+Percival continued seeing the dragonborn's face.
+"It seems like I got close to the truth there, didn't I?
+And when you finally made this, you went of to sell it to the highest bidder, hm?
+Not considering the outcome of what would happen."
+
+"I did" Adrex replied a bit fast.
+
+"Just as I thought" replied the Lord of Whitestone, as he stood up from his crouched position.
+He started gesturing towards the half-elf in the shadow, that started pull her bowstring.
+
+"I *did* consider the consequences, and I had also struck a deal!"
+<!-- ... "I didn't have a choise" -->
+
 
 <!-- 
 Where did you get it?
