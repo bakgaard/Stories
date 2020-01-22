@@ -168,12 +168,12 @@ I'm not part of anything they have done!*
 "You came up with nothing, mr. Scalenduur", Percival countered.
 "You might have made your own tweaks and modifications, but I most certainly guarantee you, you did not invent this monstrosity!"
 
-He raised Adrex' gun which he held over its barrel and trigger - Adrex knew it was empty for bullet, and the Lord of Whitestone properly did too.
+He raised Adrex' gun which he held over its barrel and trigger - Adrex knew it was empty for bullet, and the Lord of Whitestone properly did too. <!-- A bit vague -->
 
-"The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire material plane!" 
+"The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire material plane!" <!-- Add emotion description -->
 This most certainly had pulled a nerve with him.
 
-"When these things came into existence, I struck a deal with a shadow demon, and the only thing that brought was pain and misery."
+"When these things came into existence, I struck a deal with a shadow demon, and the only thing these brought was pain and misery."
 He knelt down right in front of Adrex' face, before he hissed at Adrex.
 "Unless a certain Orthax is hiding within you, I'd guess you heard about these creations, and found a way to make them yourself for your own good."
 
@@ -181,17 +181,37 @@ This somehow struck closer to home than Adrex would have expected.
 His gaze fell down at nothing in particular.
 He had struck a deal, and the gun and the rifle was made for his own good, but only as a mean to escape.
 
-Percival continued seeing the dragonborn's face.
+Percival continued studying the dragonborn's face.
 "It seems like I got close to the truth there, didn't I?
 And when you finally made this, you went of to sell it to the highest bidder, hm?
 Not considering the outcome of what would happen."
 
-"I did" Adrex replied a bit fast.
+"I did" Adrex half replied, half countering.
 
 "Just as I thought" replied the Lord of Whitestone, as he stood up from his crouched position.
-He started gesturing towards the half-elf in the shadow, that started pull her bowstring.
+He gesturing towards the half-elf in the shadow, that started pull her bowstring.
+
+*What? 
+I just said... oh for Bahamut's sake!*
 
 "I *did* consider the consequences, and I had also struck a deal!"
+It came out a bit harsh, but time was of the essence if was not to end up dead.
+
+Lord de Rolo stopped in his movement, as he held up a finger to pause the execution.
+"Oh, it wasn't so much as *if* you considered it, but whether your intentions were good."
+He slowly turned around.
+
+"See, my daughter has a very special item with her, that allows her to quickly teleport back to another item.
+This item I keep with me at all times when she is on a mission."
+
+He reached for a coat hanging over a chair he had been sitting on, and pull out a small piece of metal.
+
+*Is that a used bullet?
+Oh, not good*, Adrex thought to himself.
+
+"You see, when she uses this item, it takes a second before the effect kicks in, and when the only thing I see coming back is the remains of .."
+
+<!-- I got through tree, and you said Tiamat - u ewul -->
 <!-- ... "I didn't have a choise" -->
 
 
