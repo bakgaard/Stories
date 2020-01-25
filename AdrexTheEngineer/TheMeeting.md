@@ -234,12 +234,12 @@ Still not easing the iron bands, Adrex felt no less pain, as he stumbled for wor
 "I was... cursing... not pray- aaarhh... praying."
 He had started gasping for air.
 
-Adrex needed a way out of this, and he needed it has.
-If he breathed his poison gas, the half-elf lady would shoot him with an arrow, and the Lord of Whitestone would properly do the same with a bullet, before crushing him with the iron bands.
+Adrex needed a way out of this, and he needed it fast.
+If he spew his poison gas, the half-elf lady would shoot him with an arrow, and the Lord of Whitestone would properly do the same with a bullet, before crushing him with the iron bands.
 
 What did he have to bargain with?
 His life? it seemed worthless to them.
-Something smooth to say? Even if he could think of something, he was in no state of actually the words.
+Something smooth to say? Even if he could think of something, he was in no state of actually say the words.
 That left him with information they wanted.
 
 "The designs..." he gasps, hoping this would at least spark an interest.
@@ -247,16 +247,36 @@ That left him with information they wanted.
 The girl, Vesper, injected faster than he got any further:
 "Your scroll got stolen by a Krynn, so now we're in an even worse state."
 
-<!-- Didn't know it was a Krynn / encrypted -->
+It would take them too long to understand the content of it, cause he didn't want the notes to fall into their hands either.
 
+"En... crypted..."
 
+*Arrrhhh, this hurts everywhere!*
 
-<!-- ... "I didn't have a choise" -->
+Suddenly the bands loosened ever so slightly, as the Lord of Whitestone grabbed his jaw, and turned it towards him.
 
+"Encrypted what?" he asked sternly"
 
-<!-- 
-Where did you get it?
-Who did you get your hands on this?
-Where did you get it from?
-Do you know what this is?
- -->
+Heaving air into his lounges as fast as he could, Adrex tried to regain some focus.
+
+"SPEAK" Percival demanded.
+
+"The scroll..." Adrex started, taking another shaking breath "... was written with an encryption.
+You can't read it, without the keystone."
+
+Percival released his grip, and Adrex' previous state of panic slowly faded, as a more focus self took over his train of thoughts, before he continued:
+"Or at least they won't for a while."
+
+There was silence in the room, but for Adrex still taking some audible breaths, trying to calm himself down.
+
+*It worked? 
+They are not killing me?*
+
+The Lord of Whitestone rose to his feet, pinching his eyebrows over the ridge of his nose.
+
+The half-elf lady suddenly uttered her first word: 
+"Darling?"
+
+Her husband held up his other hands index finger, as a sign to pause the upcoming question, before he asked one himself:
+"You say there is a keystone to figuring this out?"
+
