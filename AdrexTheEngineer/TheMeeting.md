@@ -195,23 +195,62 @@ He gesturing towards the half-elf in the shadow, that started pull her bowstring
 I just said... oh for Bahamut's sake!*
 
 "I *did* consider the consequences, and I had also struck a deal!"
-It came out a bit harsh, but time was of the essence if was not to end up dead.
+It came out a bit harsh, but time was of the essence if he was not to end up dead.
 
 Lord de Rolo stopped in his movement, as he held up a finger to pause the execution.
 "Oh, it wasn't so much as *if* you considered it, but whether your intentions were good."
 He slowly turned around.
 
-"See, my daughter has a very special item with her, that allows her to quickly teleport back to another item.
+"See, my daughter has a very special item with her, that allows her to quickly teleport back to its counterpart.
 This item I keep with me at all times when she is on a mission."
 
 He reached for a coat hanging over a chair he had been sitting on, and pull out a small piece of metal.
 
 *Is that a used bullet?
-Oh, not good*, Adrex thought to himself.
+Oh, not good*, Adrex thought to himself, as he swallowed.
 
-"You see, when she uses this item, it takes a second before the effect kicks in, and when the only thing I see coming back is the remains of .."
+"You see, when she uses this item, it takes a second before the effect kicks in, and when the only thing I see coming back is the remains of something that looks like my own bullets, I do not hesitate to take action.
+For fragments like these..." he held it up for inspection, pausing a bit, before his eyes narrowed down in Adrex' and continued:
+"-should not exist anywhere I am not".
 
-<!-- I got through tree, and you said Tiamat - u ewul -->
+He crouched down in front of Adrex again so their heads were leveled.
+"My friends and I have means to get around in this world, and do so extremely fast. 
+Locating my beloved daughter tasks no time, and finding a place to get to her takes only slightly longer."
+
+Percival's voice became even colder and almost a whisper, as he continued:
+"And when the first thing I see, emerging from the portal, is a dragonborn lying over my Vesper, claws out, ready to strike, praying to Tiamat, then it was only because I was dead set I could restrain you before you stroke, that I didn't shoot you dead on the spot."
+
+He twisted his fingers slightly, and the ironbands slowly started to tighten harder, squeezing Adrex to a painful state, to which Adrex' starterd to groan in pain:
+"I... I didn't... pray to... " 
+He had to use all his will to say the last part, as the bands tightened around his chest, shoulders, arms, and legs. 
+"... To Tiamat".
+
+"You know" the human retorted.
+"You are not the first dragonborn I've come across who had dealings with Tiamat.
+When we defeated the demigod Vecna about 20 years ago, we had help from another dragonborn, who was pretty keen set on bringing Tiamat back to this plane.
+I cannot help but wonder, if we just have a bad record with your kind, or there's something to it."
+
+Still not easing the iron bands, Adrex felt no less pain, as he stumbled for words:
+"I was... cursing... not pray- aaarhh... praying."
+He had started gasping for air.
+
+Adrex needed a way out of this, and he needed it has.
+If he breathed his poison gas, the half-elf lady would shoot him with an arrow, and the Lord of Whitestone would properly do the same with a bullet, before crushing him with the iron bands.
+
+What did he have to bargain with?
+His life? it seemed worthless to them.
+Something smooth to say? Even if he could think of something, he was in no state of actually the words.
+That left him with information they wanted.
+
+"The designs..." he gasps, hoping this would at least spark an interest.
+
+The girl, Vesper, injected faster than he got any further:
+"Your scroll got stolen by a Krynn, so now we're in an even worse state."
+
+<!-- Didn't know it was a Krynn / encrypted -->
+
+
+
 <!-- ... "I didn't have a choise" -->
 
 
