@@ -390,13 +390,6 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 2:34:45 - Yasha and Mollymok found each other in the circus
 
 
-## The Adventures of the Darrington Brigade
-
-[0:14:32](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h14m32s) - The year is 826
-
-[0:26:42](https://www.youtube.com/watch?v=pVu_Ib1fpVI&t=0h26m42s) - The Hubberdook Copperpots from Hubberdook (went off 9
-
-[0:27:3
 ## Mini Prime Time with Will Fiddell
 
 [0:09:42](https://www.youtube.com/watch?v=uO3Qt8XIAws&t=0h09m42s) - Molly worthship the Moonweaver

@@ -255,14 +255,14 @@ It would take them too long to understand the content of it, cause he didn't wan
 
 Suddenly the bands loosened ever so slightly, as the Lord of Whitestone grabbed his jaw, and turned it towards him.
 
-"Encrypted what?" he asked sternly"
+"Encrypted what?" he asked sternly.
 
 Heaving air into his lounges as fast as he could, Adrex tried to regain some focus.
 
-"SPEAK" Percival demanded.
+"SPEAK!" Percival demanded.
 
 "The scroll..." Adrex started, taking another shaking breath "... was written with an encryption.
-You can't read it, without the keystone."
+You can't read it... without the keystone."
 
 Percival released his grip, and Adrex' previous state of panic slowly faded, as a more focus self took over his train of thoughts, before he continued:
 "Or at least they won't for a while."
@@ -277,6 +277,29 @@ The Lord of Whitestone rose to his feet, pinching his eyebrows over the ridge of
 The half-elf lady suddenly uttered her first word: 
 "Darling?"
 
-Her husband held up his other hands index finger, as a sign to pause the upcoming question, before he asked one himself:
-"You say there is a keystone to figuring this out?"
+Her husband held up his other hand's index finger, as a sign to pause the upcoming question, before he asked one himself:
+"You say there is a keystone translate it?"
 
+*Well, I didn't escape entirely.*
+
+"Yes" Adrex said, more focused and calm, though he was still restrained.
+"But they don't know yet, so will properly come back for me."
+
+*Oh shit, it's not just me they will come back for - Yurgunn!*
+
+He looked up with a horrified expression to the human.
+"We have to get that scroll back - if not they will go after my master, and try to get the key from her."
+
+"Agree" Percival said. 
+"We do indeed need to get it from them, but what are the keystone to decrypting the scroll?"
+
+"It's a book, but please - if they see this hindrance, they will not hesitate to-" Adrex continued before was interrupted again.
+
+"Which book?" Percival asked again, his tone slightly annoyed.
+
+"They can get to her within an hour, because they-"
+
+It went so fast Adrex almost didn't understand the movements that followed.
+While he had been making his gun, he had multiple times looked into the barrel for cleaning and polishing, but never had he seen such a beautiful barrel stuck right up in face... which he then realized was truly a horrible experience.
+
+"WHICH BOOK!?"
