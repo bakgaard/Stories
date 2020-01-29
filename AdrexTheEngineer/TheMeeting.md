@@ -283,15 +283,16 @@ Her husband held up his other hand's index finger, as a sign to pause the upcomi
 *Well, I didn't escape entirely.*
 
 "Yes" Adrex said, more focused and calm, though he was still restrained.
-"But they don't know yet, so will properly come back for me."
+"But they don't know yet, so they will properly come back for me."
 
-*Oh shit, it's not just me they will come back for - Yurgunn!*
+The a horrible realization went through him.
+*It's not just me they will come back for - Yurgunn!*
 
 He looked up with a horrified expression to the human.
 "We have to get that scroll back - if not they will go after my master, and try to get the key from her."
 
-"Agree" Percival said. 
-"We do indeed need to get it from them, but what are the keystone to decrypting the scroll?"
+"Agree" Percival said rather calm.
+"We do indeed need to get it from them, but what is the keystone to decrypting the scroll?"
 
 "It's a book, but please - if they see this hindrance, they will not hesitate to-" Adrex continued before was interrupted again.
 
@@ -299,7 +300,55 @@ He looked up with a horrified expression to the human.
 
 "They can get to her within an hour, because they-"
 
-It went so fast Adrex almost didn't understand the movements that followed.
-While he had been making his gun, he had multiple times looked into the barrel for cleaning and polishing, but never had he seen such a beautiful barrel stuck right up in face... which he then realized was truly a horrible experience.
+It went so fast Adrex almost didn't understand what he was looking at.
+While he had been making his gun, he had multiple times looked into the barrel for cleaning and polishing, but never had he seen such a beautiful barrel stuck right up in face... which he then realized was the very last thing he might ever see.
 
-"WHICH BOOK!?"
+"WHICH BOOK!?" the Lord of Whitestone roared to him, standing with his own gun to Adrex' forehead.
+
+*That can't possibly be more important than saving a life?
+Why is he so hyped about decrypting it?*
+
+Adrex hesitated a second too long for Percival, who then lifted the barrel and placed it on Adrex' head, which followed a blast that did not leave any hair on Adrex' head, if he had had any.
+The sound didn't come before a heatwave had left the barrel, pressing his scale to his cranium with the immense force that left the tip of Percival's gun.
+The split second after Adrex' heart skipped a beat, he suddenly realized he was way too close to the receiving end of the gun barrel.
+The barrel rested on top of Adrex' head, now suddenly very warm, and the pain on top of his head was excruciating for a second or two, before it cooled to merely warm.
+
+But Adrex' widespread eyes must have been exactly what his interrogator had wanted to see, though it wasn't a smile that curled up on his face, but more of a relief one person has after trying to explain something, and the receiving party finally gets it.
+Percival stowed away his own gun, as he kneeled down to the dragonborn again, his face more grim than irritated.
+
+"It's not that I hate you, mr. Scalenduur, it's because I hate what you made."
+
+*I made something like what you made?*, Adrex thought but didn't say out loud, before Percival continued.
+
+"When I created this weapon, I was in a very bad place, and the only thing I wanted was hurting a specific amount of people.
+That is what they are good for."
+He held a small pause, as he let the words sink in.
+
+"What you have made, mr. Scalenduur, is the same thing, just by the look of it, and the tales of my daughter.
+I don't know if you hated someone as well, but this cannot be released to the rest of the world.
+If it ever saw the hand of the any organization, be that a small group of people, a faction, or even an army, the world would change and not for the better."
+
+Adrex was starting to sweat ever so slightly.
+There might was something he should leave out of a upcoming response.
+
+"... so when I ask about which book that can decrypt this message, it's because I care more about the rest of the society than about a single individual.
+I hope you can understand that."
+His tone then shifted to a more friendly one:
+"With that said, I will see if I can get her to safety as well, but I need to know which book holds the key."
+
+Adrex swallowed.
+This was properly his last chance to get out of this alive if he played his cards right.
+He might as well see if Percival would go through with his promise.
+
+"The book is a popular one I found at a library.
+It had to be, because I needed a way to decrypt it myself without bringing the book along.
+So I went to a book store, and asked what was popular. 
+It could have been poetry, cook books, gardening books - just something that was everywhere.
+And I was told a new book had come out, which was cheap, and it was sent to every store in the region..."
+
+"Do tell", Percival said sounding very interested.
+
+"It's called 'Darring Trials and Turbulations of Sir Darrington' - I was told it was a fiction book, which-"
+
+He was cut off by Vesper, the girl, who suddenly interjects:
+"Isn't that Uncle's new book?"
