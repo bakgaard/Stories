@@ -378,12 +378,33 @@ It apparently didn't sound like too big of an issue to her.
 Still wrapped up in the iron bands, the tone had most certainly changed from interrogation to problem solving.
 "Ehm..."
 Adrex had to think about it for a second.
-"No, they never got to see the inside of the scroll, nor know it was encrypted" he replied quite innocent.
+"No, they never got to see the inside of the scroll, nor know it was encrypted" he replied after a bit of thought.
 
-Percival looked Adrex to Vesper, back and forth, before he snapped his fingers.
-The iron bands started to magically extract them selves, until they only wrapped around Adrex' wrist, which they tied them self together in front of him.
+Percival looked from Adrex to Vesper, back and forth, before he snapped his fingers.
+The iron bands started to magically extract themselves, until they only wrapped around Adrex' wrist, which they tied them self together in front of him, his palms very close together.
 
-"You are coming with us, mr. Scalenduur"
+"You are coming with us, mr. Scalenduur" Percival said, his back already turned to him, and heading for the only door in the room.
+
+Perplexed about the situation, Adrex stood still for a moment, as the Lord of Whitestone and his daughter left.
+He turned his gaze to the Lady of Whitestone, who gave him a stern look, and a nod towards the door, as her fingers softly tapped the string of the bow she held.
+
+*I am coming with you, apparently*, he thought to himself.
+His body was still hurting from both the fight and the interrogation, but he would manage.
+
+As he left out through the door, he started wondering if this was better, than wondering the ruins of Draconia and constantly being chased by enemies trying to kill him with unknown motives.
+Right now he was caught, but they hadn't killed him, which had to be an better somehow, but he wasn't sure.
+He wasn't exactly free to do anything.
+
+Leading him up through several flights of stairs, he caught a glimpse out of a window to a large lake way below the castle he was being held in.
+*What a view*, he thought to himself, as the half-elf behind him nudged him onwards.
+
+He arrived in an office with a large desk filled with paper, books piled on- and next to i.
+The fireplace behind it was lit, and gave a cozy feel to the room, as 
+
+<!-- Percy behind desk, Vesper in couch, Vex at wall, Huge board tracking Adrex on wall -->
+
+
+
 
 
 <!-- and in less than a day they know it is unreadable.
