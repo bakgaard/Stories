@@ -348,7 +348,45 @@ And I was told a new book had come out, which was cheap, and it was sent to ever
 
 "Do tell", Percival said sounding very interested.
 
-"It's called 'Darring Trials and Turbulations of Sir Darrington' - I was told it was a fiction book, which-"
+"It's called 'Darring Trials and Turbulations of Sir Darrington'. 
+I was told it was a fiction book, which-"
 
 He was cut off by Vesper, the girl, who suddenly interjects:
 "Isn't that Uncle's new book?"
+
+*No way...*
+
+The Lady of Whitestone had lowered her bow, and had started shaking her head.
+"I think we received a few copies from him, if you need one, darling"
+
+Her husband shook his head.
+"I don't need it, but the Krynn Empire do." 
+His voice went from relieved to troubled.
+"And they can easily get one, which means we have got to act fast, but we need to be smart about this."
+
+"Can't you just portal in, and torch it?" Vesper chipped in. 
+It apparently didn't sound like too big of an issue to her.
+
+"No, absolutely not" Percival responded in a serious tone.
+"If we get recognized - and we will - we would have declared war with an entire empire."
+
+"But they won't know who I am" Vesper countered, firm in her conviction.
+
+"You are not supposed to be seen in the first place, but I fear they will anyway" her father responded, a bit bitter about the situation.
+"They have the scroll, and I assume they also have the keystone?" he said as he turned to Adrex again.
+
+Still wrapped up in the iron bands, the tone had most certainly changed from interrogation to problem solving.
+"Ehm..."
+Adrex had to think about it for a second.
+"No, they never got to see the inside of the scroll, nor know it was encrypted" he replied quite innocent.
+
+Percival looked Adrex to Vesper, back and forth, before he snapped his fingers.
+The iron bands started to magically extract them selves, until they only wrapped around Adrex' wrist, which they tied them self together in front of him.
+
+"You are coming with us, mr. Scalenduur"
+
+
+<!-- and in less than a day they know it is unreadable.
+They will no doubt try to contact mr. Scalendurr-" he waved his hand in Adrex' generel direction
+"- and if they find out he is long gone, they will do everything in their power to track him down.
+And I doubt even Gilmore will be able to shield us from them." -->
