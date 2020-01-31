@@ -399,7 +399,22 @@ Leading him up through several flights of stairs, he caught a glimpse out of a w
 *What a view*, he thought to himself, as the half-elf behind him nudged him onwards.
 
 He arrived in an office with a large desk filled with paper, books piled on- and next to i.
-The fireplace behind it was lit, and gave a cozy feel to the room, as 
+The fireplace behind it was lit, and gave a cozy feel to the room, as he saw Vesper drop down into a couch large enough for three people facing the door, rather than the desk.
+Percival sat down behind the desk as Adrex entered, gesturing to couch for him to take a seat, though it was more of a formality based on his facial expression.
+
+Adrex hesitated again for a second, which resulted in a tip of a bow poking him into the room, as the half-elf had no time to wait for Adrex to leave the doorway.
+She closed the door to the room, as Adrex stood a it confused to why he was there.
+Even though the gesture to sit down was nice, there was a small problem - Adrex had a tail, and he couldn't just curl it up like Artimis could which was why there always was a stool for him... well, almost always.
+Glancing around the room for one, he finally saw huge board on the wall next to the door.
+Parchment hang all around with colored linen threads connecting the nails that kept the parchment up.
+He took a step closer to inspect it, with his mouth hanging slightly open, as he recognized a sketch of himself... in the middle of it all.
+
+*This is not a safe room to be in*, he thought to himself, as he started looking around at the connections.
+Right next to him was a parchment with "Guns", leading to another piece saying just "Me". 
+Adrex assumed this must be the Lord of Whitestone.
+Another piece from the "Guns" said "Black powder", leading to a piece saying "Firework", leading to "Hupperdook", and back to Adrex.
+
+
 
 <!-- Percy behind desk, Vesper in couch, Vex at wall, Huge board tracking Adrex on wall -->
 
