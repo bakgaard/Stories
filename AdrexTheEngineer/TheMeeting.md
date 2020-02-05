@@ -398,12 +398,12 @@ He wasn't exactly free to do anything.
 Leading him up through several flights of stairs, he caught a glimpse out of a window to a large lake way below the castle he was being held in.
 *What a view*, he thought to himself, as the half-elf behind him nudged him onwards.
 
-He arrived in an office with a large desk filled with paper, books piled on- and next to i.
+He arrived in an office with a large desk filled with papers, scrolls, and books piled on- and next to each other.
 The fireplace behind it was lit, and gave a cozy feel to the room, as he saw Vesper drop down into a couch large enough for three people facing the door, rather than the desk.
-Percival sat down behind the desk as Adrex entered, gesturing to couch for him to take a seat, though it was more of a formality based on his facial expression.
+Percival sat down behind the desk as Adrex entered, gesturing to the couch for him to take a seat, though it was more of a formality, based on his facial expression.
 
-Adrex hesitated again for a second, which resulted in a tip of a bow poking him into the room, as the half-elf had no time to wait for Adrex to leave the doorway.
-She closed the door to the room, as Adrex stood a it confused to why he was there.
+Adrex hesitated again for a second, which resulted in a tip of a bow poking him into the room, as the half-elf had no time to wait for Adrex to enter from the doorway.
+She closed the door to the room, as Adrex stood a bit confused to why he was there.
 Even though the gesture to sit down was nice, there was a small problem - Adrex had a tail, and he couldn't just curl it up like Artimis could which was why there always was a stool for him... well, almost always.
 Glancing around the room for one, he finally saw huge board on the wall next to the door.
 Parchment hang all around with colored linen threads connecting the nails that kept the parchment up.
@@ -413,12 +413,56 @@ He took a step closer to inspect it, with his mouth hanging slightly open, as he
 Right next to him was a parchment with "Guns", leading to another piece saying just "Me". 
 Adrex assumed this must be the Lord of Whitestone.
 Another piece from the "Guns" said "Black powder", leading to a piece saying "Firework", leading to "Hupperdook", and back to Adrex.
+From "Guns" was a connection to the word "Orthax" - Adrex thought he might have heard that mentioned earlier in the dungeon, which connected to both "Me" and "Adrex".
+Then there were connections between "Krynn empire" to "gun", to "Adrex", to Hupperdook", connecting to other names Adrex hadn't heard of before.
 
+Percival interrupted Adrex' study:
+"Yes, that must seem like a huge conspiracy to you."
+He halted for a second before he added a bit quieter: 
+"... which it technically is..."
 
+Adrex turned to face him, rather concerned by it:
+"You created the first gun, is that correct?"
+He was actually pretty sure about it, but he needed confirmation for his next question.
 
-<!-- Percy behind desk, Vesper in couch, Vex at wall, Huge board tracking Adrex on wall -->
+The Lord of Whitestone folded his fingers in front of his face, elbows resting on the table, his face giving nothing away:
+"Yes, I did."
 
+"So you came after me just because I made them as well?"
 
+Percival rested to the back of the seat, as he started explaining, a bit tired though not frustrated:
+"I assume you know, that me and my wife-" he nodded to the half-elf "-Vex'ildan, were part of Vox Machina about 20 years ago.
+Back then we did everything that the world required of us, because someone had to do it.
+We took out evil entities that had occupied other peoples residents on several occasions, rescued important members of high councils, freed Tal'Dorei of The Chroma Conclave which I'm sure you know about-" said more fatter-of-fact.
+And Adrex sure had - that was the entire reason for his family being in Hupperdook, and all their xenophobic habits.
+
+"We did get some time off for our self at some point after that, but you are never really 'off duty' when you first save the continent ones.
+I spend a good half a year trying to locate the whereabouts of an old enemy, who had stolen my designs, and started distributing it to her followers.
+And when I finally found her, she had already made plans of selling it to the highest bidder" <!-- Verify this -->
+
+Percival lowered his fingers to the table, as his eyes bore into Adrex'.
+"Please do understand, that my designs were never meant to make anything better in this world.
+They were only meant for revenge, which I got when I finally pinned her to the ground to not rise again."
+
+Adrex had to swallow before he tried his sentence:
+"I am sorry she stole them from you, but I didn't really know you existed when I invented my design."
+
+The stare-off lasted for another three seconds, before Percival looked down into the table, and mutter:
+"No, you properly didn't."
+
+He stood up slowly from his seat, and started walking around the table towards the board and the cuffed Adrex.
+"But I am sure, that you understand the thread *our* designs pose to all people and creatures in this world.
+And being the creator of something this powerful, we have a certain responsibility to ensure, that it does not fall into the hands of the wrong people."
+
+He reached the board, and started touching a few of the parchment pieces.
+"Do fill me in, though I think I know the gist of most of these" he started, before he added "-please".
+
+It couldn't hurt, could it?
+He was at the Lord of Whitestone mercy anyway, and if he could slay dragons, he had absolutely no problem slaying a cuffed dragonborn.
+Adrex might as well...
+
+"I first found out something was amiss when I visited my supplier of black powder, who lives in Hupperdook" he started, pointing to piece reading 'Rocket of Sparkles and Glitter', which Adrex first now recognized - the Twins' store.
+"The two granddaughters of the dear Victor had come up with a new way to send up rockets - they had made pipes that shot them up."
 
 
 
