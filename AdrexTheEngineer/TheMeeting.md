@@ -461,8 +461,37 @@ It couldn't hurt, could it?
 He was at the Lord of Whitestone mercy anyway, and if he could slay dragons, he had absolutely no problem slaying a cuffed dragonborn.
 Adrex might as well...
 
-"I first found out something was amiss when I visited my supplier of black powder, who lives in Hupperdook" he started, pointing to piece reading 'Rocket of Sparkles and Glitter', which Adrex first now recognized - the Twins' store.
-"The two granddaughters of the dear Victor had come up with a new way to send up rockets - they had made pipes that shot them up."
+"I first found out something was amiss when I visited my supplier of black powder, who lives in Hupperdook" he started, pointing to piece reading 'Rocket of Sparkles and Glitter', which Adrex first now recognized - the twins' store.
+"The two granddaughters of the dear Victor had come up with a new way to send up rockets - they had made pipes that shot them up.
+It didn't take more than a smile and a kind compliment before they told me a local tinker had come up with it, though they wouldn't tell who.
+Didn't take long to find the closet tinker shop, which had way too many clocks and gadgets lying around, and the..." he skimped around the board "... Tinkertop, I think, was kind enough to tell me, that he didn't work with powder."
+A smile on his right side of his face showed.
+"But he told me you did some work with it, mr. Scalenduur."
+
+Adrex remembered Cleff Tinkertop rather well in this very moment.
+He was the one, who had warned him about Vox Machina in the first place, and who had made Adrex take extra precautions, though apparently not enough.
+
+"Did he recognize you, when you met him?" Adrex asked a bit quick and worried.
+
+The lord shot up an eyebrow, though he did reply: 
+"No, I doubt neither of us had ever seen each other before.
+Any chance he should know me?"
+
+Adrex had turned back to the board.
+Cleff had been the one telling him about how Vox Machina had tracked down the thief, and left only tales about it.
+Whether or not it had been Vox Machina's intentions, it had certainly had the effect they had hoped for.
+
+"He did mention your group at some point" Adrex started.
+"It was just the story of you, but it seemed rather... unbelievable."
+He made another short pause before injecting: "-with the demogod and all."
+
+"Yes, the rise of Vecna" Percival said a bit grim.
+"I know this is a far shot, but do you know of a red scaled dragonborn called Arkon the Vile?"
+
+Adrex had never heard of him, and just shook his head.
+An 'oh well' expression showed briefly on the human's face. 
+"Didn't expect you to, but you do show up where I don't want you to.
+Like you showed up outside of the Xhorhasian epimire's capital..."
 
 
 
