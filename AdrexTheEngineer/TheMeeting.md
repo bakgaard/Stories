@@ -492,7 +492,33 @@ He made another short pause before injecting: "-with the demogod and all."
 Adrex had never heard of him, and just shook his head.
 An 'oh well' expression showed briefly on the human's face. 
 "Didn't expect you to, but you do show up where I don't want you to.
-Like you showed up outside of the Xhorhasian epimire's capital..."
+Like you showed up outside the Xhorhasian Empire's capital with a scroll specifying how to take over the world by forces not meant to be wielded by the world".
+
+"It wasn't like I had a choice" Adrex countered.
+"I had signed a - what I found out later - magical contract, so I have to comply with it.
+I even found a loophole out of-", but the Lord of Whitestone cut him off.
+
+"I care little about whatever loophole you think you found" in a dead serious tone.
+"You, mr. Scalenduur, care about very few things in this world, and since you *think* you found a loophole, I can already tell you, that it will not cut it."
+From his desk he grasped a piece of paper, and held it so Adrex could see it; it was the contract signed by Adrex.
+
+*How is this possible?*
+*If he has this he must have been...*
+Adrex' gaze spun to the board again, locating all the strings from his parchment, and followed the lines until he found the one he was looking for.
+He dared not think it, as he reached for the parchment with his master's name on it.
+"What does the little line in the top-right corner mean?" he asked in a both tense and worried question.
+
+Percival turned back to his desk, as he reached for something at his waist.
+"A cross in the top-right corner means they are dead" he said calmly, sending an intense shimmer down Adrex' spine, before he continued:
+"And half of that - one line - means I have captured them."
+
+He had reached the opposite site of his desk, as his own gun again pointed towards Adrex.
+"I read your contract, and the notes you made about encrypting it, but when I tell you that it will not get you out of it, I might as well tell you what you will do when you find out."
+His voice had become cold and grim yet again.
+
+Adrex was fighting back an urge to unleash whatever venomous gas he could, but now it would also cost the life of Yurgunn.
+
+<!-- Where is she. Doesn't matter, what does is you will find out it didn't work, and give them all they want. Now you also have to destroy it. -->
 
 
 
