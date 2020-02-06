@@ -22,9 +22,9 @@ As she laid there, half focused on the bullet wound in her guts, she sent glance
 *Fear is rather justified right now*.
 
 A small grin could properly be seen on his face right now, if there was anyone to see it in this ruined landscape.
-The wind blew his cape up to the side as he cracked his fingers, readying his claws for something he never had done, but really wanted to for a long time.
+The wind blew his cape up to the side as he cracked his fingers, readying his claws for something he had never done, but really wanted to for a long time.
 
-"I said" he started, before he had to cough twice, "-why of Tiamat's first plane of Hell do you keep chasing me?"
+"I said..." he started, before he had to cough twice, "-why of Tiamat's first plane of Hell do you keep chasing me?"
 
 He was just about to swipe at her, as another voice sounded from behind him:
 "You sound like you need some **manners**!"
@@ -39,7 +39,7 @@ A short second later he tilted to the side, landing hard on his left side, facin
 
 A fury grew in Adrex' mind, like a seething, red, expanding dot.
 He was *so* close to getting the answers out of this girl.
-She was no more than an arms reach away from him.
+She was no more than an arm's reach away from him.
 But perhaps he could anyway.
 
 He slowly inhaled, as the taste became evermore present in his mouth, before it slowly started to bellow out of his mouth.
@@ -95,7 +95,7 @@ Poking around it, the human also found the way to open it up to quickly study, b
 
 "You are Adrex Scalenduur, if I am not mistaken?" he said in a monotone voice, without a hint of compassion or interest.
 
-It surprised Adrex the guy actually knew him, as his eyes started looking for clues out of this situation.
+It surprised Adrex the guy actually knew him, as his eyes pierced around, looking for clues of a way out of this situation.
 This white haired human somehow...
 
 *Oh*, Adrex thought to himself, as the realization kicked in.
@@ -109,7 +109,7 @@ Do I make myself perfectly clear, dragonborn?"
 He did, Adrex thought to himself.
 This might have been the clearest message he'd ever received.
 Did it really matter though?
-The girl had tried to kill him for weeks, and now he was... caged in the iron bands, and her toying with him.
+The girl had tried to kill him for weeks, and now he was... caged in the iron bands, and she could toy with him.
 An arrow sounded like a quick death right now.
 But it was interesting company he had found himself in, and right now he didn't know who of the three was the most dangerous to him.
 
@@ -117,7 +117,7 @@ The human snapped his finger, and the seal of Adrex' mouth and neck withdrew, al
 Watering his mouth and teeth, he rephrased his reply:
 "Yes, I am."
 
-Adrex took a glance around to see another half-elf female with long black hair, and a spiked bow already loaded standing ready in the shadow, her face not giving away anything but a stern look.
+Adrex took a glance around to see another half-elf female with long black hair - an adult, and a spiked bow already loaded standing ready in the shadow, her face not giving away anything but a stern look.
 Her clothing was nice and fitted though - almost royal.
 But that confirmed it.
 
@@ -134,20 +134,20 @@ Adrex' eyes narrowed.
 
 His eyes had only one focus in the world, and that was trying to read this human.
 He might hold enough power over his wife and child to keep Adrex alive a bit more.
-They were the parents - hair gave it away, and not even Yurgunn had known how to hold the gun the first time, but this guy did.
+They were the parents - their hair gave it away, and not even Yurgunn had known how to hold the gun the first time, but this guy did.
 Which meant that this was an ugly bet with destiny, since Adrex only ever heard one thing about the Vox Machina, and that was the story old Cleff Tinkertop had told a few months back.
-But this time there had been no theft.
+<!-- But this time there had been no theft. -->
 
-Adrex could see small grin on the human's face, before he pushed his circular spectacles up a nudge with two fingers, still holding Adrex' gun in his other hand.
+Adrex could see a small grin on the human's face, before he pushed his circular spectacles up a nudge with two fingers, still holding Adrex' gun in his other hand.
 
 "You are correct - on both accounts, mr. Scalenduur" he said, putting both hands behind his back, standing firm in front of his prisoner.
 "For the record - my name is Lord Percival de Rolo the Third of Whitestone.
-Do you know why we did so?"
+Do you know why we sent her?"
 
 There was a moment of silence, while the dragonborn's eyes searched his memories.
 Adrex actually didn't know, even though he had questioned himself that many times over the past two weeks.
 He had ideas, but they sounded ridiculous when he went over them.
-He couldn't be for wealth - these guys looked like they had everything they needed, both in terms of equipment and magic - they could have everything they needed.
+He couldn't be for wealth - these guys looked like they had everything they needed, both in terms of equipment and magic - they could have everything they wanted.
 Did they hate highborns? 
 Nah, he and his family had never done anything to any other dragonborns, and there would surely have been a ravenite gloating in here if that was the case.
 It couldn't be to get secrets out of him of how a certain trap he had constructed could be bypassed - he wouldn't be alive to tell it.
@@ -170,7 +170,7 @@ I'm not part of anything they have done!*
 
 He raised Adrex' gun which he held over its barrel and trigger - Adrex knew it was empty for bullet, and the Lord of Whitestone properly did too. <!-- A bit vague -->
 
-"The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire material plane!" <!-- Add emotion description -->
+"The only thing you came up with, was a way for the Krynn Dynasty to rage war upon the rest of its continent, if not the entire Prime Material Plane!" <!-- Add emotion description -->
 This most certainly had pulled a nerve with him.
 
 "When these things came into existence, I struck a deal with a shadow demon, and the only thing these brought was pain and misery."
@@ -199,7 +199,7 @@ It came out a bit harsh, but time was of the essence if he was not to end up dea
 
 Lord de Rolo stopped in his movement, as he held up a finger to pause the execution.
 "Oh, it wasn't so much as *if* you considered it, but whether your intentions were good."
-He slowly turned around.
+He turned around slowly.
 
 "See, my daughter has a very special item with her, that allows her to quickly teleport back to its counterpart.
 This item I keep with me at all times when she is on a mission."
@@ -232,7 +232,7 @@ I cannot help but wonder, if we just have a bad record with your kind, or there'
 
 Still not easing the iron bands, Adrex felt no less pain, as he stumbled for words:
 "I was... cursing... not pray- aaarhh... praying."
-He had started gasping for air.
+He had started gasping for air, as his left side of his ribcage sent pain flowing through him.
 
 Adrex needed a way out of this, and he needed it fast.
 If he spew his poison gas, the half-elf lady would shoot him with an arrow, and the Lord of Whitestone would properly do the same with a bullet, before crushing him with the iron bands.
@@ -245,13 +245,13 @@ That left him with information they wanted.
 "The designs..." he gasps, hoping this would at least spark an interest.
 
 The girl, Vesper, injected faster than he got any further:
-"Your scroll got stolen by a Krynn, so now we're in an even worse state."
+"Your scroll got stolen by a Krynn, so now they know everything!"
 
-It would take them too long to understand the content of it, cause he didn't want the notes to fall into their hands either.
+It would take the Krynn too long to understand the content of it, cause Adrex didn't want the notes to fall into their hands.
 
 "En... crypted..."
 
-*Arrrhhh, this hurts everywhere!*
+*Arrrhhh, it hurts everywhere!*
 
 Suddenly the bands loosened ever so slightly, as the Lord of Whitestone grabbed his jaw, and turned it towards him.
 
@@ -318,18 +318,18 @@ Percival stowed away his own gun, as he kneeled down to the dragonborn again, hi
 
 "It's not that I hate you, mr. Scalenduur, it's because I hate what you made."
 
-*I made something like what you made?*, Adrex thought but didn't say out loud, before Percival continued.
+*I made something like what you made*, Adrex thought but didn't say out loud, before Percival continued.
 
 "When I created this weapon, I was in a very bad place, and the only thing I wanted was hurting a specific amount of people.
 That is what they are good for."
 He held a small pause, as he let the words sink in.
 
-"What you have made, mr. Scalenduur, is the same thing, just by the look of it, and the tales of my daughter.
+"What you have made, mr. Scalenduur, is the same thing, just by the look of it, and the tales from my daughter.
 I don't know if you hated someone as well, but this cannot be released to the rest of the world.
-If it ever saw the hand of the any organization, be that a small group of people, a faction, or even an army, the world would change and not for the better."
+If it ever saw the hand of any organization, be that a small group of people, a faction, or even an army, the world would change, and not for the better."
 
 Adrex was starting to sweat ever so slightly.
-There might was something he should leave out of a upcoming response.
+There might be something he should leave out of a upcoming response.
 
 "... so when I ask about which book that can decrypt this message, it's because I care more about the rest of the society than about a single individual.
 I hope you can understand that."
@@ -342,7 +342,7 @@ He might as well see if Percival would go through with his promise.
 
 "The book is a popular one I found at a library.
 It had to be, because I needed a way to decrypt it myself without bringing the book along.
-So I went to a book store, and asked what was popular. 
+So I went to a book store, and asked for what was popular. 
 It could have been poetry, cook books, gardening books - just something that was everywhere.
 And I was told a new book had come out, which was cheap, and it was sent to every store in the region..."
 
@@ -373,7 +373,7 @@ It apparently didn't sound like too big of an issue to her.
 "But they won't know who I am" Vesper countered, firm in her conviction.
 
 "You are not supposed to be seen in the first place, but I fear they will anyway" her father responded, a bit bitter about the situation.
-"They have the scroll, and I assume they also have the keystone?" he said as he turned to Adrex again.
+"They have the scroll, and I assume they also know about the keystone?" he said as he turned to Adrex again.
 
 Still wrapped up in the iron bands, the tone had most certainly changed from interrogation to problem solving.
 "Ehm..."
@@ -381,7 +381,7 @@ Adrex had to think about it for a second.
 "No, they never got to see the inside of the scroll, nor know it was encrypted" he replied after a bit of thought.
 
 Percival looked from Adrex to Vesper, back and forth, before he snapped his fingers.
-The iron bands started to magically extract themselves, until they only wrapped around Adrex' wrist, which they tied them self together in front of him, his palms very close together.
+The iron bands started to magically detract themselves, until they only wrapped around Adrex' wrist, where they tied themselves together in front of him, his palms very close together.
 
 "You are coming with us, mr. Scalenduur" Percival said, his back already turned to him, and heading for the only door in the room.
 
@@ -391,22 +391,22 @@ He turned his gaze to the Lady of Whitestone, who gave him a stern look, and a n
 *I am coming with you, apparently*, he thought to himself.
 His body was still hurting from both the fight and the interrogation, but he would manage.
 
-As he left out through the door, he started wondering if this was better, than wondering the ruins of Draconia and constantly being chased by enemies trying to kill him with unknown motives.
+As he left out through the door, he started wondering if this was better than wondering the ruins of Draconia, and constantly being chased by enemies trying to kill him with unknown motives.
 Right now he was caught, but they hadn't killed him, which had to be an better somehow, but he wasn't sure.
 He wasn't exactly free to do anything.
 
 Leading him up through several flights of stairs, he caught a glimpse out of a window to a large lake way below the castle he was being held in.
 *What a view*, he thought to himself, as the half-elf behind him nudged him onwards.
 
-He arrived in an office with a large desk filled with papers, scrolls, and books piled on- and next to each other.
+He arrived in an office with a large desk filled with papers, scrolls, and books piled on, and next, to each other.
 The fireplace behind it was lit, and gave a cozy feel to the room, as he saw Vesper drop down into a couch large enough for three people facing the door, rather than the desk.
 Percival sat down behind the desk as Adrex entered, gesturing to the couch for him to take a seat, though it was more of a formality, based on his facial expression.
 
-Adrex hesitated again for a second, which resulted in a tip of a bow poking him into the room, as the half-elf had no time to wait for Adrex to enter from the doorway.
+Adrex hesitated again for a second in the doorway, which resulted in a tip of a bow poking him into the room, as the half-elf had no time to wait for Adrex to enter.
 She closed the door to the room, as Adrex stood a bit confused to why he was there.
 Even though the gesture to sit down was nice, there was a small problem - Adrex had a tail, and he couldn't just curl it up like Artimis could which was why there always was a stool for him... well, almost always.
-Glancing around the room for one, he finally saw huge board on the wall next to the door.
-Parchment hang all around with colored linen threads connecting the nails that kept the parchment up.
+Glancing around the room for one, he finally saw a huge board on the wall next to the door.
+Parchment hung all around with colored linen threads connecting the nails that kept the parchment up.
 He took a step closer to inspect it, with his mouth hanging slightly open, as he recognized a sketch of himself... in the middle of it all.
 
 *This is not a safe room to be in*, he thought to himself, as he started looking around at the connections.
@@ -414,10 +414,10 @@ Right next to him was a parchment with "Guns", leading to another piece saying j
 Adrex assumed this must be the Lord of Whitestone.
 Another piece from the "Guns" said "Black powder", leading to a piece saying "Firework", leading to "Hupperdook", and back to Adrex.
 From "Guns" was a connection to the word "Orthax" - Adrex thought he might have heard that mentioned earlier in the dungeon, which connected to both "Me" and "Adrex".
-Then there were connections between "Krynn empire" to "gun", to "Adrex", to Hupperdook", connecting to other names Adrex hadn't heard of before.
+Then there were connections between "Krynn empire" to "Guns", to "Adrex", to "Hupperdook", connecting to other names Adrex hadn't heard of before.
 
 Percival interrupted Adrex' study:
-"Yes, that must seem like a huge conspiracy to you."
+"Yes, that must seem like a huge conspiracy towards you."
 He halted for a second before he added a bit quieter: 
 "... which it technically is..."
 
@@ -436,7 +436,7 @@ Back then we did everything that the world required of us, because someone had t
 We took out evil entities that had occupied other peoples residents on several occasions, rescued important members of high councils, freed Tal'Dorei of The Chroma Conclave which I'm sure you know about-" said more fatter-of-fact.
 And Adrex sure had - that was the entire reason for his family being in Hupperdook, and all their xenophobic habits.
 
-"We did get some time off for our self at some point after that, but you are never really 'off duty' when you first save the continent ones.
+"We did get some time for ourself at some point after that, but you are never really 'off duty' when you first save the continent ones.
 I spend a good half a year trying to locate the whereabouts of an old enemy, who had stolen my designs, and started distributing it to her followers.
 And when I finally found her, she had already made plans of selling it to the highest bidder" <!-- Verify this -->
 
@@ -458,12 +458,13 @@ He reached the board, and started touching a few of the parchment pieces.
 "Do fill me in, though I think I know the gist of most of these" he started, before he added "-please".
 
 It couldn't hurt, could it?
-He was at the Lord of Whitestone mercy anyway, and if he could slay dragons, he had absolutely no problem slaying a cuffed dragonborn.
+He was at the Lord of Whitestone's mercy anyway, and if he could slay dragons, he had absolutely no problem slaying a cuffed dragonborn.
 Adrex might as well...
 
+Percival continued, seeing no objection from Adrex:
 "I first found out something was amiss when I visited my supplier of black powder, who lives in Hupperdook" he started, pointing to piece reading 'Rocket of Sparkles and Glitter', which Adrex first now recognized - the twins' store.
 "The two granddaughters of the dear Victor had come up with a new way to send up rockets - they had made pipes that shot them up.
-It didn't take more than a smile and a kind compliment before they told me a local tinker had come up with it, though they wouldn't tell who.
+It didn't take more than a smile and a kind compliment, before they told me a local tinker had come up with it, though they wouldn't tell who.
 Didn't take long to find the closet tinker shop, which had way too many clocks and gadgets lying around, and the..." he skimped around the board "... Tinkertop, I think, was kind enough to tell me, that he didn't work with powder."
 A smile on his right side of his face showed.
 "But he told me you did some work with it, mr. Scalenduur."
@@ -486,7 +487,7 @@ Whether or not it had been Vox Machina's intentions, it had certainly had the ef
 He made another short pause before injecting: "-with the demogod and all."
 
 "Yes, the rise of Vecna" Percival said a bit grim.
-"I know this is a far shot, but do you know of a red scaled dragonborn called Arkon the Vile?"
+"I know this is a far shot, but do you know of a red-scaled dragonborn called Arkhan the Cruel?"
 
 Adrex had never heard of him, and just shook his head.
 An 'oh well' expression showed briefly on the human's face. 
