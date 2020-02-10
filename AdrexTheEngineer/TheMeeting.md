@@ -512,17 +512,58 @@ Percival turned back to his desk, as he reached for something at his waist.
 "A cross in the top-right corner means they are dead" he said calmly, sending an intense shimmer down Adrex' spine, before he continued:
 "And half of that - one line - means I have captured them."
 
-He had reached the opposite site of his desk, as his own gun again pointed towards Adrex.
-"I read your contract, and the notes you made about encrypting it, but when I tell you that it will not get you out of it, I might as well tell you what you will do when you find out."
+He had reached the opposite site of his desk, as the lord's gun again pointed towards Adrex.
+"I read your contract, and the notes you made about encrypting it, but when I tell you that it will still not get you out of it, I might as well tell you what you will do when you find out."
 His voice had become cold and grim yet again.
 
 Adrex was fighting back an urge to unleash whatever venomous gas he could, but now it would also cost the life of Yurgunn.
+Was she here?
+Was she unharmed?
 
-<!-- Where is she. Doesn't matter, what does is you will find out it didn't work, and give them all they want. Now you also have to destroy it. -->
+"You look at me as threatening as you want, dragonborn, but that will not change the outcome.
+And before you ask - no, she has not been harmed" he said rather convincing, but at that moment Vesper turned her head to look away, which was plenty to tell that was not the case. 
+Adrex looked towards her, Percival followed Adrex' eyes to his daughter, before he sighted and followed:
+"- a lot, but she is fine.
+We just had some questions we needed answer to".
+Vesper tried to vet her lips, but it was way too obvious it was to cover another expression.
 
+Adrex' eyes flew back to human:
+"You have healing powers in your arsenal, if I am not mistaken?"
 
+A smile flashed on the Lord of Whitestone' face, and a small head tilt recognizing why the question was asked.
+"Yes, it's a very efficient way to torture you victims, if I should say so myself." 
+His smirk went away again as he continued:
+"So with the cards on the table, I might as well tell you what is going to happen, mr. Scalenduur.
+You are going to your friends in the Xhorhasian Empire, and you are going to destroy that scroll before they find out how to read what's inside it.
+Because your contract is not fulfilled before you've actually given them everything you promised - without encryption.
+And you will be going alone, though we will certainly follow your every move.
+And when that is done, your master will be set free, just like you will be free from us."
 
-<!-- and in less than a day they know it is unreadable.
-They will no doubt try to contact mr. Scalendurr-" he waved his hand in Adrex' generel direction
-"- and if they find out he is long gone, they will do everything in their power to track him down.
-And I doubt even Gilmore will be able to shield us from them." -->
+Bound on his hands, with his master's life on the line as well, Adrex didn't have much of a choice.
+He was cornered for options, and he had as good as nothing to barging with.
+All they wanted was for the scroll to be destroyed before the content was decrypted.
+And Adrex didn't want the content in their hands either.
+Xhorhas would be military <!--Is this the right word?--> superior if they made guns, and would enslave everyone Adrex cared about;
+His family, the twins... the Tinkertops - wait, didn't he like anyone else?
+Most of Hupperdook had been assholes to him and his family for almost 20 years, not respecting them just one bit.
+How much was he actually loosing... compared to these people.
+
+A grin could be seen emerging on Adrex' face, as his eyes narrowed as he looked to the Lord of Whitestone.
+"My master would be free, you say?" Adrex' asked to begin with.
+
+The human's face was unchanged but for a nod.
+He must have known Adrex had come up with something.
+
+"Now, that is a good thing. 
+Her family will be happy to hear that", as he took a small step to the side, letting the board be seen more freely.
+Percival's sight fell to the one spot Adrex had hoped, and as it searched around the one note, Adrex continued explaining:
+"Oh, no family to be seen?
+The closest thing she has is me - her master died a few years ago."
+
+<!-- Barging about his family is doomed anyway -->
+
+<!-- How will I get away? -->
+<!-- I could defect, leaving you with the same problem, just way more eminent -->
+<!-- Then I need a bit done before I go in to them -->
+
+<!-- Not our problem -->
