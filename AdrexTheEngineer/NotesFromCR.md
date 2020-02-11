@@ -422,3 +422,13 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 ~~[0:00:00](&t=0h00m00s)~~
 
 
+## Episode 92
+
+[01:04:x](&t=1h04m00s) - Name dropping of hags
+
+
+## Episode 94
+
+[2:56:30](https://www.youtube.com/watch?v=Arx8bX4E_Cw&t=2h56m30s) - Young drow girl with pinky hair tips - Vedahla - is hired as maid.
+
+[3:08:08](https://www.youtube.com/watch?v=Arx8bX4E_Cw&t=3h08m08s) - Vedahla is introduced to the party.
