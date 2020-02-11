@@ -548,7 +548,7 @@ His family, the twins... the Tinkertops - wait, didn't he like anyone else?
 Most of Hupperdook had been assholes to him and his family for almost 20 years, not respecting them just one bit.
 How much was he actually loosing... compared to these people.
 
-A grin could be seen emerging on Adrex' face, as his eyes narrowed as he looked to the Lord of Whitestone.
+A grin could be seen emerging on Adrex' face, as his eyes narrowed as he looked at the Lord of Whitestone.
 "My master would be free, you say?" Adrex' asked to begin with.
 
 The human's face was unchanged but for a nod.
@@ -556,14 +556,45 @@ He must have known Adrex had come up with something.
 
 "Now, that is a good thing. 
 Her family will be happy to hear that", as he took a small step to the side, letting the board be seen more freely.
-Percival's sight fell to the one spot Adrex had hoped, and as it searched around the one note, Adrex continued explaining:
+Percival's sight fell to the one spot Adrex had hoped, and as it searched around for the one note, Adrex continued explaining:
 "Oh, no family to be seen?
-The closest thing she has is me - her master died a few years ago."
+The closest thing she has is me - her master died a few years ago, and her *real* family doesn't want her."
 
-<!-- Barging about his family is doomed anyway -->
+This would almost be comical, if it wasn't for the prices he threw around, but he continued:
+"My family is on the board, I see, but there are no lines or crosses on them - hard to find, I take?"
+He took a small, slow step towards the desk.
+"My uncle is a bit picky with safety - both physical and arcane-wise, so I doubt you ever will."
 
-<!-- How will I get away? -->
-<!-- I could defect, leaving you with the same problem, just way more eminent -->
-<!-- Then I need a bit done before I go in to them -->
+Adrex turned to the board again.
+"Who else can you threaten me with - lets see... Ah, here's a good one" he said, as the index finger of his right cuffed hand poked at 'Rocket of Sparkles and Glitter'.
+He turned to look at the Lady of Whitestone, as he walked in a small bow around her.
+"Some of the kindest individuals in all of Hupperdook, I would say. 
+These two humans are indeed valued by me - one is smart and cunning, while the other is kind and pretty."
+He was right behind the half-elf, who stood with an hand resting on the handle of what most likely was a dagger.
 
-<!-- Not our problem -->
+"And although not the same race as I, it should most definitely not prevent me from loving them, should it now?"
+His gaze fell on Vesper, who sat in the couch, who apparently was not quite sure what face to put on, as he started walking in a bow around it.
+
+"It would be a lovely pressure point, if you wasn't pressing yourself almost equally so, threatening those who supply your valued black powder." 
+He turned his gaze to the board, although it was most for effect.
+He didn't need to see the rest.
+
+"So what else can you threaten me with, let's s- oh no - there are no more lines from me", he ended faking obvious shock no one would believe, as he moved towards the desk.
+"This means, Lord of Whitestone, that you currently hold two pieces over me to move me with; one is my master who <!-- whom? --> nobody would know died, and my own life."
+
+Percival was still standing behind his desk, gun raised pointed towards Adrex, and not looking very pleased with Adrex' sudden morbid turn.
+Adrex came up to the desk as the two had their eyes locked.
+"But my master told me I should proactive, and make deals that would benefit us."
+He put his hands on the desk to support him, as he leaned forward.
+"If the Xhorhasian Empire actually decrypts the schematics they now have, there will not be peace before everyone bows to them.
+So I will go, and I will destroy that scroll, but I need my own contract fulfilled in the process."
+
+"You can only do so by delivering the keystone" Percival growled back.
+
+"Indeed, so I will be needing that book" Adrex replied with a cunning smirk.
+"And it will come with a nice wrapping with a ribbon.
+And since the contract was so badly honored, I better bring another gift as well, don't I?"
+
+Percival's one eyebrow went up, as he started realizing where Adrex was going with this.
+
+"I need to make them a nice candle."
