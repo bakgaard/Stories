@@ -465,7 +465,7 @@ Percival continued, seeing no objection from Adrex:
 "I first found out something was amiss when I visited my supplier of black powder, who lives in Hupperdook" he started, pointing to piece reading 'Rocket of Sparkles and Glitter', which Adrex first now recognized - the twins' store.
 "The two granddaughters of the dear Victor had come up with a new way to send up rockets - they had made pipes that shot them up.
 It didn't take more than a smile and a kind compliment, before they told me a local tinker had come up with it, though they wouldn't tell who.
-Didn't take long to find the closet tinker shop, which had way too many clocks and gadgets lying around, and the..." he skimped around the board "... Tinkertop, I think, was kind enough to tell me, that he didn't work with powder."
+Didn't take long to find the closet tinker shop, which had way too many clocks and gadgets lying around, and mr..." he skimped around the board "... Tinkertop, I think it was, was kind enough to tell me, that he didn't work with powder."
 A smile on his right side of his face showed.
 "But he told me you did some work with it, mr. Scalenduur."
 
@@ -474,17 +474,17 @@ He was the one, who had warned him about Vox Machina in the first place, and who
 
 "Did he recognize you, when you met him?" Adrex asked a bit quick and worried.
 
-The lord shot up an eyebrow, though he did reply: 
+The lord shot up an eyebrow: 
 "No, I doubt neither of us had ever seen each other before.
 Any chance he should know me?"
 
 Adrex had turned back to the board.
-Cleff had been the one telling him about how Vox Machina had tracked down the thief, and left only tales about it.
-Whether or not it had been Vox Machina's intentions, it had certainly had the effect they had hoped for.
+Cleff had been the one telling him about how Vox Machina had tracked down the thief of Percival's gun, and left only tales about it.
+Whether or not it had been Vox Machina's intentions, it had certainly had a frightful effect.
 
 "He did mention your group at some point" Adrex started.
 "It was just the story of you, but it seemed rather... unbelievable."
-He made another short pause before injecting: "-with the demogod and all."
+He made another short pause before injecting: "-with the demigod and all."
 
 "Yes, the rise of Vecna" Percival said a bit grim.
 "I know this is a far shot, but do you know of a red-scaled dragonborn called Arkhan the Cruel?"
@@ -492,14 +492,14 @@ He made another short pause before injecting: "-with the demogod and all."
 Adrex had never heard of him, and just shook his head.
 An 'oh well' expression showed briefly on the human's face. 
 "Didn't expect you to, but you do show up where I don't want you to.
-Like you showed up outside the Xhorhasian Empire's capital with a scroll specifying how to take over the world by forces not meant to be wielded by the world".
+Like you showed up outside the Xhorhasian Empire's capital with a scroll specifying how to take over the world by forces not meant to be wielded by anyone".
 
 "It wasn't like I had a choice" Adrex countered.
 "I had signed a - what I found out later - magical contract, so I have to comply with it.
 I even found a loophole out of-", but the Lord of Whitestone cut him off.
 
 "I care little about whatever loophole you think you found" in a dead serious tone.
-"You, mr. Scalenduur, care about very few things in this world, and since you *think* you found a loophole, I can already tell you, that it will not cut it."
+"You, mr. Scalenduur, care about very few things in this world, but since you *think* you found a loophole, I can already tell you, that it will not cut it."
 From his desk he grasped a piece of paper, and held it so Adrex could see it; it was the contract signed by Adrex.
 
 *How is this possible?*
@@ -521,8 +521,9 @@ Was she here?
 Was she unharmed?
 
 "You look at me as threatening as you want, dragonborn, but that will not change the outcome.
-And before you ask - no, she has not been harmed" he said rather convincing, but at that moment Vesper turned her head to look away, which was plenty to tell that was not the case. 
-Adrex looked towards her, Percival followed Adrex' eyes to his daughter, before he sighted and followed:
+And before you ask - no, she has not been harmed" he said rather convincing.
+At that moment, however, Vesper turned her head to look away, which was plenty to tell that was not the case. 
+Adrex looked towards her, Percival followed Adrex' eyes to his daughter, before he sighed and followed:
 "- a lot, but she is fine.
 We just had some questions we needed answer to".
 Vesper tried to vet her lips, but it was way too obvious it was to cover another expression.
@@ -531,7 +532,7 @@ Adrex' eyes flew back to human:
 "You have healing powers in your arsenal, if I am not mistaken?"
 
 A smile flashed on the Lord of Whitestone' face, and a small head tilt recognizing why the question was asked.
-"Yes, it's a very efficient way to torture you victims, if I should say so myself." 
+"Yes, it's a very efficient way to torture you prisoners, if I should say so myself." 
 His smirk went away again as he continued:
 "So with the cards on the table, I might as well tell you what is going to happen, mr. Scalenduur.
 You are going to your friends in the Xhorhasian Empire, and you are going to destroy that scroll before they find out how to read what's inside it.
@@ -544,11 +545,11 @@ He was cornered for options, and he had as good as nothing to barging with.
 All they wanted was for the scroll to be destroyed before the content was decrypted.
 And Adrex didn't want the content in their hands either.
 Xhorhas would be military <!--Is this the right word?--> superior if they made guns, and would enslave everyone Adrex cared about;
-His family, the twins... the Tinkertops - wait, didn't he like anyone else?
-Most of Hupperdook had been assholes to him and his family for almost 20 years, not respecting them just one bit.
-How much was he actually loosing... compared to these people.
+His family, the twins... the Tinkertops... wait, didn't he like anyone else?
+Most of Hupperdook had been horrible to him and his family for almost 20 years, not respecting them as even equals.
+How much was he actually loosing... compared to the people in this room?
 
-A grin could be seen emerging on Adrex' face, as his eyes narrowed as he looked at the Lord of Whitestone.
+A grin could be seen emerging on Adrex' face, as his eyes narrowed at the Lord of Whitestone.
 "My master would be free, you say?" Adrex' asked to begin with.
 
 The human's face was unchanged but for a nod.
@@ -561,9 +562,8 @@ Percival's sight fell to the one spot Adrex had hoped, and as it searched around
 The closest thing she has is me - her master died a few years ago, and her *real* family doesn't want her."
 
 This would almost be comical, if it wasn't for the prices he threw around, but he continued:
-"My family is on the board, I see, but there are no lines or crosses on them - hard to find, I take?"
-He took a small, slow step towards the desk.
-"My uncle is a bit picky with safety - both physical and arcane-wise, so I doubt you ever will."
+"My family is on the board, I see, but there are no lines or crosses on them - hard to find, I take?
+My uncle is a bit picky with safety - both physical and arcane-wise, so I doubt you ever will."
 
 Adrex turned to the board again.
 "Who else can you threaten me with - lets see... Ah, here's a good one" he said, as the index finger of his right cuffed hand poked at 'Rocket of Sparkles and Glitter'.
@@ -575,23 +575,23 @@ He was right behind the half-elf, who stood with an hand resting on the handle o
 "And although not the same race as I, it should most definitely not prevent me from loving them, should it now?"
 His gaze fell on Vesper, who sat in the couch, who apparently was not quite sure what face to put on, as he started walking in a bow around it.
 
-"It would be a lovely pressure point, if you wasn't pressing yourself almost equally so, threatening those who supply your valued black powder." 
+"It would be a lovely pressure point, if you wasn't pressing yourself almost equally so, threatening those who supply your valued black powder, as you just told me." 
 He turned his gaze to the board, although it was most for effect.
 He didn't need to see the rest.
 
-"So what else can you threaten me with, let's s- oh no - there are no more lines from me", he ended faking obvious shock no one would believe, as he moved towards the desk.
+"So what else can you threaten me with, let's s- oh no - there are no more lines from me", he said, faking obvious shock no one would believe, as he moved towards the desk.
 "This means, Lord of Whitestone, that you currently hold two pieces over me to move me with; one is my master who <!-- whom? --> nobody would know died, and my own life."
 
 Percival was still standing behind his desk, gun raised pointed towards Adrex, and not looking very pleased with Adrex' sudden morbid turn.
 Adrex came up to the desk as the two had their eyes locked.
-"But my master told me I should proactive, and make deals that would benefit us."
-He put his hands on the desk to support him, as he leaned forward.
+"But my master told me I should be proactive, and make deals that would benefit us."
+He put his hands on the desk to support him, as he leaned forward towards the gun.
 "If the Xhorhasian Empire actually decrypts the schematics they now have, there will not be peace before everyone bows to them.
-So I will go, and I will destroy that scroll, but I need my own contract fulfilled in the process."
+So I *will* go, and I *will* destroy that scroll, but I need my own contract fulfilled in the process."
 
 "You can only do so by delivering the keystone" Percival growled back.
 
-"Indeed, so I will be needing that book" Adrex replied with a cunning smirk.
+"Indeed, so I'll be needing that book" Adrex replied with a cunning smirk.
 "And it will come with a nice wrapping with a ribbon.
 And since the contract was so badly honored, I better bring another gift as well, don't I?"
 
