@@ -412,16 +412,6 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 1:46:25 - Syrin Green Forrest - largest forrest within the Empire.
 
 
-## Episode 90
-
-~~[0:00:00](https://www.youtube.com/watch?v=wdHE0avQRVw&t=0h00m00s)~~
-
-
-## Episode 91
-
-~~[0:00:00](&t=0h00m00s)~~
-
-
 ## Episode 92
 
 [01:04:x](&t=1h04m00s) - Name dropping of hags
@@ -432,3 +422,10 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 [2:56:30](https://www.youtube.com/watch?v=Arx8bX4E_Cw&t=2h56m30s) - Young drow girl with pinky hair tips - Vedahla - is hired as maid.
 
 [3:08:08](https://www.youtube.com/watch?v=Arx8bX4E_Cw&t=3h08m08s) - Vedahla is introduced to the party.
+
+
+## Episode 96
+
+[1:45:10](https://www.youtube.com/watch?v=Tmz4TS3Div8&t=1h45m10s) - Mid-twenty dragonborn, travelser's clothing
+
+[2:30:40](https://www.youtube.com/watch?v=Tmz4TS3Div8&t=1h45m10s) - Two dragonborns with tails, the rest without tail
