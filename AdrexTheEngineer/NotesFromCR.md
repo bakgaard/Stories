@@ -381,18 +381,13 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 
 [2:05:14](https://www.youtube.com/watch?v=J1Efz6E3_-0&t=2h05m14s) - The starsmen are from Kamorda, interest in having a home.based museum, have nobles coming in to show off, and very rich.
 
-## Mini Prime Time with Will Fiddell
-
-[0:09:42](https://www.youtube.com/watch?v=uO3Qt8XIAws&t=0h09m42s) - Molly worthship the Moonweaver
-
-2:29:45 - Yasha tells Obaan found her before. She was bound to him, came across a shrine of the Storm Lord, and just woke up more 'her'.
-
-2:34:45 - Yasha and Mollymok found each other in the circus
-
 
 ## Mini Prime Time with Will Fiddell
 
 [0:09:42](https://www.youtube.com/watch?v=uO3Qt8XIAws&t=0h09m42s) - Molly worthship the Moonweaver
+
+
+## An episode
 
 2:29:45 - Yasha tells Obaan found her before. She was bound to him, came across a shrine of the Storm Lord, and just woke up more 'her'.
 
