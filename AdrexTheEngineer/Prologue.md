@@ -34,7 +34,7 @@ This narrowed the range of entities down to precisely one.
 And as he turned his head around, stomps from the massive creature was heard clear as drums in 60 yards distance, as its huge form started moving into sight - the wings flapped twice as a storm started to form beneath its white, scaly torso, and as the two front legs landed, it roared again with a ferocity which hinted absolutely no mercy would come to anyone who would stand in its path.
 
 He slammed the door shut, eyes wide open, and his mind tried to create an order of everything they now needed to do to survive.
-He swirled towards the two creatures he held most dear in this world, as the dreadful word left his mouth:
+He swirled towards the two creatures he held most dear in this world, as the dreadful words left his mouth:
 
 "It's the white dragon - we have to leave."
 
@@ -52,7 +52,7 @@ He forced his way through it all, towards the painting on the wall, which illust
 He paused for a split second, as he realized this would be the last time he ever saw them, before he tore it to the ground, revealing a safe in the wall.
 He spun the wheel back and forth as the combination clicked, unlocking the door to the one thing he had inherited from his parents most precious wrapped in a leather pouch.
 
-A sound of arcane magic and a slight weight change on the wooden floors from the hallway suddenly announces a visitor he had not dared hope for.
+A sound of arcane magic and a slight weight change on the wooden floors from the hallway suddenly announced a visitor he had not dared hope for.
 
 "Donaar - is that you?" he yelled, as he eyed his chisel on the bench.
 
@@ -78,9 +78,9 @@ So the High Council had prepared their army, and gone through procedures for def
 Nadraa and his brother, however, had made emergency plans, should the worst happen - and it had.
 
 "Sora!?" Nadraa called to his soulmate.
-"Are yo-" but he halted the rest of his line, as she came rushing down the stairs with Ildrex in her arm, and a bag over her shoulder.
+"Are yo-" but he halted the rest of his line, as she came rushing down the stairs with Ildrex in her arms, and a bag over her shoulder.
 
-"It's not good for the egg to be carried like this" she began worried, before yet another building nearby collapse, sending large chunks of walls flying at their own.
+"It's not good for the egg to be carried like this" she began worried, before yet another building nearby collapsed, sending large chunks of walls flying at their own.
 They all hugged each other in a small circle, as the dust started to fall from the roof.
 
 "Donaar, dear - get us out of here!" she pleaded.
