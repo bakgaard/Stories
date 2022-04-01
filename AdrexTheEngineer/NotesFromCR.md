@@ -424,3 +424,8 @@ It was sold to The Starsmen (winemen with interest for intequitice for decades).
 [1:45:10](https://www.youtube.com/watch?v=Tmz4TS3Div8&t=1h45m10s) - Mid-twenty dragonborn, travelser's clothing
 
 [2:30:40](https://www.youtube.com/watch?v=Tmz4TS3Div8&t=1h45m10s) - Two dragonborns with tails, the rest without tail
+
+# Campaign 3
+## Episode 10
+
+[1:42:10](https://www.youtube.com/watch?v=Dvk70G5meeE&t=6130s) - Guy has a engineered home.

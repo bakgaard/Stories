@@ -28,13 +28,17 @@ https://sciencenotes.org/vertical-motion-example-problem-coin-toss-equations-mot
 Splat effect: 
 https://www.angio.net/personal/climb/speed.html
 
-=>
-time = sqrt( 2 * height / 9.8)  <=>
-time^2 = 2 * height / 9.8  <=>
-time^2 = height / 4.9  => height / 16 feet
 
-height = (start speed m/s^2)/(19.6 m/s^2)
-19.6 m = 64.3 ft
+
+<img src="https://render.githubusercontent.com/render/math?math=time = \sqrt{\frac{2 \times height}{9.8}}  <=>">
+<br/>
+<img src="https://render.githubusercontent.com/render/math?math=time^2 = \frac{2 \times height}{9.8}  <=>">
+<br/>
+<img src="https://render.githubusercontent.com/render/math?math=time^2 =\frac{height}{4.9}  => \frac{height}{16 feet} <=>">
+<br/>
+<img src="https://render.githubusercontent.com/render/math?math=height = \frac{start speed m/s^2}{19.6 m/s^2}">
+<br/>
+<img src="https://render.githubusercontent.com/render/math?math=19.6 m = 64.3 ft">
 
 https://www.wikiwand.com/en/Gunpowder#/Combustion_characteristics
 Releases 3 MegaJoule/kg

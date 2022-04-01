@@ -43,9 +43,9 @@ But besides the scorch marks, all the action was gone as far as Adrex could see.
 A voice from one of the patrons in the nearby inn reached Adrex' ear:
 "Was that your doing, dragon?" 
 
-As Adrex looked in the direction, a stubby bearded gnome stood on the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
+As Adrex looked in the direction, a salt-and-pepper bearded dwarf stood on the doorway with a mug spilling beer on his own shoe, a facial expression of both disgust and hatred, and a few of his buddies behind him.
 
-Adrex ignored the question from the gnome, continuing towards his home.
+Adrex ignored the question from the dwarf, continuing towards his home.
 
 The voice went on, now louder than before:
 "Don't think for a sec'n, that we don't all know it was you, you overgrown iguana!
@@ -53,9 +53,9 @@ But keep walking, would you!
 We don't want you here!"
 
 Another of the tavern-goers chipped in: 
-"Yeah, you tell him, Fitz!"
+"Yeah, you tell him, Blemmy!"
 
-*I hereby relieve you of your right to existence, you racist ankle biter*, Adrex thought to himself, as the shouting became less and less audible.
+*I hereby relieve you of your right to existence, you racist mountain fae*, Adrex thought to himself, as the shouting became less and less audible.
 Now in a foul mood, Adrex starting walking faster.
 
 *Why can't they just keep their face shut?* he thought as he kicked the nearby pebble.
