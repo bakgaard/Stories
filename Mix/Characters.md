@@ -67,3 +67,34 @@ So if you run a business with contraband, you better have coins ready if he come
 
 His guards of the city respects him, even though they know he doesn't run the show as one might think he would.
 He goes on patrols himself, and if there are busts to be made, you can be sure he is part of it - how else should he get his bribes?
+
+
+## Maw Schackles
+
+Gnomemale, 70ish, with black slick hair, piecing eyes, and a calculated smile to reflect his mind.
+Maw runs one half of the underground activities, competing against an unknown amount of leaders who all seem to have the same mind set, but each only have small fractions of the underworld..
+
+Maw is by all means a commoner in adventerer skills - he doesn't know magic, he can't use a knife but to cut cheese, and he is not stealthy or athletic.
+But he can convince, bribe and blackmail people like no one else.
+His men digs up dirt,plant fake evidence for Captain Mohrdiax to find (which he is also blackmailing), and hinders business of people without other pressure points.
+He is not too good to not do something to get his way, but he rarely have to kill - he needs people, because they make the wheels spin.
+
+Maw does have kids (7 and 9)and a wife.
+Saying he loves them is a stretch, but he values them greatly.
+Threatening them would be a bad idea, and acting on it makes you disappear.
+
+Small note: his wife is a powerful witch, and she can handle herself, but she hides it from everyone but Maw.
+
+# The syndicate
+
+7 different leaders, each running their own part of the underworld for Zulquienn, the mind controlling Aboleth.
+They will kill to get their will, though "usual means" are attempted first.
+
+## Zulquinn
+
+Aboleth, 1400 years old, recently had its cave reopened after being trapped, and took control over the ones who did it.
+Hates every deity-worthshipping individual, and as it saw that most big organizations are lead in the name of dieties, it set itself on a quest to destroy them through their own means, attempting to take what it can by force, and crumble the world of men and elves.
+
+Currently 7 individuals of great use has been brought before it, and its minions now control half of the underworld.
+
+Its current enemy in getting anywhere is not the forces of good, but the one who holds the other half - Maw Schackles.

@@ -15,7 +15,7 @@ Both he and the old divination wizard felt a warmth, as the blessing wrapped aro
 
 “We need a plan” Natalis said, as he kept close to the dragonborn’s left side.
 
-It was just past 8 am, and the sun was up over the walls of Chambéry, as the two stepped outside into the light. The people of the capital had started their day hours ago, and the market was humming in its usual tones, as merchant shouted their tradeables, towncriers tried to inform the citizen of news, and ordinary folks trading what they needed.
+It was just past 8 am, and the sun was up over the walls of Chambéry, as the two stepped outside into the light. The people of the capital had started their day hours ago, and the market was humming in its usual tones, as merchant shouted their tradeables, town criers tried to inform the citizen of news, and ordinary folks trading what they needed.
 
 “A plan, you say” Calu’ asked, as they made their way towards the docks - their destination for today.
 
@@ -36,7 +36,7 @@ It was as honest an answer as the wizard had heard any of his companions give. T
 
 A quick nod let him know to continue.
 
-“If we find the reason for them to be there…” he continued without finishing, letting the seed plant themself.
+“If we find the reason for them to be there…” he continued without finishing, letting the seed plant itself.
 
 “...we get rid of the addicts” Calu’ finished, as he snapped his fingers, pointing at Natalis. “That sounds like a solid plan”.
 
@@ -53,7 +53,7 @@ The wizard gave a broad smile.
 “Yes, exactly. Now - addiction is a horrible thing, I’ve read.” He clapped his hand to seal the statement. There was no reason for that to be something to argue about.
 “An addict is only an addict, because they are addicted to a substance of some sort. That means, that the addict must get it from somewhere, correct?”
 
-The eyes of the white tower had started to look up, not to get distracted by anything, as they stood in the middle of the streat.
+The eyes of the white tower had started to look up, not to get distracted by anything, as they stood in the middle of the street.
 “Aha” he said after a moment of processing it.
 
 “And to get the substance, the addict must trade with something, correct?” the wizard continued with a soft voice.
@@ -69,7 +69,7 @@ The face of the dragonborn didn’t change, but the eyes narrowed a bit, as the 
 
 The old man opened his hands as a salutation, before he finished Calu’s line: “... they won’t be at the docks. And that is what the contract specifies, correct?”
 
-Caluturim Drulkonshtargid straighten his back. He got it now - take out the drug dealers, and the addicts went away by themself. 
+Caluturim Drulkonshtargid straighten his back. He got it now - take out the drug dealers, and the addicts went away by themselves. 
 “Wasn’t that what I said to begin with?” he asked.
 
 “No, you were saying you wanted to get rid of the reason the addicts were here, which is the substances.” Natalis Levot had a smirk on his face. “We are getting rid of what keeps the addicts here” he said, as they headed toward the docks.
@@ -139,7 +139,7 @@ Natalis held his index finger up, as a flame blazed with a minor furry.
 “And fire…” he finished, before he looked back at the door.
 “But allow me to use the power of the mind to get this opened, my boy”. 
 
-Calu’ gestured with his shield towards the door, as Natalis walked infront it.
+Calu’ gestured with his shield towards the door, as Natalis walked in front it.
 He held his knuckles up to the door, and knocked in the pattern of ‘Cham-béry’, before he awaited the response from inside.
 
 It was a hoarse voice, that snapped back: “WHAT!?”
@@ -172,13 +172,14 @@ The morningstar started to rock back and forth as a pendulum, before the elf fin
 A growl from the dragonborn cut the elf off: “You hurt the people of Chambéry!” He took a step forward, and stepped on the elf’s broken leg with most of his weight. The elf wailed as the bone started to slowly crack.
 
 The wizard bent down next to elf. “Protected by who? Who do you work for?”
+
 The paladin apparently didn’t care. “Why does that matter? This bastard is who the contract said we had to get rid of!”
 
 “We need him to tell us, Calu’. Another might take his place!”
 
 The elf was fading, it seemed - heavily heaving for air. 
 
-“ANSWER HIM” Calu’ shouted at the drug dealer, as he hammered the end of the morningstar into the stone next the elf’s head.
+“ANSWER HIM!” Calu’ shouted at the drug dealer, as he hammered the end of the morningstar into the stone next the elf’s head.
 
 “Maison Wrona” he gasped, as blood filled his mouth, before he laid still.
 
